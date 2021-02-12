@@ -1,4 +1,4 @@
-# @buddenbrock/typo3-ce-icons
+# @buddenbrock/typo3-icons
 
 SVG icons for the TYPO3 CMS backend content elements
 
