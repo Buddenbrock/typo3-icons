@@ -160,12 +160,12 @@ Icon | Description | &nbsp;
 ![ADA][ada-ce-text-1] | Text | [Download][ada-ce-text-1]
 ![ADA][ada-ce-text-2] | Text | [Download][ada-ce-text-2]
 
-[ada-ce-advertisement]: BUD.Icons/Customer/ADA/ce-advertisement.svg
-[ada-ce-image-1]: BUD.Icons/Customer/ADA/ce-image-1.svg
-[ada-ce-image-2]: BUD.Icons/Customer/ADA/ce-image-2.svg
-[ada-ce-slider]: BUD.Icons/Customer/ADA/ce-slider.svg
-[ada-ce-text-1]: BUD.Icons/Customer/ADA/ce-text-1.svg
-[ada-ce-text-2]: BUD.Icons/Customer/ADA/ce-text-2.svg
+[ada-ce-advertisement]: GB.Icons/ADA/ce-advertisement.svg
+[ada-ce-image-1]: GB.Icons/ADA/ce-image-1.svg
+[ada-ce-image-2]: GB.Icons/ADA/ce-image-2.svg
+[ada-ce-slider]: GB.Icons/ADA/ce-slider.svg
+[ada-ce-text-1]: GB.Icons/ADA/ce-text-1.svg
+[ada-ce-text-2]: GB.Icons/ADA/ce-text-2.svg
 
 ### AMD/FRES
 Icon | Description | &nbsp;
@@ -176,11 +176,11 @@ Icon | Description | &nbsp;
 ![AMD][amd-ce-tile-text-media] | Tile text media | [Download][amd-ce-tile-text-media]
 ![AMD][amd-ce-time-beam] | Time beam | [Download][amd-ce-time-beam]
 
-[amd-ce-map]: BUD.Icons/Customer/AMD/ce-map.svg
-[amd-ce-tile-interest]: BUD.Icons/Customer/AMD/ce-tile-interest.svg
-[amd-ce-tile-newsletter]: BUD.Icons/Customer/AMD/ce-tile-newsletter.svg
-[amd-ce-tile-text-media]: BUD.Icons/Customer/AMD/ce-tile-text-media.svg
-[amd-ce-time-beam]: BUD.Icons/Customer/AMD/ce-time-beam.svg
+[amd-ce-map]: GB.Icons/AMD/ce-map.svg
+[amd-ce-tile-interest]: GB.Icons/AMD/ce-tile-interest.svg
+[amd-ce-tile-newsletter]: GB.Icons/AMD/ce-tile-newsletter.svg
+[amd-ce-tile-text-media]: GB.Icons/AMD/ce-tile-text-media.svg
+[amd-ce-time-beam]: GB.Icons/AMD/ce-time-beam.svg
 
 ### BRA
 Icon | Description | &nbsp;
@@ -195,15 +195,15 @@ Icon | Description | &nbsp;
 ![BRA][bra-ce-text-2] | Text | [Download][bra-ce-text-2]
 ![BRA][bra-ce-text-image] | Text image | [Download][bra-ce-text-image]
 
-[bra-ce-image]: BUD.Icons/Customer/BRA/ce-image.svg
-[bra-ce-list]: BUD.Icons/Customer/BRA/ce-list.svg
-[bra-ce-menu]: BUD.Icons/Customer/BRA/ce-menu.svg
-[bra-ce-product-links]: BUD.Icons/Customer/BRA/ce-product-links.svg
-[bra-ce-product-list]: BUD.Icons/Customer/BRA/ce-product-list.svg
-[bra-ce-product-table]: BUD.Icons/Customer/BRA/ce-product-table.svg
-[bra-ce-text-1]: BUD.Icons/Customer/BRA/ce-text-1.svg
-[bra-ce-text-2]: BUD.Icons/Customer/BRA/ce-text-2.svg
-[bra-ce-text-image]: BUD.Icons/Customer/BRA/ce-text-image.svg
+[bra-ce-image]: GB.Icons/BRA/ce-image.svg
+[bra-ce-list]: GB.Icons/BRA/ce-list.svg
+[bra-ce-menu]: GB.Icons/BRA/ce-menu.svg
+[bra-ce-product-links]: GB.Icons/BRA/ce-product-links.svg
+[bra-ce-product-list]: GB.Icons/BRA/ce-product-list.svg
+[bra-ce-product-table]: GB.Icons/BRA/ce-product-table.svg
+[bra-ce-text-1]: GB.Icons/BRA/ce-text-1.svg
+[bra-ce-text-2]: GB.Icons/BRA/ce-text-2.svg
+[bra-ce-text-image]: GB.Icons/BRA/ce-text-image.svg
 
 ### BRG
 Icon | Description | &nbsp;
@@ -211,8 +211,8 @@ Icon | Description | &nbsp;
 ![BRG][brg-ce-address] | Address element | [Download][brg-ce-address]
 ![BRG][brg-ce-slider] | Slider | [Download][brg-ce-slider]
 
-[brg-ce-address]: BUD.Icons/Customer/BRG/ce-address.svg
-[brg-ce-slider]: BUD.Icons/Customer/BRG/ce-slider.svg
+[brg-ce-address]: GB.Icons/BRG/ce-address.svg
+[brg-ce-slider]: GB.Icons/BRG/ce-slider.svg
 
 ### CJD
 Icon | Description | &nbsp;
@@ -220,8 +220,8 @@ Icon | Description | &nbsp;
 ![CJD][cjd-ce-countdown] | Countdown | [Download][cjd-ce-countdown]
 ![CJD][cjd-ce-donation-chart] | Donation chart | [Download][cjd-ce-donation-chart]
 
-[cjd-ce-countdown]: BUD.Icons/Customer/CJD/ce-countdown.svg
-[cjd-ce-donation-chart]: BUD.Icons/Customer/CJD/ce-donation-chart.svg
+[cjd-ce-countdown]: GB.Icons/CJD/ce-countdown.svg
+[cjd-ce-donation-chart]: GB.Icons/CJD/ce-donation-chart.svg
 
 ### CUR
 Icon | Description | &nbsp;
@@ -234,13 +234,13 @@ Icon | Description | &nbsp;
 ![CUR][cur-ce-text-list-1] | Text list | [Download][cur-ce-text-list-1]
 ![CUR][cur-ce-text-list-2] | Text list | [Download][cur-ce-text-list-2]
 
-[cur-ce-accordion]: BUD.Icons/Customer/CUR/ce-accordion.svg
-[cur-ce-image-list]: BUD.Icons/Customer/CUR/ce-image-list.svg
-[cur-ce-image-tiles-1]: BUD.Icons/Customer/CUR/ce-image-tiles-1.svg
-[cur-ce-image-tiles-2]: BUD.Icons/Customer/CUR/ce-image-tiles-2.svg
-[cur-ce-text-image]: BUD.Icons/Customer/CUR/ce-text-image.svg
-[cur-ce-text-list-1]: BUD.Icons/Customer/CUR/ce-text-list-1.svg
-[cur-ce-text-list-2]: BUD.Icons/Customer/CUR/ce-text-list-2.svg
+[cur-ce-accordion]: GB.Icons/CUR/ce-accordion.svg
+[cur-ce-image-list]: GB.Icons/CUR/ce-image-list.svg
+[cur-ce-image-tiles-1]: GB.Icons/CUR/ce-image-tiles-1.svg
+[cur-ce-image-tiles-2]: GB.Icons/CUR/ce-image-tiles-2.svg
+[cur-ce-text-image]: GB.Icons/CUR/ce-text-image.svg
+[cur-ce-text-list-1]: GB.Icons/CUR/ce-text-list-1.svg
+[cur-ce-text-list-2]: GB.Icons/CUR/ce-text-list-2.svg
 
 ### CVO
 Icon | Description | &nbsp;
@@ -248,8 +248,8 @@ Icon | Description | &nbsp;
 ![CVO][cvo-ce-text-image-1] | Text image | [Download][cvo-ce-text-image-1]
 ![CVO][cvo-ce-text-image-2] | Text image | [Download][cvo-ce-text-image-2]
 
-[cvo-ce-text-image-1]: BUD.Icons/Customer/CVO/ce-text-image-1.svg
-[cvo-ce-text-image-2]: BUD.Icons/Customer/CVO/ce-text-image-2.svg
+[cvo-ce-text-image-1]: GB.Icons/CVO/ce-text-image-1.svg
+[cvo-ce-text-image-2]: GB.Icons/CVO/ce-text-image-2.svg
 
 ### DBG
 Icon | Description | &nbsp;
@@ -265,16 +265,16 @@ Icon | Description | &nbsp;
 ![DBG][dbg-ce-text-image-1] | Text image | [Download][dbg-ce-text-image-1]
 ![DBG][dbg-ce-text-image-2] | Text image | [Download][dbg-ce-text-image-2]
 
-[dbg-ce-bible-teaser]: BUD.Icons/Customer/DBG/ce-bible-teaser.svg
-[dbg-ce-fundraising]: BUD.Icons/Customer/DBG/ce-fundraising.svg
-[dbg-ce-image]: BUD.Icons/Customer/DBG/ce-image.svg
-[dbg-ce-map]: BUD.Icons/Customer/DBG/ce-map.svg
-[dbg-ce-product-list]: BUD.Icons/Customer/DBG/ce-product-list.svg
-[dbg-ce-slider]: BUD.Icons/Customer/DBG/ce-slider.svg
-[dbg-ce-statistics]: BUD.Icons/Customer/DBG/ce-statistics.svg
-[dbg-ce-testimonial]: BUD.Icons/Customer/DBG/ce-testimonial.svg
-[dbg-ce-text-image-1]: BUD.Icons/Customer/DBG/ce-text-image-1.svg
-[dbg-ce-text-image-2]: BUD.Icons/Customer/DBG/ce-text-image-2.svg
+[dbg-ce-bible-teaser]: GB.Icons/DBG/ce-bible-teaser.svg
+[dbg-ce-fundraising]: GB.Icons/DBG/ce-fundraising.svg
+[dbg-ce-image]: GB.Icons/DBG/ce-image.svg
+[dbg-ce-map]: GB.Icons/DBG/ce-map.svg
+[dbg-ce-product-list]: GB.Icons/DBG/ce-product-list.svg
+[dbg-ce-slider]: GB.Icons/DBG/ce-slider.svg
+[dbg-ce-statistics]: GB.Icons/DBG/ce-statistics.svg
+[dbg-ce-testimonial]: GB.Icons/DBG/ce-testimonial.svg
+[dbg-ce-text-image-1]: GB.Icons/DBG/ce-text-image-1.svg
+[dbg-ce-text-image-2]: GB.Icons/DBG/ce-text-image-2.svg
 
 ### DTA
 Icon | Description | &nbsp;
@@ -283,9 +283,9 @@ Icon | Description | &nbsp;
 ![DTA][dta-ce-quadro-tiles] | Quadro tiles | [Download][dta-ce-quadro-tiles]
 ![DTA][dta-ce-triple-tiles] | Triple tiles | [Download][dta-ce-triple-tiles]
 
-[dta-ce-header-image]: BUD.Icons/Customer/DTA/ce-header-image.svg
-[dta-ce-quadro-tiles]: BUD.Icons/Customer/DTA/ce-quadro-tiles.svg
-[dta-ce-triple-tiles]: BUD.Icons/Customer/DTA/ce-triple-tiles.svg
+[dta-ce-header-image]: GB.Icons/DTA/ce-header-image.svg
+[dta-ce-quadro-tiles]: GB.Icons/DTA/ce-quadro-tiles.svg
+[dta-ce-triple-tiles]: GB.Icons/DTA/ce-triple-tiles.svg
 
 ### FFL
 Icon | Description | &nbsp;
@@ -299,14 +299,14 @@ Icon | Description | &nbsp;
 ![FFL][ffl-ce-text-image-1] | Text image | [Download][ffl-ce-text-image-1]
 ![FFL][ffl-ce-text-image-2] | Text image | [Download][ffl-ce-text-image-1]
 
-[ffl-ce-image]: BUD.Icons/Customer/FFL/ce-image.svg
-[ffl-ce-image-tiles]: BUD.Icons/Customer/FFL/ce-image-tiles.svg
-[ffl-ce-list]: BUD.Icons/Customer/FFL/ce-list.svg
-[ffl-ce-product-tiles]: BUD.Icons/Customer/FFL/ce-product-tiles.svg
-[ffl-ce-text-1]: BUD.Icons/Customer/FFL/ce-text-1.svg
-[ffl-ce-text-2]: BUD.Icons/Customer/FFL/ce-text-2.svg
-[ffl-ce-text-image-1]: BUD.Icons/Customer/FFL/ce-text-image-1.svg
-[ffl-ce-text-image-2]: BUD.Icons/Customer/FFL/ce-text-image-2.svg
+[ffl-ce-image]: GB.Icons/FFL/ce-image.svg
+[ffl-ce-image-tiles]: GB.Icons/FFL/ce-image-tiles.svg
+[ffl-ce-list]: GB.Icons/FFL/ce-list.svg
+[ffl-ce-product-tiles]: GB.Icons/FFL/ce-product-tiles.svg
+[ffl-ce-text-1]: GB.Icons/FFL/ce-text-1.svg
+[ffl-ce-text-2]: GB.Icons/FFL/ce-text-2.svg
+[ffl-ce-text-image-1]: GB.Icons/FFL/ce-text-image-1.svg
+[ffl-ce-text-image-2]: GB.Icons/FFL/ce-text-image-2.svg
 
 ### HTS
 Icon | Description | &nbsp;
@@ -316,10 +316,10 @@ Icon | Description | &nbsp;
 ![HTS][hts-ce-team] | Team | [Download][hts-ce-team]
 ![HTS][hts-ce-text] | Text | [Download][hts-ce-text]
 
-[hts-ce-icon]: BUD.Icons/Customer/HTS/ce-icon.svg
-[hts-ce-list]: BUD.Icons/Customer/HTS/ce-list.svg
-[hts-ce-team]: BUD.Icons/Customer/HTS/ce-team.svg
-[hts-ce-text]: BUD.Icons/Customer/HTS/ce-text.svg
+[hts-ce-icon]: GB.Icons/HTS/ce-icon.svg
+[hts-ce-list]: GB.Icons/HTS/ce-list.svg
+[hts-ce-team]: GB.Icons/HTS/ce-team.svg
+[hts-ce-text]: GB.Icons/HTS/ce-text.svg
 
 ### IFA/IAFW
 Icon | Description | &nbsp;
@@ -328,9 +328,9 @@ Icon | Description | &nbsp;
 ![IFA][ifa-ce-button] | Button | [Download][ifa-ce-button]
 ![IFA][ifa-ce-text-tile] | Text tile | [Download][ifa-ce-text-tile]
 
-[ifa-ce-boxes]: BUD.Icons/Customer/IFA/ce-boxes.svg
-[ifa-ce-button]: BUD.Icons/Customer/IFA/ce-button.svg
-[ifa-ce-text-tile]: BUD.Icons/Customer/IFA/ce-text-tile.svg
+[ifa-ce-boxes]: GB.Icons/IFA/ce-boxes.svg
+[ifa-ce-button]: GB.Icons/IFA/ce-button.svg
+[ifa-ce-text-tile]: GB.Icons/IFA/ce-text-tile.svg
 
 ### JHN
 Icon | Description | &nbsp;
@@ -338,8 +338,8 @@ Icon | Description | &nbsp;
 ![JHN][jhn-ce-accordion] | Accordion | [Download][jhn-ce-accordion]
 ![JHN][jhn-ce-stage] | Stage | [Download][jhn-ce-stage]
 
-[jhn-ce-accordion]: BUD.Icons/Customer/JHN/ce-accordion.svg
-[jhn-ce-stage]: BUD.Icons/Customer/JHN/ce-stage.svg
+[jhn-ce-accordion]: GB.Icons/JHN/ce-accordion.svg
+[jhn-ce-stage]: GB.Icons/JHN/ce-stage.svg
 
 ### JOY
 Icon | Description | &nbsp;
@@ -367,35 +367,35 @@ Icon | Description | &nbsp;
 ![JOY][joy-ce-tile-video] | Video tile | [Download][joy-ce-tile-video]
 ![JOY][joy-ce-video] | Video | [Download][joy-ce-video]
 
-[joy-ce-box-masonry-magazine]: BUD.Icons/Customer/JOY/ce-box-masonry-magazine.svg
-[joy-ce-box-masonry-quote]: BUD.Icons/Customer/JOY/ce-box-masonry-quote.svg
-[joy-ce-box-masonry-shop]: BUD.Icons/Customer/JOY/ce-box-masonry-shop.svg
-[joy-ce-box-text]: BUD.Icons/Customer/JOY/ce-box-text.svg
-[joy-ce-button-1]: BUD.Icons/Customer/JOY/ce-button-1.svg
-[joy-ce-button-2]: BUD.Icons/Customer/JOY/ce-button-2.svg
-[joy-ce-facebook]: BUD.Icons/Customer/JOY/ce-facebook.svg
-[joy-ce-image]: BUD.Icons/Customer/JOY/ce-image.svg
-[joy-ce-podcast]: BUD.Icons/Customer/JOY/ce-podcast.svg
-[joy-ce-quote-1]: BUD.Icons/Customer/JOY/ce-quote-1.svg
-[joy-ce-quote-2]: BUD.Icons/Customer/JOY/ce-quote-2.svg
-[joy-ce-text-1]: BUD.Icons/Customer/JOY/ce-text-1.svg
-[joy-ce-text-2]: BUD.Icons/Customer/JOY/ce-text-2.svg
-[joy-ce-text-3]: BUD.Icons/Customer/JOY/ce-text-3.svg
-[joy-ce-text-image]: BUD.Icons/Customer/JOY/ce-text-image.svg
-[joy-ce-tile-devotion]: BUD.Icons/Customer/JOY/ce-tile-devotion.svg
-[joy-ce-tile-search]: BUD.Icons/Customer/JOY/ce-tile-search.svg
-[joy-ce-tile-shop]: BUD.Icons/Customer/JOY/ce-tile-shop.svg
-[joy-ce-tile-teaser]: BUD.Icons/Customer/JOY/ce-tile-teaser.svg
-[joy-ce-tile-text]: BUD.Icons/Customer/JOY/ce-tile-text.svg
-[joy-ce-tile-video]: BUD.Icons/Customer/JOY/ce-tile-video.svg
-[joy-ce-video]: BUD.Icons/Customer/JOY/ce-video.svg
+[joy-ce-box-masonry-magazine]: GB.Icons/JOY/ce-box-masonry-magazine.svg
+[joy-ce-box-masonry-quote]: GB.Icons/JOY/ce-box-masonry-quote.svg
+[joy-ce-box-masonry-shop]: GB.Icons/JOY/ce-box-masonry-shop.svg
+[joy-ce-box-text]: GB.Icons/JOY/ce-box-text.svg
+[joy-ce-button-1]: GB.Icons/JOY/ce-button-1.svg
+[joy-ce-button-2]: GB.Icons/JOY/ce-button-2.svg
+[joy-ce-facebook]: GB.Icons/JOY/ce-facebook.svg
+[joy-ce-image]: GB.Icons/JOY/ce-image.svg
+[joy-ce-podcast]: GB.Icons/JOY/ce-podcast.svg
+[joy-ce-quote-1]: GB.Icons/JOY/ce-quote-1.svg
+[joy-ce-quote-2]: GB.Icons/JOY/ce-quote-2.svg
+[joy-ce-text-1]: GB.Icons/JOY/ce-text-1.svg
+[joy-ce-text-2]: GB.Icons/JOY/ce-text-2.svg
+[joy-ce-text-3]: GB.Icons/JOY/ce-text-3.svg
+[joy-ce-text-image]: GB.Icons/JOY/ce-text-image.svg
+[joy-ce-tile-devotion]: GB.Icons/JOY/ce-tile-devotion.svg
+[joy-ce-tile-search]: GB.Icons/JOY/ce-tile-search.svg
+[joy-ce-tile-shop]: GB.Icons/JOY/ce-tile-shop.svg
+[joy-ce-tile-teaser]: GB.Icons/JOY/ce-tile-teaser.svg
+[joy-ce-tile-text]: GB.Icons/JOY/ce-tile-text.svg
+[joy-ce-tile-video]: GB.Icons/JOY/ce-tile-video.svg
+[joy-ce-video]: GB.Icons/JOY/ce-video.svg
 
 ### KER
 Icon | Description | &nbsp;
 ---|---|---
 ![KER][ker-ce-text-image] | Text image | [Download][ker-ce-text-image]
 
-[ker-ce-text-image]: BUD.Icons/Customer/KER/ce-text-image.svg
+[ker-ce-text-image]: GB.Icons/KER/ce-text-image.svg
 
 ### KKTE
 Icon | Description | &nbsp;
@@ -408,13 +408,13 @@ Icon | Description | &nbsp;
 ![KKTE][kkte-ce-newsletter-subscribtion] | Newsletter subscribtion form | [Download][kkte-ce-newsletter-subscribtion]
 ![KKTE][kkte-ce-text-tiles] | Text tiles | [Download][kkte-ce-text-tiles]
 
-[kkte-ce-cloud-media]: BUD.Icons/Customer/KKTE/ce-cloud-media.svg
-[kkte-ce-colored-tiles]: BUD.Icons/Customer/KKTE/ce-colored-tiles.svg
-[kkte-ce-image-link]: BUD.Icons/Customer/KKTE/ce-image-link.svg
-[kkte-ce-image-tiles]: BUD.Icons/Customer/KKTE/ce-image-tiles.svg
-[kkte-ce-link]: BUD.Icons/Customer/KKTE/ce-link.svg
-[kkte-ce-newsletter-subscribtion]: BUD.Icons/Customer/KKTE/ce-newsletter-subscribtion.svg
-[kkte-ce-text-tiles]: BUD.Icons/Customer/KKTE/ce-text-tiles.svg
+[kkte-ce-cloud-media]: GB.Icons/KKTE/ce-cloud-media.svg
+[kkte-ce-colored-tiles]: GB.Icons/KKTE/ce-colored-tiles.svg
+[kkte-ce-image-link]: GB.Icons/KKTE/ce-image-link.svg
+[kkte-ce-image-tiles]: GB.Icons/KKTE/ce-image-tiles.svg
+[kkte-ce-link]: GB.Icons/KKTE/ce-link.svg
+[kkte-ce-newsletter-subscribtion]: GB.Icons/KKTE/ce-newsletter-subscribtion.svg
+[kkte-ce-text-tiles]: GB.Icons/KKTE/ce-text-tiles.svg
 
 ### KOEN
 Icon | Description | &nbsp;
@@ -423,9 +423,9 @@ Icon | Description | &nbsp;
 ![KOEN][koen-ce-lightbox-content] | Lightbox content | [Download][koen-ce-lightbox-content]
 ![KOEN][koen-ce-tiles] | Tiles | [Download][koen-ce-tiles]
 
-[koen-ce-hero]: BUD.Icons/Customer/KOEN/ce-hero.svg
-[koen-ce-lightbox-content]: BUD.Icons/Customer/KOEN/ce-lightbox-content.svg
-[koen-ce-tiles]: BUD.Icons/Customer/KOEN/ce-tiles.svg
+[koen-ce-hero]: GB.Icons/KOEN/ce-hero.svg
+[koen-ce-lightbox-content]: GB.Icons/KOEN/ce-lightbox-content.svg
+[koen-ce-tiles]: GB.Icons/KOEN/ce-tiles.svg
 
 ### KZG
 Icon | Description | &nbsp;
@@ -437,12 +437,12 @@ Icon | Description | &nbsp;
 ![KZG][kzg-ce-teaser] | Teaser box | [Download][kzg-ce-teaser]
 ![KZG][kzg-ce-tiles] | Tiles | [Download][kzg-ce-tiles]
 
-[kzg-ce-accordion]: BUD.Icons/Customer/KZG/ce-accordion.svg
-[kzg-ce-quote]: BUD.Icons/Customer/KZG/ce-quote.svg
-[kzg-ce-quote-box]: BUD.Icons/Customer/KZG/ce-quote-box.svg
-[kzg-ce-quote-slider]: BUD.Icons/Customer/KZG/ce-quote-slider.svg
-[kzg-ce-teaser]: BUD.Icons/Customer/KZG/ce-teaser.svg
-[kzg-ce-tiles]: BUD.Icons/Customer/KZG/ce-tiles.svg
+[kzg-ce-accordion]: GB.Icons/KZG/ce-accordion.svg
+[kzg-ce-quote]: GB.Icons/KZG/ce-quote.svg
+[kzg-ce-quote-box]: GB.Icons/KZG/ce-quote-box.svg
+[kzg-ce-quote-slider]: GB.Icons/KZG/ce-quote-slider.svg
+[kzg-ce-teaser]: GB.Icons/KZG/ce-teaser.svg
+[kzg-ce-tiles]: GB.Icons/KZG/ce-tiles.svg
 
 ### LBF
 Icon | Description | &nbsp;
@@ -451,9 +451,9 @@ Icon | Description | &nbsp;
 ![LBF][lbf-ce-article-slider] | Article slider | [Download][lbf-ce-article-slider]
 ![LBF][lbf-ce-slider] | Slider | [Download][lbf-ce-slider]
 
-[lbf-ce-article]: BUD.Icons/Customer/LBF/ce-article.svg
-[lbf-ce-article-slider]: BUD.Icons/Customer/LBF/ce-article-slider.svg
-[lbf-ce-slider]: BUD.Icons/Customer/LBF/ce-slider.svg
+[lbf-ce-article]: GB.Icons/LBF/ce-article.svg
+[lbf-ce-article-slider]: GB.Icons/LBF/ce-article-slider.svg
+[lbf-ce-slider]: GB.Icons/LBF/ce-slider.svg
 
 ### MAK
 Icon | Description | &nbsp;
@@ -461,8 +461,8 @@ Icon | Description | &nbsp;
 ![MAK][mak-ce-text-list-1] | Text list | [Download][mak-ce-text-list-1]
 ![MAK][mak-ce-text-list-2] | Text list | [Download][mak-ce-text-list-2]
 
-[mak-ce-text-list-1]: BUD.Icons/Customer/MAK/ce-text-list-1.svg
-[mak-ce-text-list-2]: BUD.Icons/Customer/MAK/ce-text-list-2.svg
+[mak-ce-text-list-1]: GB.Icons/MAK/ce-text-list-1.svg
+[mak-ce-text-list-2]: GB.Icons/MAK/ce-text-list-2.svg
 
 ### PAN
 Icon | Description | &nbsp;
@@ -471,9 +471,9 @@ Icon | Description | &nbsp;
 ![PAN][pan-ce-list] | List | [Download][pan-ce-list]
 ![PAN][pan-ce-tiles] | Tiles | [Download][pan-ce-tiles]
 
-[pan-ce-button]: BUD.Icons/Customer/PAN/ce-button.svg
-[pan-ce-list]: BUD.Icons/Customer/PAN/ce-list.svg
-[pan-ce-tiles]: BUD.Icons/Customer/PAN/ce-tiles.svg
+[pan-ce-button]: GB.Icons/PAN/ce-button.svg
+[pan-ce-list]: GB.Icons/PAN/ce-list.svg
+[pan-ce-tiles]: GB.Icons/PAN/ce-tiles.svg
 
 ### UTB
 Icon | Description | &nbsp;
@@ -482,9 +482,9 @@ Icon | Description | &nbsp;
 ![UTB][utb-ce-book-gallery] | Book gallery | [Download][utb-ce-book-gallery]
 ![UTB][utb-ce-shop-search] | Shop search | [Download][utb-ce-shop-search]
 
-[utb-ce-book]: BUD.Icons/Customer/UTB/ce-book.svg
-[utb-ce-book-gallery]: BUD.Icons/Customer/UTB/ce-book-gallery.svg
-[utb-ce-shop-search]: BUD.Icons/Customer/UTB/ce-shop-search.svg
+[utb-ce-book]: GB.Icons/UTB/ce-book.svg
+[utb-ce-book-gallery]: GB.Icons/UTB/ce-book-gallery.svg
+[utb-ce-shop-search]: GB.Icons/UTB/ce-shop-search.svg
 
 ### VBH
 Icon | Description | &nbsp;
@@ -493,9 +493,9 @@ Icon | Description | &nbsp;
 ![VBH][vbh-ce-header-image] | Header image | [Download][vbh-ce-header-image]
 ![VBH][vbh-ce-header-slider] | Header slider | [Download][vbh-ce-header-slider]
 
-[vbh-ce-button]: BUD.Icons/Customer/VBH/ce-button.svg
-[vbh-ce-header-image]: BUD.Icons/Customer/VBH/ce-header-image.svg
-[vbh-ce-header-slider]: BUD.Icons/Customer/VBH/ce-header-slider.svg
+[vbh-ce-button]: GB.Icons/VBH/ce-button.svg
+[vbh-ce-header-image]: GB.Icons/VBH/ce-header-image.svg
+[vbh-ce-header-slider]: GB.Icons/VBH/ce-header-slider.svg
 
 ### WIN
 Icon | Description | &nbsp;
@@ -512,17 +512,17 @@ Icon | Description | &nbsp;
 ![WIN][win-ce-triple-tile] | Triple tile | [Download][win-ce-triple-tile]
 ![WIN][win-ce-video] | Video | [Download][win-ce-video]
 
-[win-ce-360-degree-player]: BUD.Icons/Customer/WIN/ce-360-degree-player.svg
-[win-ce-double-text]: BUD.Icons/Customer/WIN/ce-double-text.svg
-[win-ce-double-tile]: BUD.Icons/Customer/WIN/ce-double-tile.svg
-[win-ce-employee]: BUD.Icons/Customer/WIN/ce-employee.svg
-[win-ce-form]: BUD.Icons/Customer/WIN/ce-form.svg
-[win-ce-fullscreen-video]: BUD.Icons/Customer/WIN/ce-fullscreen-video.svg
-[win-ce-image]: BUD.Icons/Customer/WIN/ce-image.svg
-[win-ce-teaser]: BUD.Icons/Customer/WIN/ce-teaser.svg
-[win-ce-text]: BUD.Icons/Customer/WIN/ce-text.svg
-[win-ce-triple-tile]: BUD.Icons/Customer/WIN/ce-triple-tile.svg
-[win-ce-video]: BUD.Icons/Customer/WIN/ce-video.svg
+[win-ce-360-degree-player]: GB.Icons/WIN/ce-360-degree-player.svg
+[win-ce-double-text]: GB.Icons/WIN/ce-double-text.svg
+[win-ce-double-tile]: GB.Icons/WIN/ce-double-tile.svg
+[win-ce-employee]: GB.Icons/WIN/ce-employee.svg
+[win-ce-form]: GB.Icons/WIN/ce-form.svg
+[win-ce-fullscreen-video]: GB.Icons/WIN/ce-fullscreen-video.svg
+[win-ce-image]: GB.Icons/WIN/ce-image.svg
+[win-ce-teaser]: GB.Icons/WIN/ce-teaser.svg
+[win-ce-text]: GB.Icons/WIN/ce-text.svg
+[win-ce-triple-tile]: GB.Icons/WIN/ce-triple-tile.svg
+[win-ce-video]: GB.Icons/WIN/ce-video.svg
 
 ## Other Icons
 Icon | Description | &nbsp;
