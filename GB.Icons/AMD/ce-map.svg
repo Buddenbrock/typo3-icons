@@ -1,0 +1,20 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#fff" d="M0 0h32v32H0z"/>
+    <path fill="#999" d="M0 0v32h32V0H0zm2 2h28v28H2V2z"/>
+    <path stroke="#0080aa" stroke-width=".1" d="M4 19h24v4H4z"/>
+    <path fill="#0080aa" d="M25.25 20l1.25 2H24z"/>
+    <path fill="#4a4a4a" d="M5.5 20.5h16v1h-16z"/>
+    <path stroke="#0080aa" stroke-width=".1" d="M4 24h24v4H4z"/>
+    <path fill="#0080aa" d="M25.25 25l1.25 2H24z"/>
+    <path fill="#4a4a4a" d="M5.5 25.5h16v1h-16z"/>
+    <path fill="#59f" d="M9 4v12l4 2 5-2 5 2V6l-5-2-5 2z"/>
+    <path fill="#79a548" d="M9 4v7.688L13 14l5-2.312L23 14V6l-5-2-5 2z"/>
+    <path fill="#efefef" d="M23 12.707l-3.704-1.393L15.02 5.19 18.007 4 23 6.002z"/>
+    <path fill="#cecece" d="M23 12.644l-3.167-1.063-4.706-6.412 2.876-1.165L23 6z"/>
+    <path fill="#ffc857" d="M18 12.5L13 15v-2.5l5-2.5v2.5zm-9 0l4 2.5v-2.5L9 10v2.5zm9 0l5 2.5v-2.5L18 10v2.5z"/>
+    <path fill="#ffc857" d="M22 13l-2.962-1.167L14 5.61 15.55 5z"/>
+    <path fill="#000" opacity=".15" d="M18 15.987L13 18V6.015l5-2.012z"/>
+    <path fill="#000" opacity=".3" d="M18 5.1l4 1.6v9.8L18.4 15l-.4-.1-.4.1-4.6 1.9-3-1.5V5.6l2.6 1.3.4.2.4-.2L18 5.1zM18 4l-5 2-4-2v12l4 2 5-2 5 2V6l-5-2z"/>
+  </g>
+</svg>
