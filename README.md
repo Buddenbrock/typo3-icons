@@ -9,7 +9,7 @@ There is already a small collection of created icons in this document. These dep
 Since the icons usually have the same meaning from installation to installation, it would be possible in this document to create a small collection from which demand icons can be used.
 
 ## Default Icons
-You find the typo3 default iconset into  [TYPO3-Icon Repository](https://github.com/TYPO3/TYPO3.Icons) or on these [Show Page](https://typo3.github.io/TYPO3.Icons/).
+You find the typo3 default iconset into  [TYPO3-Icon Repository](https://github.com/wmdbsystems/T3.Icons) or on these [Show Page](https://typo3.github.io/TYPO3.Icons/).
 Additionaly there where a submodule of this repository into this extension.
 
 ## Grid/Layout icons
@@ -18,7 +18,7 @@ Icon | Description | &nbsp;
 ![Grid][grid-25-25-25-25] | 4-column grid | [Download][grid-25-25-25-25]
 ![Grid][grid-33-33-33] | 3-column grid | [Download][grid-33-33-33]
 ![Grid][grid-40-60] | 2-column grid (40%-60%) | [Download][grid-40-60]
-![Grid][grid-50-50] | 2-column grid (50%-50%) | [Download][grid-50-50] 
+![Grid][grid-50-50] | 2-column grid (50%-50%) | [Download][grid-50-50]
 ![Grid][grid-60-40] | 2-column grid (60%-40%) | [Download][grid-60-40]
 ![Grid][grid-100] | 1-column grid | [Download][grid-100]
 ![Grid][grid-header] | Header grid | [Download][grid-header]
@@ -42,7 +42,7 @@ Icon | Description | &nbsp;
 Icon | Description | &nbsp;
 ---|---|---
 ![CE-Text][ce-blockquote-1] | Blockquote | [Download][ce-blockquote-1]
-![CE-Text][ce-blockquote-2] | Blockquote | [Download][ce-blockquote-2]  
+![CE-Text][ce-blockquote-2] | Blockquote | [Download][ce-blockquote-2]
 ![CE-Text][ce-blog-preview] | Blog preview | [Download][ce-blog-preview]
 ![CE-Text][ce-inline-quote] | Inline quote | [Download][ce-inline-quote]
 ![CE-Text][ce-listbox] | Listbox | [Download][ce-listbox]
