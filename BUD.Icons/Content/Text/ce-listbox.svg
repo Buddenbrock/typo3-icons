@@ -1,9 +1,7 @@
 <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-  <g fill="none" fill-rule="evenodd">
-    <path fill="#fff" d="M0 0h32v32H0z"/>
-    <path fill="#999" d="M0 0v32h32V0H0zm2 2h28v28H2V2z"/>
-    <path fill="#666" d="M4 16h7.385v2H4v-2zm8.308 0h7.384v2h-7.384v-2zm8.307 0H28v2h-7.385v-2z"/>
-    <path fill="#b9b9b9" d="M4 19h7.385v2H4v-2zm8.308 0h7.384v2h-7.384v-2zm8.307 0H28v2h-7.385v-2zM4 22h7.385v2H4v-2zm8.308 0h7.384v2h-7.384v-2zm8.307 0H28v2h-7.385v-2z"/>
-    <path fill="#666" d="M4 9h12v2H4z"/>
-  </g>
+  <path fill="#fff" d="M0 0h32v32H0z"/>
+  <path fill="#999" d="M0 0v32h32V0H0zm2 2h28v28H2V2z"/>
+  <path fill="#666" d="M4 16h7.385v2H4v-2zm8.308 0h7.384v2h-7.384v-2zm8.307 0H28v2h-7.385v-2z"/>
+  <path fill="#b9b9b9" d="M4 19h7.385v2H4v-2zm8.308 0h7.384v2h-7.384v-2zm8.307 0H28v2h-7.385v-2zM4 22h7.385v2H4v-2zm8.308 0h7.384v2h-7.384v-2zm8.307 0H28v2h-7.385v-2z"/>
+  <path fill="#666" d="M4 9h12v2H4z"/>
 </svg>

@@ -1,9 +1,7 @@
 <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-  <g fill="none" fill-rule="evenodd">
-    <path fill="#fff" d="M0 0h32v32H0z"/>
-    <path fill="#999" d="M0 0v32h32V0H0zm2 2h28v28H2V2z"/>
-    <path fill="#59f" d="M11 8v8H3V8h8zm9 0v8h-8V8h8zm9 0v8h-8V8h8z"/>
-    <path fill="#666" d="M11 18v2H3v-2h8zm9 0v2h-8v-2h8zm9 0v2h-8v-2h8z"/>
-    <path fill="#b9b9b9" d="M11 24v2H3v-2h8zm9 0v2h-8v-2h8zm9 0v2h-8v-2h8zm-18-3v2H3v-2h8zm9 0v2h-8v-2h8zm9 0v2h-8v-2h8z"/>
-  </g>
+  <path fill="#fff" d="M0 0h32v32H0z"/>
+  <path fill="#999" d="M0 0v32h32V0H0zm2 2h28v28H2V2z"/>
+  <path fill="#59f" d="M11 8v8H3V8h8zm9 0v8h-8V8h8zm9 0v8h-8V8h8z"/>
+  <path fill="#666" d="M11 18v2H3v-2h8zm9 0v2h-8v-2h8zm9 0v2h-8v-2h8z"/>
+  <path fill="#b9b9b9" d="M11 24v2H3v-2h8zm9 0v2h-8v-2h8zm9 0v2h-8v-2h8zm-18-3v2H3v-2h8zm9 0v2h-8v-2h8zm9 0v2h-8v-2h8z"/>
 </svg>
