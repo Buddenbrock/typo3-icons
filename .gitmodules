@@ -1,0 +1,3 @@
+[submodule "TYPO3.Icons"]
+	path = TYPO3.Icons
+	url = https://github.com/TYPO3/TYPO3.Icons.git

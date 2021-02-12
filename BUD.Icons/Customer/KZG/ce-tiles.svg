@@ -1,0 +1,7 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd">
+        <polygon fill="#fff" points="0 0 32 0 32 32 0 32"/>
+        <path fill="#999" d="M0,0 L0,32 L32,32 L32,0 L0,0 L0,0 Z M2,2 L30,2 L30,30 L2,30 L2,2 L2,2 Z"/>
+        <path d="M11,12 L11,20 L3,20 L3,12 L11,12 Z M20,12 L20,20 L12,20 L12,12 L20,12 Z M29,12 L29,20 L21,20 L21,12 L29,12 Z" id="Combined-Shape" fill="#FF8700"/>
+    </g>
+</svg>

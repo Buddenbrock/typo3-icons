@@ -1,0 +1,19 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#fff" d="M0 0h32v32H0z"/>
+    <path fill="#999" d="M0 0v32h32V0H0zm2 2h28v28H2V2z"/>
+    <g>
+      <path stroke="#0080aa" stroke-width=".1" d="M10 5h18v4H10z"/>
+      <path fill="#0080aa" d="M25.25 6l1.25 2H24z"/>
+      <path fill="#4a4a4a" d="M12.036 6.5H21.5v1h-9.464z"/>
+      <path stroke="#0080aa" stroke-width=".1" d="M10 14h18v4H10z"/>
+      <path fill="#0080aa" d="M25.25 15l1.25 2H24z"/>
+      <path fill="#4a4a4a" d="M12.036 15.5H21.5v1h-9.464z"/>
+      <path stroke="#0080aa" stroke-width=".1" d="M10 23h18v4H10z"/>
+      <path fill="#0080aa" d="M25.25 24l1.25 2H24z"/>
+      <path fill="#4a4a4aa" d="M12.036 24.5H21.5v1h-9.464z"/>
+      <path stroke="#0080aa" stroke-linecap="square" d="M6.5 4.5v23"/>
+      <path fill="#0080aa" stroke="#fff" stroke-width=".5" d="M6.514 5.146l1.768 1.768-1.768 1.768-1.768-1.768zM6.514 23.146l1.768 1.768-1.768 1.768-1.768-1.768zM6.514 14.146l1.768 1.768-1.768 1.768-1.768-1.768z"/>
+    </g>
+  </g>
+</svg>
