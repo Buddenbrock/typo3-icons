@@ -1,9 +1,7 @@
 <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-  <g fill="none" fill-rule="evenodd">
-    <path fill="#fff" d="M0 0h32v32H0z"/>
-    <path fill="#999" d="M0 0v32h32V0H0zm2 2h28v28H2V2z"/>
-    <path fill="#b9b9b9" d="M28 19v2H17v-2h11zm0-4v2H17v-2h11zm-13 0v2H4v-2h11zm13-4v2H17v-2h11zm-13 0v2H4v-2h11zm13-4v2H17V7h11zM15 7v2H4V7h11z"/>
-    <path fill="#ff8700" d="M28 23v3H17v-3h11zm-13-4v3H4v-3h11z"/>
-    <path fill="#000" fill-opacity=".3" d="M20 23v3h-3v-3h3zM7 19v3H4v-3h3z"/>
-  </g>
+  <path fill="#fff" d="M0 0h32v32H0z"/>
+  <path fill="#999" d="M0 0v32h32V0H0zm2 2h28v28H2V2z"/>
+  <path fill="#b9b9b9" d="M28 19v2H17v-2h11zm0-4v2H17v-2h11zm-13 0v2H4v-2h11zm13-4v2H17v-2h11zm-13 0v2H4v-2h11zm13-4v2H17V7h11zM15 7v2H4V7h11z"/>
+  <path fill="#ff8700" d="M28 23v3H17v-3h11zm-13-4v3H4v-3h11z"/>
+  <path fill="#000" fill-opacity=".3" d="M20 23v3h-3v-3h3zM7 19v3H4v-3h3z"/>
 </svg>
