@@ -1,6 +1,7 @@
-<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-	<path fill="#639" d="M0,0h32v32H0V0z"/>
-	<path opacity="0.2" d="M0,0v32h32V0H0z M2,2h28v28H2V2z"/>
-	<polygon fill="#fff" points="22.4,14.2 21.7,14.5 21.7,17.5 22.4,17.8 26,19.8 26,12.2"/>
-	<path fill="#fff" d="M18.4,11.2H7.8C6.8,11.2,6,12,6,13V19c0,1,0.8,1.8,1.8,1.8h10.6c1,0,1.8-0.8,1.8-1.8V13 C20.2,12,19.4,11.2,18.4,11.2z"/>
+<svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" fill-rule="nonzero">
+    <path fill="#639" d="M2 2h32v32H2z"/>
+    <path fill="#000" opacity=".2" d="M2 2v32h32V2H2zm2 2h28v28H4V4z"/>
+    <path fill="#FFF" d="M24.4 16.2l-.7.3v3l.7.3 3.6 2v-7.6zM20.4 13.2H9.8c-1 0-1.8.8-1.8 1.8v6c0 1 .8 1.8 1.8 1.8h10.6c1 0 1.8-.8 1.8-1.8v-6c0-1-.8-1.8-1.8-1.8z"/>
+  </g>
 </svg>

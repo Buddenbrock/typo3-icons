@@ -1,8 +1,10 @@
-<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-  <path fill="#fff" d="M0 0h32v32H0z"/>
-  <path fill="#999" d="M0 0v32h32V0H0zm2 2h28v28H2V2z"/>
-  <path fill="#4a90e2" d="M4 4h24v18H4z"/>
-  <path fill="#fff" d="M14.981 11l2.028 2.934 1.023-1.096 3.52 3.78L11 16.674 14.981 11zm5.337-3c.728 0 1.318.638 1.318 1.424 0 .786-.59 1.424-1.318 1.424-.728 0-1.318-.638-1.318-1.424C19 8.638 19.59 8 20.318 8z"/>
-  <path fill="#ff8700" d="M4 24h13v4H4z"/>
-  <path fill="#c76701" d="M4 24h4v4H4z"/>
+<svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" fill-rule="nonzero">
+    <path fill="#FFF" d="M2 2h32v32H2z"/>
+    <path fill="#999" d="M2 2v32h32V2H2zm2 2h28v28H4V4z"/>
+    <path fill="#4A90E2" d="M6 6h24v18H6z"/>
+    <path fill="#FFF" d="M16.981 13l2.028 2.934 1.023-1.096 3.52 3.78L13 18.674 16.981 13zm5.337-3c.728 0 1.318.638 1.318 1.424 0 .786-.59 1.424-1.318 1.424-.728 0-1.318-.638-1.318-1.424 0-.786.59-1.424 1.318-1.424z"/>
+    <path fill="#FF8700" d="M6 26h13v4H6z"/>
+    <path fill="#C76701" d="M6 26h4v4H6z"/>
+  </g>
 </svg>

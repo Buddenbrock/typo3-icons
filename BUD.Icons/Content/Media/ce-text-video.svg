@@ -1,7 +1,9 @@
-<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-  <path fill="#fff" d="M0,0h32v32H0V0z"/>
-  <path fill="#999" d="M0,0v32h32V0H0z M2,2h28v28H2V2z"/>
-  <rect fill="#639" x="16" y="6" width="10" height="20"/>
-  <path fill="#b9b9b9" d="M6,7h8v2H6V7z M6,15h8v2H6V15z M6,19h8v2H6V19z M6,23h8v2H6V23z M6,11h8v2H6V11z"/>
-  <path fill="#fff" d="M17.5,16.5c0-1.9,1.6-3.5,3.5-3.5s3.5,1.6,3.5,3.5S22.9,20,21,20S17.5,18.4,17.5,16.5z M22.8,16.5 l-3-2v4L22.8,16.5z"/>
+<svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" fill-rule="nonzero">
+    <path fill="#FFF" d="M2 2h32v32H2z"/>
+    <path fill="#999" d="M2 2v32h32V2H2zm2 2h28v28H4V4z"/>
+    <path fill="#639" d="M18 6h12v24H18z"/>
+    <path fill="#B9B9B9" d="M6 9h10v2H6V9zm0 8h10v2H6v-2zm0 4h10v2H6v-2zm0 4h10v2H6v-2zm0-12h10v2H6v-2z"/>
+    <path fill="#FFF" d="M20.5 18.5c0-1.9 1.6-3.5 3.5-3.5s3.5 1.6 3.5 3.5S25.9 22 24 22s-3.5-1.6-3.5-3.5zm5.3 0l-3-2v4l3-2z"/>
+  </g>
 </svg>
