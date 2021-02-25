@@ -26,16 +26,16 @@ Icon | Description | &nbsp;
 ![Grid][grid-header-33-33-33] | 3-column grid with header | [Download][grid-header-33-33-33]
 ![Grid][grid-header-50-50] | 2-column grid with header | [Download][grid-header-50-50]
 
-[grid-25-25-25-25]: BUD.Icons/Grid/grid-25-25-25-25.svg
-[grid-33-33-33]: BUD.Icons/Grid/grid-33-33-33.svg
-[grid-40-60]: BUD.Icons/Grid/grid-40-60.svg
-[grid-50-50]: BUD.Icons/Grid/grid-50-50.svg
-[grid-60-40]: BUD.Icons/Grid/grid-60-40.svg
-[grid-100]: BUD.Icons/Grid/grid-100.svg
-[grid-header]: BUD.Icons/Grid/grid-header.svg
-[grid-header-25-25-25-25]: BUD.Icons/Grid/grid-header-25-25-25-25.svg
-[grid-header-33-33-33]: BUD.Icons/Grid/grid-header-33-33-33.svg
-[grid-header-50-50]: BUD.Icons/Grid/grid-header-50-50.svg
+[grid-25-25-25-25]: GRID.Icons/grid-25-25-25-25.svg
+[grid-33-33-33]: GRID.Icons/grid-33-33-33.svg
+[grid-40-60]: GRID.Icons/grid-40-60.svg
+[grid-50-50]: GRID.Icons/grid-50-50.svg
+[grid-60-40]: GRID.Icons/grid-60-40.svg
+[grid-100]: GRID.Icons/grid-100.svg
+[grid-header]: GRID.Icons/grid-header.svg
+[grid-header-25-25-25-25]: GRID.Icons/grid-header-25-25-25-25.svg
+[grid-header-33-33-33]: GRID.Icons/grid-header-33-33-33.svg
+[grid-header-50-50]: GRID.Icons/grid-header-50-50.svg
 
 ## Content Icons (Main)
 ### Text Icons
@@ -71,35 +71,35 @@ Icon | Description | &nbsp;
 ![CE-Text][ce-article] | Article | [Download][ce-article]
 ![CE-Text][ce-article-slider] | Article slider | [Download][ce-article-slider]
 
-[ce-blockquote-1]: BUD.Icons/Content/Text/ce-blockquote-1.svg
-[ce-blockquote-2]: BUD.Icons/Content/Text/ce-blockquote-2.svg
-[ce-blog-preview]: BUD.Icons/Content/Text/ce-blog-preview.svg
-[ce-inline-quote]: BUD.Icons/Content/Text/ce-inline-quote.svg
-[ce-listbox]: BUD.Icons/Content/Text/ce-listbox.svg
-[ce-quote]: BUD.Icons/Content/Text/ce-quote.svg
-[ce-quote-slider]: BUD.Icons/Content/Text/ce-quote-slider.svg
-[ce-testimonial]: BUD.Icons/Content/Text/ce-testimonial.svg
-[ce-text-1]: BUD.Icons/Content/Text/ce-text-1.svg
-[ce-text-2]: BUD.Icons/Content/Text/ce-text-2.svg
-[ce-text-3]: BUD.Icons/Content/Text/ce-text-3.svg
-[ce-text-4]: BUD.Icons/Content/Text/ce-text-4.svg
-[ce-text-5]: BUD.Icons/Content/Text/ce-text-5.svg
-[ce-text-box]: BUD.Icons/Content/Text/ce-text-box.svg
-[ce-text-button-1]: BUD.Icons/Content/Text/ce-text-button-1.svg
-[ce-text-button-2]: BUD.Icons/Content/Text/ce-text-button-2.svg
-[ce-text-cta]: BUD.Icons/Content/Text/ce-text-cta.svg
-[ce-text-highlight]: BUD.Icons/Content/Text/ce-text-highlight.svg
-[ce-text-image-1]: BUD.Icons/Content/Text/ce-text-image-1.svg
-[ce-text-image-2]: BUD.Icons/Content/Text/ce-text-image-2.svg
-[ce-text-image-3]: BUD.Icons/Content/Text/ce-text-image-3.svg
-[ce-text-image-4]: BUD.Icons/Content/Text/ce-text-image-4.svg
-[ce-text-image-5]: BUD.Icons/Content/Text/ce-text-image-5.svg
-[ce-text-image-6]: BUD.Icons/Content/Text/ce-text-image-6.svg
-[ce-text-image-7]: BUD.Icons/Content/Text/ce-text-image-7.svg
-[ce-text-image-slider-1]: BUD.Icons/Content/Text/ce-text-image-slider-1.svg
-[ce-text-image-slider-2]: BUD.Icons/Content/Text/ce-text-image-slider-2.svg
-[ce-article]: BUD.Icons/Content/Text/ce-article.svg
-[ce-article-slider]: BUD.Icons/Content/Text/ce-article-slider.svg
+[ce-blockquote-1]: CE.Icons/Text/ce-blockquote-1.svg
+[ce-blockquote-2]: CE.Icons/Text/ce-blockquote-2.svg
+[ce-blog-preview]: CE.Icons/Text/ce-blog-preview.svg
+[ce-inline-quote]: CE.Icons/Text/ce-inline-quote.svg
+[ce-listbox]: CE.Icons/Text/ce-listbox.svg
+[ce-quote]: CE.Icons/Text/ce-quote.svg
+[ce-quote-slider]: CE.Icons/Text/ce-quote-slider.svg
+[ce-testimonial]: CE.Icons/Text/ce-testimonial.svg
+[ce-text-1]: CE.Icons/Text/ce-text-1.svg
+[ce-text-2]: CE.Icons/Text/ce-text-2.svg
+[ce-text-3]: CE.Icons/Text/ce-text-3.svg
+[ce-text-4]: CE.Icons/Text/ce-text-4.svg
+[ce-text-5]: CE.Icons/Text/ce-text-5.svg
+[ce-text-box]: CE.Icons/Text/ce-text-box.svg
+[ce-text-button-1]: CE.Icons/Text/ce-text-button-1.svg
+[ce-text-button-2]: CE.Icons/Text/ce-text-button-2.svg
+[ce-text-cta]: CE.Icons/Text/ce-text-cta.svg
+[ce-text-highlight]: CE.Icons/Text/ce-text-highlight.svg
+[ce-text-image-1]: CE.Icons/Text/ce-text-image-1.svg
+[ce-text-image-2]: CE.Icons/Text/ce-text-image-2.svg
+[ce-text-image-3]: CE.Icons/Text/ce-text-image-3.svg
+[ce-text-image-4]: CE.Icons/Text/ce-text-image-4.svg
+[ce-text-image-5]: CE.Icons/Text/ce-text-image-5.svg
+[ce-text-image-6]: CE.Icons/Text/ce-text-image-6.svg
+[ce-text-image-7]: CE.Icons/Text/ce-text-image-7.svg
+[ce-text-image-slider-1]: CE.Icons/Text/ce-text-image-slider-1.svg
+[ce-text-image-slider-2]: CE.Icons/Text/ce-text-image-slider-2.svg
+[ce-article]: CE.Icons/Text/ce-article.svg
+[ce-article-slider]: CE.Icons/Text/ce-article-slider.svg
 
 ### Button Icons
 Icon | Description | &nbsp;
@@ -107,8 +107,8 @@ Icon | Description | &nbsp;
 ![CE-Button][ce-button] | Button | [Download][ce-button]
 ![CE-Button][ce-button-icon] | Button with an icon | [Download][ce-button-icon]
 
-[ce-button]: BUD.Icons/Content/Button/ce-button.svg
-[ce-button-icon]: BUD.Icons/Content/Button/ce-button-icon.svg
+[ce-button]: CE.Icons/Button/ce-button.svg
+[ce-button-icon]: CE.Icons/Button/ce-button-icon.svg
 
 ### Media Icons
 Icon | Description | &nbsp;
@@ -136,28 +136,28 @@ Icon | Description | &nbsp;
 ![CE-Media][ce-video] | Video | [Download][ce-video]
 ![CE-Media][ce-webcam] | Webcam | [Download][ce-webcam]
 
-[ce-audio]: BUD.Icons/Content/Media/ce-audio.svg
-[ce-contact]: BUD.Icons/Content/Media/ce-contact.svg
-[ce-header-image-1]: BUD.Icons/Content/Media/ce-header-image-1.svg
-[ce-header-image-2]: BUD.Icons/Content/Media/ce-header-image-2.svg
-[ce-header-image-3]: BUD.Icons/Content/Media/ce-header-image-3.svg
-[ce-image-1]: BUD.Icons/Content/Media/ce-image-1.svg
-[ce-image-2]: BUD.Icons/Content/Media/ce-image-2.svg
-[ce-image-3]: BUD.Icons/Content/Media/ce-image-3.svg
-[ce-image-4]: BUD.Icons/Content/Media/ce-image-4.svg
-[ce-image-5]: BUD.Icons/Content/Media/ce-image-5.svg
-[ce-image-tiles-1]: BUD.Icons/Content/Media/ce-image-tiles-1.svg
-[ce-image-tiles-2]: BUD.Icons/Content/Media/ce-image-tiles-2.svg
-[ce-image-tiles-3]: BUD.Icons/Content/Media/ce-image-tiles-3.svg
-[ce-image-tiles-4]: BUD.Icons/Content/Media/ce-image-tiles-4.svg
-[ce-media]: BUD.Icons/Content/Media/ce-media.svg
-[ce-slider-1]: BUD.Icons/Content/Media/ce-slider-1.svg
-[ce-slider-2]: BUD.Icons/Content/Media/ce-slider-2.svg
-[ce-teaser-1]: BUD.Icons/Content/Media/ce-teaser-1.svg
-[ce-teaser-2]: BUD.Icons/Content/Media/ce-teaser-2.svg
-[ce-video]: BUD.Icons/Content/Media/ce-video.svg
-[ce-text-video]: BUD.Icons/Content/Media/ce-text-video.svg
-[ce-webcam]: BUD.Icons/Content/Media/ce-webcam.svg
+[ce-audio]: CE.Icons/Media/ce-audio.svg
+[ce-contact]: CE.Icons/Media/ce-contact.svg
+[ce-header-image-1]: CE.Icons/Media/ce-header-image-1.svg
+[ce-header-image-2]: CE.Icons/Media/ce-header-image-2.svg
+[ce-header-image-3]: CE.Icons/Media/ce-header-image-3.svg
+[ce-image-1]: CE.Icons/Media/ce-image-1.svg
+[ce-image-2]: CE.Icons/Media/ce-image-2.svg
+[ce-image-3]: CE.Icons/Media/ce-image-3.svg
+[ce-image-4]: CE.Icons/Media/ce-image-4.svg
+[ce-image-5]: CE.Icons/Media/ce-image-5.svg
+[ce-image-tiles-1]: CE.Icons/Media/ce-image-tiles-1.svg
+[ce-image-tiles-2]: CE.Icons/Media/ce-image-tiles-2.svg
+[ce-image-tiles-3]: CE.Icons/Media/ce-image-tiles-3.svg
+[ce-image-tiles-4]: CE.Icons/Media/ce-image-tiles-4.svg
+[ce-media]: CE.Icons/Media/ce-media.svg
+[ce-slider-1]: CE.Icons/Media/ce-slider-1.svg
+[ce-slider-2]: CE.Icons/Media/ce-slider-2.svg
+[ce-teaser-1]: CE.Icons/Media/ce-teaser-1.svg
+[ce-teaser-2]: CE.Icons/Media/ce-teaser-2.svg
+[ce-video]: CE.Icons/Media/ce-video.svg
+[ce-text-video]: CE.Icons/Media/ce-text-video.svg
+[ce-webcam]: CE.Icons/Media/ce-webcam.svg
 
 ## Content Icons (tailored to the customer)
 
@@ -363,28 +363,28 @@ Icon | Description | &nbsp;
 ![CE-Other][ce-spacer] | Spacer | [Download][ce-spacer]
 ![CE-Other][ce-teaser-box] | Teaser box | [Download][ce-teaser-box]
 
-[ce-accordion-1]: BUD.Icons/Other/ce-accordion-1.svg
-[ce-accordion-2]: BUD.Icons/Other/ce-accordion-2.svg
-[ce-address]: BUD.Icons/Other/ce-address.svg
-[ce-calender]: BUD.Icons/Other/ce-calender.svg
-[ce-chat]: BUD.Icons/Other/ce-chat.svg
-[ce-comment]: BUD.Icons/Other/ce-comment.svg
-[ce-contact]: BUD.Icons/Other/ce-contact.svg
-[ce-diagram]: BUD.Icons/Other/ce-diagram.svg
-[ce-download]: BUD.Icons/Other/ce-download.svg
-[ce-employee-1]: BUD.Icons/Other/ce-employee-1.svg
-[ce-employee-2]: BUD.Icons/Other/ce-employee-2.svg
-[ce-filter]: BUD.Icons/Other/ce-filter.svg
-[ce-icon]: BUD.Icons/Other/ce-icon.svg
-[ce-iframe]: BUD.Icons/Other/ce-iframe.svg
-[ce-login]: BUD.Icons/Other/ce-login.svg
-[ce-map-1]: BUD.Icons/Other/ce-map-1.svg
-[ce-map-2]: BUD.Icons/Other/ce-map-2.svg
-[ce-news]: BUD.Icons/Other/ce-news.svg
-[ce-search]: BUD.Icons/Other/ce-search.svg
-[ce-service]: BUD.Icons/Other/ce-service.svg
-[ce-shop-search]: BUD.Icons/Other/ce-shop-search.svg
-[ce-snippet]: BUD.Icons/Other/ce-snippet.svg
-[ce-social]: BUD.Icons/Other/ce-social.svg
-[ce-spacer]: BUD.Icons/Other/ce-spacer.svg
-[ce-teaser-box]: BUD.Icons/Other/ce-teaser-box.svg
+[ce-accordion-1]: CE.Icons/Other/ce-accordion-1.svg
+[ce-accordion-2]: CE.Icons/Other/ce-accordion-2.svg
+[ce-address]: CE.Icons/Other/ce-address.svg
+[ce-calender]: CE.Icons/Other/ce-calender.svg
+[ce-chat]: CE.Icons/Other/ce-chat.svg
+[ce-comment]: CE.Icons/Other/ce-comment.svg
+[ce-contact]: CE.Icons/Other/ce-contact.svg
+[ce-diagram]: CE.Icons/Other/ce-diagram.svg
+[ce-download]: CE.Icons/Other/ce-download.svg
+[ce-employee-1]: CE.Icons/Other/ce-employee-1.svg
+[ce-employee-2]: CE.Icons/Other/ce-employee-2.svg
+[ce-filter]: CE.Icons/Other/ce-filter.svg
+[ce-icon]: CE.Icons/Other/ce-icon.svg
+[ce-iframe]: CE.Icons/Other/ce-iframe.svg
+[ce-login]: CE.Icons/Other/ce-login.svg
+[ce-map-1]: CE.Icons/Other/ce-map-1.svg
+[ce-map-2]: CE.Icons/Other/ce-map-2.svg
+[ce-news]: CE.Icons/Other/ce-news.svg
+[ce-search]: CE.Icons/Other/ce-search.svg
+[ce-service]: CE.Icons/Other/ce-service.svg
+[ce-shop-search]: CE.Icons/Other/ce-shop-search.svg
+[ce-snippet]: CE.Icons/Other/ce-snippet.svg
+[ce-social]: CE.Icons/Other/ce-social.svg
+[ce-spacer]: CE.Icons/Other/ce-spacer.svg
+[ce-teaser-box]: CE.Icons/Other/ce-teaser-box.svg
