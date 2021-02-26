@@ -353,14 +353,10 @@ Icon | Description | &nbsp;
 ![CE-Other][ce-iframe] | iFrame | [Download][ce-iframe]
 ![CE-Other][ce-login] | Login | [Download][ce-login]
 ![CE-Other][ce-map-1] | Map | [Download][ce-map-1]
-![CE-Other][ce-map-2] | Map | [Download][ce-map-2]
 ![CE-Other][ce-news] | News | [Download][ce-news]
-![CE-Other][ce-search] | Search | [Download][ce-search]
 ![CE-Other][ce-service] | Service | [Download][ce-service]
 ![CE-Other][ce-shop-search] | Shop search | [Download][ce-shop-search]
-![CE-Other][ce-snippet] | Snippet | [Download][ce-snippet]
 ![CE-Other][ce-social] | Social Media | [Download][ce-social]
-![CE-Other][ce-spacer] | Spacer | [Download][ce-spacer]
 ![CE-Other][ce-teaser-box] | Teaser box | [Download][ce-teaser-box]
 
 [ce-accordion-1]: CE.Icons/Other/ce-accordion-1.svg
@@ -379,12 +375,8 @@ Icon | Description | &nbsp;
 [ce-iframe]: CE.Icons/Other/ce-iframe.svg
 [ce-login]: CE.Icons/Other/ce-login.svg
 [ce-map-1]: CE.Icons/Other/ce-map-1.svg
-[ce-map-2]: CE.Icons/Other/ce-map-2.svg
 [ce-news]: CE.Icons/Other/ce-news.svg
-[ce-search]: CE.Icons/Other/ce-search.svg
 [ce-service]: CE.Icons/Other/ce-service.svg
 [ce-shop-search]: CE.Icons/Other/ce-shop-search.svg
-[ce-snippet]: CE.Icons/Other/ce-snippet.svg
 [ce-social]: CE.Icons/Other/ce-social.svg
-[ce-spacer]: CE.Icons/Other/ce-spacer.svg
 [ce-teaser-box]: CE.Icons/Other/ce-teaser-box.svg
