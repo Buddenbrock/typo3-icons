@@ -1,8 +1,7 @@
-<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-  <path fill="#fff" d="M0 0h32v32H0z"/>
-  <path fill="#999" d="M0 0v32h32V0H0zm2 2h28v28H2V2z"/>
-  <polygon fill="#fff" points="0,0 32,0 32,32 0,32 "/>
-  <path fill="#999" d="M0,0v32h32V0H0L0,0z M2,2h28v28H2V2L2,2z"/>
-  <path fill="#999" d="M23.5,7.5v14.7H19h-0.8l-0.5,0.6L16,25.4l-1.8-2.6l-0.4-0.6H13H8.5V7.5H23.5L23.5,7.5z M25,6H7 v17.6h6l3,4.4l3-4.4h6V6L25,6z"/>
-  <path fill="#b6b6b6" d="M22,17.5v2H10v-2H22z M22,13.5v2H10v-2H22z M22,9.5v2H10v-2H22z"/>
+<svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" fill-rule="nonzero">
+    <path fill="#FFF" d="M14.317 26.533H6.083V3.067h23.834v23.466h-8.234L18 32.08z"/>
+    <path fill="#999" d="M28.833 4.133v21.334H21.25l-.65.853-2.6 3.84-2.6-3.84-.65-.853H7.167V4.133h21.666M31 2H5v25.6h8.667L18 34l4.333-6.4H31V2z"/>
+    <path fill="#B6B6B6" d="M26.727 17v3h-17v-3h17zm0-5v3h-17v-3h17zm0-5v3h-17V7h17z"/>
+  </g>
 </svg>

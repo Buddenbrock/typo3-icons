@@ -1,6 +1,8 @@
-<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-  <path fill="#fff" d="M0 0h32v32H0z"/>
-  <path fill="#999" d="M0 0v32h32V0H0zm2 2h28v28H2V2z"/>
-  <path fill="#ff8700" d="M21,18l2-2l-2-2 M11,14l-2,2l2,2"/>
-  <path fill="#979797" d="M28,10h-2v1h2V10L28,10z M24,10h-2v1h2V10L24,10z M20,10h-2v1h2V10L20,10z M16,10h-2v1h2V10L16,10z M12,10h-2 v1h2V10L12,10z M8,10H6v1h2V10L8,10z M5,10H4v2h1V10L5,10z M5,14H4v2h1V14L5,14z M5,18H4v2h1V18L5,18z M6,21H4v1h2V21L6,21z M10,21 H8v1h2V21L10,21z M14,21h-2v1h2V21L14,21z M18,21h-2v1h2V21L18,21z M22,21h-2v1h2V21L22,21z M26,21h-2v1h2V21L26,21z M28,20h-1v2h1 V20L28,20z M28,16h-1v2h1V16L28,16z M28,12h-1v2h1V12L28,12z"/>
+<svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" fill-rule="nonzero">
+    <path fill="#FFF" d="M2 2h32v32H2z"/>
+    <path fill="#999" d="M2 2v32h32V2H2zm2 2h28v28H4V4z"/>
+    <path fill="#FF8700" d="M23 20l2-2-2-2m-10 0l-2 2 2 2"/>
+    <path fill="#979797" d="M30 12h-2v1h2v-1zm-4 0h-2v1h2v-1zm-4 0h-2v1h2v-1zm-4 0h-2v1h2v-1zm-4 0h-2v1h2v-1zm-4 0H8v1h2v-1zm-3 0H6v2h1v-2zm0 4H6v2h1v-2zm0 4H6v2h1v-2zm1 3H6v1h2v-1zm4 0h-2v1h2v-1zm4 0h-2v1h2v-1zm4 0h-2v1h2v-1zm4 0h-2v1h2v-1zm4 0h-2v1h2v-1zm2-1h-1v2h1v-2zm0-4h-1v2h1v-2zm0-4h-1v2h1v-2z"/>
+  </g>
 </svg>

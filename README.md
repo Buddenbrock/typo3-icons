@@ -348,11 +348,12 @@ Icon | Description | &nbsp;
 ![CE-Other][ce-download] | Downloads | [Download][ce-download]
 ![CE-Other][ce-employee-1] | Employee | [Download][ce-employee-1]
 ![CE-Other][ce-employee-2] | Employee | [Download][ce-employee-2]
+![CE-Other][ce-employee-3] | Employee | [Download][ce-employee-3]
 ![CE-Other][ce-filter] | Filter | [Download][ce-filter]
 ![CE-Other][ce-icon] | Icon | [Download][ce-icon]
 ![CE-Other][ce-iframe] | iFrame | [Download][ce-iframe]
 ![CE-Other][ce-login] | Login | [Download][ce-login]
-![CE-Other][ce-map-1] | Map | [Download][ce-map-1]
+![CE-Other][ce-map] | Map | [Download][ce-map]
 ![CE-Other][ce-news] | News | [Download][ce-news]
 ![CE-Other][ce-service] | Service | [Download][ce-service]
 ![CE-Other][ce-shop-search] | Shop search | [Download][ce-shop-search]
@@ -370,11 +371,12 @@ Icon | Description | &nbsp;
 [ce-download]: CE.Icons/Other/ce-download.svg
 [ce-employee-1]: CE.Icons/Other/ce-employee-1.svg
 [ce-employee-2]: CE.Icons/Other/ce-employee-2.svg
+[ce-employee-3]: CE.Icons/Other/ce-employee-3.svg
 [ce-filter]: CE.Icons/Other/ce-filter.svg
 [ce-icon]: CE.Icons/Other/ce-icon.svg
 [ce-iframe]: CE.Icons/Other/ce-iframe.svg
 [ce-login]: CE.Icons/Other/ce-login.svg
-[ce-map-1]: CE.Icons/Other/ce-map-1.svg
+[ce-map]: CE.Icons/Other/ce-map.svg
 [ce-news]: CE.Icons/Other/ce-news.svg
 [ce-service]: CE.Icons/Other/ce-service.svg
 [ce-shop-search]: CE.Icons/Other/ce-shop-search.svg
