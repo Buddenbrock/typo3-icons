@@ -10,154 +10,209 @@ Since the icons usually have the same meaning from installation to installation,
 
 ## Default Icons
 You find the typo3 default iconset into  [TYPO3-Icon Repository](https://github.com/wmdbsystems/T3.Icons) or on these [Show Page](https://typo3.github.io/TYPO3.Icons/).
-Additionaly there where a submodule of this repository into this extension.
 
 ## Grid/Layout icons
 Icon | Description | &nbsp;
 ---|---|---
-![Grid][grid-25-25-25-25] | 4-column grid | [Download][grid-25-25-25-25]
-![Grid][grid-33-33-33] | 3-column grid | [Download][grid-33-33-33]
-![Grid][grid-40-60] | 2-column grid (40%-60%) | [Download][grid-40-60]
-![Grid][grid-50-50] | 2-column grid (50%-50%) | [Download][grid-50-50]
-![Grid][grid-60-40] | 2-column grid (60%-40%) | [Download][grid-60-40]
-![Grid][grid-100] | 1-column grid | [Download][grid-100]
-![Grid][grid-header] | Header grid | [Download][grid-header]
-![Grid][grid-header-25-25-25-25] | 4-column grid with header | [Download][grid-header-25-25-25-25]
-![Grid][grid-header-33-33-33] | 3-column grid with header | [Download][grid-header-33-33-33]
-![Grid][grid-header-50-50] | 2-column grid with header | [Download][grid-header-50-50]
+![grid][grid-25-25-25-25] | 4-column grid | [Download][grid-25-25-25-25]
+![grid][grid-33-33-33] | 3-column grid | [Download][grid-33-33-33]
+![grid][grid-40-60] | 2-column grid (40%-60%) | [Download][grid-40-60]
+![grid][grid-50-50] | 2-column grid (50%-50%) | [Download][grid-50-50]
+![grid][grid-60-40] | 2-column grid (60%-40%) | [Download][grid-60-40]
+![grid][grid-100] | 1-column grid | [Download][grid-100]
+![grid][grid-header] | Header grid | [Download][grid-header]
+![grid][grid-header-25-25-25-25] | 4-column grid with header | [Download][grid-header-25-25-25-25]
+![grid][grid-header-33-33-33] | 3-column grid with header | [Download][grid-header-33-33-33]
+![grid][grid-header-50-50] | 2-column grid with header | [Download][grid-header-50-50]
 
-[grid-25-25-25-25]: GRID.Icons/grid-25-25-25-25.svg
-[grid-33-33-33]: GRID.Icons/grid-33-33-33.svg
-[grid-40-60]: GRID.Icons/grid-40-60.svg
-[grid-50-50]: GRID.Icons/grid-50-50.svg
-[grid-60-40]: GRID.Icons/grid-60-40.svg
-[grid-100]: GRID.Icons/grid-100.svg
-[grid-header]: GRID.Icons/grid-header.svg
-[grid-header-25-25-25-25]: GRID.Icons/grid-header-25-25-25-25.svg
-[grid-header-33-33-33]: GRID.Icons/grid-header-33-33-33.svg
-[grid-header-50-50]: GRID.Icons/grid-header-50-50.svg
+[grid-25-25-25-25]: src/grid/grid-25-25-25-25.svg
+[grid-33-33-33]: src/grid/grid-33-33-33.svg
+[grid-40-60]: src/grid/grid-40-60.svg
+[grid-50-50]: src/grid/grid-50-50.svg
+[grid-60-40]: src/grid/grid-60-40.svg
+[grid-100]: src/grid/grid-100.svg
+[grid-header]: src/grid/grid-header.svg
+[grid-header-25-25-25-25]: src/grid/grid-header-25-25-25-25.svg
+[grid-header-33-33-33]: src/grid/grid-header-33-33-33.svg
+[grid-header-50-50]: src/grid/grid-header-50-50.svg
 
 ## Content Icons (Main)
 ### Text Icons
 Icon | Description | &nbsp;
 ---|---|---
-![CE-Text][ce-blockquote-1] | Blockquote | [Download][ce-blockquote-1]
-![CE-Text][ce-blockquote-2] | Blockquote | [Download][ce-blockquote-2]
-![CE-Text][ce-blog-preview] | Blog preview | [Download][ce-blog-preview]
-![CE-Text][ce-inline-quote] | Inline quote | [Download][ce-inline-quote]
-![CE-Text][ce-listbox] | Listbox | [Download][ce-listbox]
-![CE-Text][ce-quote] | Quote | [Download][ce-quote]
-![CE-Text][ce-quote-slider] | Quote Slider | [Download][ce-quote-slider]
-![CE-Text][ce-testimonial] | Testimonial | [Download][ce-testimonial]
-![CE-Text][ce-text-1] | Text | [Download][ce-text-1]
-![CE-Text][ce-text-2] | Text | [Download][ce-text-2]
-![CE-Text][ce-text-3] | Text | [Download][ce-text-3]
-![CE-Text][ce-text-4] | Text | [Download][ce-text-4]
-![CE-Text][ce-text-5] | Text | [Download][ce-text-5]
-![CE-Text][ce-text-box] | Textbox | [Download][ce-text-box]
-![CE-Text][ce-text-button-1] | Text button | [Download][ce-text-button-1]
-![CE-Text][ce-text-button-2] | Text button | [Download][ce-text-button-2]
-![CE-Text][ce-text-cta] | Text CTA | [Download][ce-text-cta]
-![CE-Text][ce-text-highlight] | Text highlight | [Download][ce-text-highlight]
-![CE-Text][ce-text-image-1] | Text image | [Download][ce-text-image-1]
-![CE-Text][ce-text-image-2] | Text image | [Download][ce-text-image-2]
-![CE-Text][ce-text-image-3] | Text image | [Download][ce-text-image-3]
-![CE-Text][ce-text-image-4] | Text image | [Download][ce-text-image-4]
-![CE-Text][ce-text-image-5] | Text image | [Download][ce-text-image-5]
-![CE-Text][ce-text-image-6] | Text image | [Download][ce-text-image-6]
-![CE-Text][ce-text-image-7] | Text image | [Download][ce-text-image-7]
-![CE-Text][ce-text-image-slider-1] | Text image slider | [Download][ce-text-image-slider-1]
-![CE-Text][ce-text-image-slider-2] | Text image slider | [Download][ce-text-image-slider-2]
-![CE-Text][ce-article] | Article | [Download][ce-article]
-![CE-Text][ce-article-slider] | Article slider | [Download][ce-article-slider]
+![content][ce-blockquote-1] | Blockquote | [Download][ce-blockquote-1]
+![content][ce-blockquote-2] | Blockquote | [Download][ce-blockquote-2]
+![content][ce-blog-preview] | Blog preview | [Download][ce-blog-preview]
+![content][ce-inline-quote] | Inline quote | [Download][ce-inline-quote]
+![content][ce-listbox] | Listbox | [Download][ce-listbox]
+![content][ce-quote] | Quote | [Download][ce-quote]
+![content][ce-quote-slider] | Quote Slider | [Download][ce-quote-slider]
+![content][ce-testimonial] | Testimonial | [Download][ce-testimonial]
+![content][ce-text-1] | Text | [Download][ce-text-1]
+![content][ce-text-2] | Text | [Download][ce-text-2]
+![content][ce-text-3] | Text | [Download][ce-text-3]
+![content][ce-text-4] | Text | [Download][ce-text-4]
+![content][ce-text-5] | Text | [Download][ce-text-5]
+![content][ce-text-box] | Textbox | [Download][ce-text-box]
+![content][ce-text-button-1] | Text button | [Download][ce-text-button-1]
+![content][ce-text-button-2] | Text button | [Download][ce-text-button-2]
+![content][ce-text-cta] | Text CTA | [Download][ce-text-cta]
+![content][ce-text-highlight] | Text highlight | [Download][ce-text-highlight]
+![content][ce-text-image-1] | Text image | [Download][ce-text-image-1]
+![content][ce-text-image-2] | Text image | [Download][ce-text-image-2]
+![content][ce-text-image-3] | Text image | [Download][ce-text-image-3]
+![content][ce-text-image-4] | Text image | [Download][ce-text-image-4]
+![content][ce-text-image-5] | Text image | [Download][ce-text-image-5]
+![content][ce-text-image-6] | Text image | [Download][ce-text-image-6]
+![content][ce-text-image-7] | Text image | [Download][ce-text-image-7]
+![content][ce-text-image-slider-1] | Text image slider | [Download][ce-text-image-slider-1]
+![content][ce-text-image-slider-2] | Text image slider | [Download][ce-text-image-slider-2]
+![content][ce-article] | Article | [Download][ce-article]
+![content][ce-article-slider] | Article slider | [Download][ce-article-slider]
 
-[ce-blockquote-1]: CE.Icons/Text/ce-blockquote-1.svg
-[ce-blockquote-2]: CE.Icons/Text/ce-blockquote-2.svg
-[ce-blog-preview]: CE.Icons/Text/ce-blog-preview.svg
-[ce-inline-quote]: CE.Icons/Text/ce-inline-quote.svg
-[ce-listbox]: CE.Icons/Text/ce-listbox.svg
-[ce-quote]: CE.Icons/Text/ce-quote.svg
-[ce-quote-slider]: CE.Icons/Text/ce-quote-slider.svg
-[ce-testimonial]: CE.Icons/Text/ce-testimonial.svg
-[ce-text-1]: CE.Icons/Text/ce-text-1.svg
-[ce-text-2]: CE.Icons/Text/ce-text-2.svg
-[ce-text-3]: CE.Icons/Text/ce-text-3.svg
-[ce-text-4]: CE.Icons/Text/ce-text-4.svg
-[ce-text-5]: CE.Icons/Text/ce-text-5.svg
-[ce-text-box]: CE.Icons/Text/ce-text-box.svg
-[ce-text-button-1]: CE.Icons/Text/ce-text-button-1.svg
-[ce-text-button-2]: CE.Icons/Text/ce-text-button-2.svg
-[ce-text-cta]: CE.Icons/Text/ce-text-cta.svg
-[ce-text-highlight]: CE.Icons/Text/ce-text-highlight.svg
-[ce-text-image-1]: CE.Icons/Text/ce-text-image-1.svg
-[ce-text-image-2]: CE.Icons/Text/ce-text-image-2.svg
-[ce-text-image-3]: CE.Icons/Text/ce-text-image-3.svg
-[ce-text-image-4]: CE.Icons/Text/ce-text-image-4.svg
-[ce-text-image-5]: CE.Icons/Text/ce-text-image-5.svg
-[ce-text-image-6]: CE.Icons/Text/ce-text-image-6.svg
-[ce-text-image-7]: CE.Icons/Text/ce-text-image-7.svg
-[ce-text-image-slider-1]: CE.Icons/Text/ce-text-image-slider-1.svg
-[ce-text-image-slider-2]: CE.Icons/Text/ce-text-image-slider-2.svg
-[ce-article]: CE.Icons/Text/ce-article.svg
-[ce-article-slider]: CE.Icons/Text/ce-article-slider.svg
+[ce-blockquote-1]: src/content/ce-blockquote-1.svg
+[ce-blockquote-2]: src/content/ce-blockquote-2.svg
+[ce-blog-preview]: src/content/ce-blog-preview.svg
+[ce-inline-quote]: src/content/ce-inline-quote.svg
+[ce-listbox]: src/content/ce-listbox.svg
+[ce-quote]: src/content/ce-quote.svg
+[ce-quote-slider]: src/content/ce-quote-slider.svg
+[ce-testimonial]: src/content/ce-testimonial.svg
+[ce-text-1]: src/content/ce-text-1.svg
+[ce-text-2]: src/content/ce-text-2.svg
+[ce-text-3]: src/content/ce-text-3.svg
+[ce-text-4]: src/content/ce-text-4.svg
+[ce-text-5]: src/content/ce-text-5.svg
+[ce-text-box]: src/content/ce-text-box.svg
+[ce-text-button-1]: src/content/ce-text-button-1.svg
+[ce-text-button-2]: src/content/ce-text-button-2.svg
+[ce-text-cta]: src/content/ce-text-cta.svg
+[ce-text-highlight]: src/content/ce-text-highlight.svg
+[ce-text-image-1]: src/content/ce-text-image-1.svg
+[ce-text-image-2]: src/content/ce-text-image-2.svg
+[ce-text-image-3]: src/content/ce-text-image-3.svg
+[ce-text-image-4]: src/content/ce-text-image-4.svg
+[ce-text-image-5]: src/content/ce-text-image-5.svg
+[ce-text-image-6]: src/content/ce-text-image-6.svg
+[ce-text-image-7]: src/content/ce-text-image-7.svg
+[ce-text-image-slider-1]: src/content/ce-text-image-slider-1.svg
+[ce-text-image-slider-2]: src/content/ce-text-image-slider-2.svg
+[ce-article]: src/content/ce-article.svg
+[ce-article-slider]: src/content/ce-article-slider.svg
 
 ### Button Icons
 Icon | Description | &nbsp;
 ---|---|---
-![CE-Button][ce-button] | Button | [Download][ce-button]
-![CE-Button][ce-button-icon] | Button with an icon | [Download][ce-button-icon]
+![content][ce-button] | Button | [Download][ce-button]
+![content][ce-button-icon] | Button with an icon | [Download][ce-button-icon]
 
-[ce-button]: CE.Icons/Button/ce-button.svg
-[ce-button-icon]: CE.Icons/Button/ce-button-icon.svg
+[ce-button]: src/content/ce-button.svg
+[ce-button-icon]: src/content/ce-button-icon.svg
 
 ### Media Icons
 Icon | Description | &nbsp;
 ---|---|---
-![CE-Media][ce-audio] | Audio | [Download][ce-audio]
-![CE-Media][ce-contact] | Contact box | [Download][ce-contact]
-![CE-Media][ce-header-image-1] | Header image | [Download][ce-header-image-1]
-![CE-Media][ce-header-image-2] | Header image | [Download][ce-header-image-2]
-![CE-Media][ce-header-image-3] | Header image | [Download][ce-header-image-3]
-![CE-Media][ce-image-1] | Image | [Download][ce-image-1]
-![CE-Media][ce-image-2] | Image | [Download][ce-image-2]
-![CE-Media][ce-image-3] | Image | [Download][ce-image-3]
-![CE-Media][ce-image-4] | Image | [Download][ce-image-4]
-![CE-Media][ce-image-5] | Image | [Download][ce-image-5]
-![CE-Media][ce-image-tiles-1] | Image tile | [Download][ce-image-tiles-1]
-![CE-Media][ce-image-tiles-2] | Image tile | [Download][ce-image-tiles-2]
-![CE-Media][ce-image-tiles-3] | Image tile | [Download][ce-image-tiles-3]
-![CE-Media][ce-image-tiles-4] | Image tile | [Download][ce-image-tiles-4]
-![CE-Media][ce-media] | Media | [Download][ce-media]
-![CE-Media][ce-slider-1] | Slider | [Download][ce-slider-2]
-![CE-Media][ce-slider-2] | Slider | [Download][ce-slider-2]
-![CE-Media][ce-teaser-1] | Teaser | [Download][ce-teaser-1]
-![CE-Media][ce-teaser-2] | Teaser | [Download][ce-teaser-2]
-![CE-Media][ce-text-video] | Video | [Download][ce-text-video]
-![CE-Media][ce-video] | Video | [Download][ce-video]
-![CE-Media][ce-webcam] | Webcam | [Download][ce-webcam]
+![content][ce-audio] | Audio | [Download][ce-audio]
+![content][ce-header-image-1] | Header image | [Download][ce-header-image-1]
+![content][ce-header-image-2] | Header image | [Download][ce-header-image-2]
+![content][ce-header-image-3] | Header image | [Download][ce-header-image-3]
+![content][ce-image-1] | Image | [Download][ce-image-1]
+![content][ce-image-2] | Image | [Download][ce-image-2]
+![content][ce-image-3] | Image | [Download][ce-image-3]
+![content][ce-image-4] | Image | [Download][ce-image-4]
+![content][ce-image-5] | Image | [Download][ce-image-5]
+![content][ce-image-tiles-1] | Image tile | [Download][ce-image-tiles-1]
+![content][ce-image-tiles-2] | Image tile | [Download][ce-image-tiles-2]
+![content][ce-image-tiles-3] | Image tile | [Download][ce-image-tiles-3]
+![content][ce-image-tiles-4] | Image tile | [Download][ce-image-tiles-4]
+![content][ce-media] | Media | [Download][ce-media]
+![content][ce-slider-1] | Slider | [Download][ce-slider-2]
+![content][ce-slider-2] | Slider | [Download][ce-slider-2]
+![content][ce-teaser-1] | Teaser | [Download][ce-teaser-1]
+![content][ce-teaser-2] | Teaser | [Download][ce-teaser-2]
+![content][ce-text-video] | Video | [Download][ce-text-video]
+![content][ce-video] | Video | [Download][ce-video]
+![content][ce-webcam] | Webcam | [Download][ce-webcam]
 
-[ce-audio]: CE.Icons/Media/ce-audio.svg
-[ce-contact]: CE.Icons/Media/ce-contact.svg
-[ce-header-image-1]: CE.Icons/Media/ce-header-image-1.svg
-[ce-header-image-2]: CE.Icons/Media/ce-header-image-2.svg
-[ce-header-image-3]: CE.Icons/Media/ce-header-image-3.svg
-[ce-image-1]: CE.Icons/Media/ce-image-1.svg
-[ce-image-2]: CE.Icons/Media/ce-image-2.svg
-[ce-image-3]: CE.Icons/Media/ce-image-3.svg
-[ce-image-4]: CE.Icons/Media/ce-image-4.svg
-[ce-image-5]: CE.Icons/Media/ce-image-5.svg
-[ce-image-tiles-1]: CE.Icons/Media/ce-image-tiles-1.svg
-[ce-image-tiles-2]: CE.Icons/Media/ce-image-tiles-2.svg
-[ce-image-tiles-3]: CE.Icons/Media/ce-image-tiles-3.svg
-[ce-image-tiles-4]: CE.Icons/Media/ce-image-tiles-4.svg
-[ce-media]: CE.Icons/Media/ce-media.svg
-[ce-slider-1]: CE.Icons/Media/ce-slider-1.svg
-[ce-slider-2]: CE.Icons/Media/ce-slider-2.svg
-[ce-teaser-1]: CE.Icons/Media/ce-teaser-1.svg
-[ce-teaser-2]: CE.Icons/Media/ce-teaser-2.svg
-[ce-video]: CE.Icons/Media/ce-video.svg
-[ce-text-video]: CE.Icons/Media/ce-text-video.svg
-[ce-webcam]: CE.Icons/Media/ce-webcam.svg
+[ce-audio]: src/content/ce-audio.svg
+[ce-header-image-1]: src/content/ce-header-image-1.svg
+[ce-header-image-2]: src/content/ce-header-image-2.svg
+[ce-header-image-3]: src/content/ce-header-image-3.svg
+[ce-image-1]: src/content/ce-image-1.svg
+[ce-image-2]: src/content/ce-image-2.svg
+[ce-image-3]: src/content/ce-image-3.svg
+[ce-image-4]: src/content/ce-image-4.svg
+[ce-image-5]: src/content/ce-image-5.svg
+[ce-image-tiles-1]: src/content/ce-image-tiles-1.svg
+[ce-image-tiles-2]: src/content/ce-image-tiles-2.svg
+[ce-image-tiles-3]: src/content/ce-image-tiles-3.svg
+[ce-image-tiles-4]: src/content/ce-image-tiles-4.svg
+[ce-media]: src/content/ce-media.svg
+[ce-slider-1]: src/content/ce-slider-1.svg
+[ce-slider-2]: src/content/ce-slider-2.svg
+[ce-teaser-1]: src/content/ce-teaser-1.svg
+[ce-teaser-2]: src/content/ce-teaser-2.svg
+[ce-video]: src/content/ce-video.svg
+[ce-text-video]: src/content/ce-text-video.svg
+[ce-webcam]: src/content/ce-webcam.svg
+
+## Other Icons
+Icon | Description | &nbsp;
+---|---|---
+![content][ce-accordion-1] | Accordion | [Download][ce-accordion-1]
+![content][ce-accordion-2] | Accordion | [Download][ce-accordion-2]
+![content][ce-address] | Address | [Download][ce-address]
+![content][ce-calender] | Calender | [Download][ce-calender]
+![content][ce-chat] | Chat | [Download][ce-chat]
+![content][ce-comment] | Comment | [Download][ce-comment]
+![content][ce-contact-1] | Contact | [Download][ce-contact-1]
+![content][ce-contact-2] | Contact box | [Download][ce-contact-2]
+![content][ce-diagram] | Diagram | [Download][ce-diagram]
+![content][ce-download] | Downloads | [Download][ce-download]
+![content][ce-employee-1] | Employee | [Download][ce-employee-1]
+![content][ce-employee-2] | Employee | [Download][ce-employee-2]
+![content][ce-employee-3] | Employee | [Download][ce-employee-3]
+![content][ce-filter] | Filter | [Download][ce-filter]
+![content][ce-icon] | Icon | [Download][ce-icon]
+![content][ce-iframe] | iFrame | [Download][ce-iframe]
+![content][ce-login] | Login | [Download][ce-login]
+![content][ce-map] | Map | [Download][ce-map]
+![content][ce-news] | News | [Download][ce-news]
+![content][ce-service] | Service | [Download][ce-service]
+![content][ce-shop-search] | Shop search | [Download][ce-shop-search]
+![content][ce-social] | Social Media | [Download][ce-social]
+![content][ce-teaser-box] | Teaser box | [Download][ce-teaser-box]
+
+[ce-accordion-1]: src/content/ce-accordion-1.svg
+[ce-accordion-2]: src/content/ce-accordion-2.svg
+[ce-address]: src/content/ce-address.svg
+[ce-calender]: src/content/ce-calender.svg
+[ce-chat]: src/content/ce-chat.svg
+[ce-comment]: src/content/ce-comment.svg
+[ce-contact-1]: src/content/ce-contact-1.svg
+[ce-contact-2]: src/content/ce-contact-2.svg
+[ce-diagram]: src/content/ce-diagram.svg
+[ce-download]: src/content/ce-download.svg
+[ce-employee-1]: src/content/ce-employee-1.svg
+[ce-employee-2]: src/content/ce-employee-2.svg
+[ce-employee-3]: src/content/ce-employee-3.svg
+[ce-filter]: src/content/ce-filter.svg
+[ce-icon]: src/content/ce-icon.svg
+[ce-iframe]: src/content/ce-iframe.svg
+[ce-login]: src/content/ce-login.svg
+[ce-map]: src/content/ce-map.svg
+[ce-news]: src/content/ce-news.svg
+[ce-service]: src/content/ce-service.svg
+[ce-shop-search]: src/content/ce-shop-search.svg
+[ce-social]: src/content/ce-social.svg
+[ce-teaser-box]: src/content/ce-teaser-box.svg
+
+
+
+
+
+
+
 
 ## Content Icons (tailored to the customer)
 
@@ -306,7 +361,7 @@ Icon | Description | &nbsp;
 ### PAN
 Icon | Description | &nbsp;
 ---|---|---
-![PAN][pan-ce-button] | Button | [Download][pan-ce-article]
+![PAN][pan-ce-button] | Button | [Download][pan-ce-button]
 ![PAN][pan-ce-list] | List | [Download][pan-ce-list]
 ![PAN][pan-ce-tiles] | Tiles | [Download][pan-ce-tiles]
 
@@ -334,51 +389,4 @@ Icon | Description | &nbsp;
 [win-ce-360-degree-player]: GB.Icons/WIN/ce-360-degree-player.svg
 [win-ce-form]: GB.Icons/WIN/ce-form.svg
 
-## Other Icons
-Icon | Description | &nbsp;
----|---|---
-![CE-Other][ce-accordion-1] | Accordion | [Download][ce-accordion-1]
-![CE-Other][ce-accordion-2] | Accordion | [Download][ce-accordion-2]
-![CE-Other][ce-address] | Address | [Download][ce-address]
-![CE-Other][ce-calender] | Calender | [Download][ce-calender]
-![CE-Other][ce-chat] | Chat | [Download][ce-chat]
-![CE-Other][ce-comment] | Comment | [Download][ce-comment]
-![CE-Other][ce-contact] | Contact | [Download][ce-contact]
-![CE-Other][ce-diagram] | Diagram | [Download][ce-diagram]
-![CE-Other][ce-download] | Downloads | [Download][ce-download]
-![CE-Other][ce-employee-1] | Employee | [Download][ce-employee-1]
-![CE-Other][ce-employee-2] | Employee | [Download][ce-employee-2]
-![CE-Other][ce-employee-3] | Employee | [Download][ce-employee-3]
-![CE-Other][ce-filter] | Filter | [Download][ce-filter]
-![CE-Other][ce-icon] | Icon | [Download][ce-icon]
-![CE-Other][ce-iframe] | iFrame | [Download][ce-iframe]
-![CE-Other][ce-login] | Login | [Download][ce-login]
-![CE-Other][ce-map] | Map | [Download][ce-map]
-![CE-Other][ce-news] | News | [Download][ce-news]
-![CE-Other][ce-service] | Service | [Download][ce-service]
-![CE-Other][ce-shop-search] | Shop search | [Download][ce-shop-search]
-![CE-Other][ce-social] | Social Media | [Download][ce-social]
-![CE-Other][ce-teaser-box] | Teaser box | [Download][ce-teaser-box]
 
-[ce-accordion-1]: CE.Icons/Other/ce-accordion-1.svg
-[ce-accordion-2]: CE.Icons/Other/ce-accordion-2.svg
-[ce-address]: CE.Icons/Other/ce-address.svg
-[ce-calender]: CE.Icons/Other/ce-calender.svg
-[ce-chat]: CE.Icons/Other/ce-chat.svg
-[ce-comment]: CE.Icons/Other/ce-comment.svg
-[ce-contact]: CE.Icons/Other/ce-contact.svg
-[ce-diagram]: CE.Icons/Other/ce-diagram.svg
-[ce-download]: CE.Icons/Other/ce-download.svg
-[ce-employee-1]: CE.Icons/Other/ce-employee-1.svg
-[ce-employee-2]: CE.Icons/Other/ce-employee-2.svg
-[ce-employee-3]: CE.Icons/Other/ce-employee-3.svg
-[ce-filter]: CE.Icons/Other/ce-filter.svg
-[ce-icon]: CE.Icons/Other/ce-icon.svg
-[ce-iframe]: CE.Icons/Other/ce-iframe.svg
-[ce-login]: CE.Icons/Other/ce-login.svg
-[ce-map]: CE.Icons/Other/ce-map.svg
-[ce-news]: CE.Icons/Other/ce-news.svg
-[ce-service]: CE.Icons/Other/ce-service.svg
-[ce-shop-search]: CE.Icons/Other/ce-shop-search.svg
-[ce-social]: CE.Icons/Other/ce-social.svg
-[ce-teaser-box]: CE.Icons/Other/ce-teaser-box.svg
