@@ -52,7 +52,8 @@ Icon | Name | &nbsp;
 ![content][ce-book-gallery] | `ce-book-gallery` | [Open icon][ce-book-gallery]
 ![content][ce-book] | `ce-book` | [Open icon][ce-book]
 ![content][ce-button-icon] | `ce-button-icon` | [Open icon][ce-button-icon]
-![content][ce-button] | `ce-button` | [Open icon][ce-button]
+![content][ce-button-1] | `ce-button-1` | [Open icon][ce-button-1]
+![content][ce-button-2] | `ce-button-2` | [Open icon][ce-button-2]
 ![content][ce-calender] | `ce-calender` | [Open icon][ce-calender]
 ![content][ce-chat] | `ce-chat` | [Open icon][ce-chat]
 ![content][ce-comment] | `ce-comment` | [Open icon][ce-comment]
@@ -80,6 +81,8 @@ Icon | Name | &nbsp;
 ![content][ce-image-tiles-3] | `ce-image-tiles-3` | [Open icon][ce-image-tiles-3]
 ![content][ce-image-tiles-4] | `ce-image-tiles-4` | [Open icon][ce-image-tiles-4]
 ![content][ce-inline-quote] | `ce-inline-quote` | [Open icon][ce-inline-quote]
+![content][ce-list-1] | `ce-list-1` | [Open icon][ce-list-1]
+![content][ce-list-2] | `ce-list-2` | [Open icon][ce-list-2]
 ![content][ce-listbox] | `ce-listbox` | [Open icon][ce-listbox]
 ![content][ce-login] | `ce-login` | [Open icon][ce-login]
 ![content][ce-map] | `ce-map` | [Open icon][ce-map]
@@ -116,6 +119,7 @@ Icon | Name | &nbsp;
 ![content][ce-text-image-slider-1] | `ce-text-image-slider-1` | [Open icon][ce-text-image-slider-1]
 ![content][ce-text-image-slider-2] | `ce-text-image-slider-2` | [Open icon][ce-text-image-slider-2]
 ![content][ce-text-video] | `ce-text-video` | [Open icon][ce-text-video]
+![content][ce-tiles] | `ce-tiles` | [Open icon][ce-tiles]
 ![content][ce-video] | `ce-video` | [Open icon][ce-video]
 ![content][ce-webcam] | `ce-webcam` | [Open icon][ce-webcam]
 
@@ -132,7 +136,8 @@ Icon | Name | &nbsp;
 [ce-book-gallery]: src/content/ce-book-gallery.svg
 [ce-book]: src/content/ce-book.svg
 [ce-button-icon]: src/content/ce-button-icon.svg
-[ce-button]: src/content/ce-button.svg
+[ce-button-1]: src/content/ce-button-1.svg
+[ce-button-2]: src/content/ce-button-2.svg
 [ce-calender]: src/content/ce-calender.svg
 [ce-chat]: src/content/ce-chat.svg
 [ce-comment]: src/content/ce-comment.svg
@@ -160,6 +165,8 @@ Icon | Name | &nbsp;
 [ce-image-tiles-3]: src/content/ce-image-tiles-3.svg
 [ce-image-tiles-4]: src/content/ce-image-tiles-4.svg
 [ce-inline-quote]: src/content/ce-inline-quote.svg
+[ce-list-1]: src/content/ce-list-1.svg
+[ce-list-2]: src/content/ce-list-2.svg
 [ce-listbox]: src/content/ce-listbox.svg
 [ce-login]: src/content/ce-login.svg
 [ce-map]: src/content/ce-map.svg
@@ -196,6 +203,7 @@ Icon | Name | &nbsp;
 [ce-text-image-slider-1]: src/content/ce-text-image-slider-1.svg
 [ce-text-image-slider-2]: src/content/ce-text-image-slider-2.svg
 [ce-text-video]: src/content/ce-text-video.svg
+[ce-tiles]: src/content/ce-tiles.svg
 [ce-video]: src/content/ce-video.svg
 [ce-webcam]: src/content/ce-webcam.svg
 
@@ -351,14 +359,3 @@ Icon | Description | &nbsp;
 
 [mak-ce-text-list-1]: GB.Icons/MAK/ce-text-list-1.svg
 [mak-ce-text-list-2]: GB.Icons/MAK/ce-text-list-2.svg
-
-### PAN
-Icon | Description | &nbsp;
----|---|---
-![PAN][pan-ce-button] | Button | [Download][pan-ce-button]
-![PAN][pan-ce-list] | List | [Download][pan-ce-list]
-![PAN][pan-ce-tiles] | Tiles | [Download][pan-ce-tiles]
-
-[pan-ce-button]: GB.Icons/PAN/ce-button.svg
-[pan-ce-list]: GB.Icons/PAN/ce-list.svg
-[pan-ce-tiles]: GB.Icons/PAN/ce-tiles.svg

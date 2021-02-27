@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ce-list-2</title>
+    <g id="ce-list-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="2 2 34 2 34 34 2 34"></polygon>
+        <path d="M2,2 L2,34 L34,34 L34,2 L2,2 L2,2 Z M4,4 L32,4 L32,32 L4,32 L4,4 L4,4 Z" id="Shape" fill="#999999" fill-rule="nonzero"></path>
+        <path d="M25,24 L25,26 L6,26 L6,24 L25,24 Z M25,20 L25,22 L6,22 L6,20 L25,20 Z M25,16 L25,18 L6,18 L6,16 L25,16 Z" id="text" fill="#999999" fill-rule="nonzero"></path>
+        <polygon id="Path" fill="#666666" fill-rule="nonzero" points="6 9 30 9 30 12 6 12"></polygon>
+        <path d="M28,24 L30,25 L28,26 L28,24 Z M28,20 L30,21 L28,22 L28,20 Z M28,16 L30,17 L28,18 L28,16 Z" id="Combined-Shape" fill="#FF8700" fill-rule="nonzero"></path>
+    </g>
+</svg>
