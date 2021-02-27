@@ -71,6 +71,7 @@ Icon | Name | &nbsp;
 ![content][ce-hero-2] | `ce-hero-2` | [Open icon][ce-hero-2]
 ![content][ce-hero-3] | `ce-hero-3` | [Open icon][ce-hero-3]
 ![content][ce-hero-4] | `ce-hero-4` | [Open icon][ce-hero-4]
+![content][ce-hero-5] | `ce-hero-5` | [Open icon][ce-hero-5]
 ![content][ce-icon] | `ce-icon` | [Open icon][ce-icon]
 ![content][ce-iframe] | `ce-iframe` | [Open icon][ce-iframe]
 ![content][ce-image-1] | `ce-image-1` | [Open icon][ce-image-1]
@@ -127,6 +128,8 @@ Icon | Name | &nbsp;
 ![content][ce-text-list-1] | `ce-text-list-1` | [Open icon][ce-text-list-1]
 ![content][ce-text-list-2] | `ce-text-list-2` | [Open icon][ce-text-list-2]
 ![content][ce-text-video] | `ce-text-video` | [Open icon][ce-text-video]
+![content][ce-tiles-group-1] | `ce-tiles-group-1` | [Open icon][ce-tiles-group-1]
+![content][ce-tiles-group-2] | `ce-tiles-group-2` | [Open icon][ce-tiles-group-2]
 ![content][ce-tiles] | `ce-tiles` | [Open icon][ce-tiles]
 ![content][ce-video] | `ce-video` | [Open icon][ce-video]
 ![content][ce-webcam] | `ce-webcam` | [Open icon][ce-webcam]
@@ -163,6 +166,7 @@ Icon | Name | &nbsp;
 [ce-hero-2]: src/content/ce-hero-2.svg
 [ce-hero-3]: src/content/ce-hero-3.svg
 [ce-hero-4]: src/content/ce-hero-4.svg
+[ce-hero-5]: src/content/ce-hero-5.svg
 [ce-icon]: src/content/ce-icon.svg
 [ce-iframe]: src/content/ce-iframe.svg
 [ce-image-1]: src/content/ce-image-1.svg
@@ -219,6 +223,8 @@ Icon | Name | &nbsp;
 [ce-text-list-1]: src/content/ce-text-list-1.svg
 [ce-text-list-2]: src/content/ce-text-list-2.svg
 [ce-text-video]: src/content/ce-text-video.svg
+[ce-tiles-group-1]: src/content/ce-tiles-group-1.svg
+[ce-tiles-group-2]: src/content/ce-tiles-group-2.svg
 [ce-tiles]: src/content/ce-tiles.svg
 [ce-video]: src/content/ce-video.svg
 [ce-webcam]: src/content/ce-webcam.svg
@@ -307,16 +313,7 @@ Icon | Description | &nbsp;
 [dbg-ce-map]: GB.Icons/DBG/ce-map.svg
 [dbg-ce-slider]: GB.Icons/DBG/ce-slider.svg
 
-### DTA
-Icon | Description | &nbsp;
----|---|---
-![DTA][dta-ce-header-image] | Header image | [Download][dta-ce-header-image]
-![DTA][dta-ce-quadro-tiles] | Quadro tiles | [Download][dta-ce-quadro-tiles]
-![DTA][dta-ce-triple-tiles] | Triple tiles | [Download][dta-ce-triple-tiles]
 
-[dta-ce-header-image]: GB.Icons/DTA/ce-header-image.svg
-[dta-ce-quadro-tiles]: GB.Icons/DTA/ce-quadro-tiles.svg
-[dta-ce-triple-tiles]: GB.Icons/DTA/ce-triple-tiles.svg
 
 ### HTS
 Icon | Description | &nbsp;
