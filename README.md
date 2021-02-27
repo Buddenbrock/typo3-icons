@@ -296,25 +296,3 @@ Icon | Description | &nbsp;
 [cur-ce-text-image]: GB.Icons/CUR/ce-text-image.svg
 [cur-ce-text-list-1]: GB.Icons/CUR/ce-text-list-1.svg
 [cur-ce-text-list-2]: GB.Icons/CUR/ce-text-list-2.svg
-
-### CVO
-Icon | Description | &nbsp;
----|---|---
-![CVO][cvo-ce-text-image-1] | Text image | [Download][cvo-ce-text-image-1]
-![CVO][cvo-ce-text-image-2] | Text image | [Download][cvo-ce-text-image-2]
-
-[cvo-ce-text-image-1]: GB.Icons/CVO/ce-text-image-1.svg
-[cvo-ce-text-image-2]: GB.Icons/CVO/ce-text-image-2.svg
-
-### DBG
-Icon | Description | &nbsp;
----|---|---
-![DBG][dbg-ce-fundraising] | Fundraising | [Download][dbg-ce-fundraising]
-![DBG][dbg-ce-map] | Map | [Download][dbg-ce-map]
-![DBG][dbg-ce-slider] | Slider | [Download][dbg-ce-slider]
-
-[dbg-ce-fundraising]: GB.Icons/DBG/ce-fundraising.svg
-[dbg-ce-map]: GB.Icons/DBG/ce-map.svg
-[dbg-ce-slider]: GB.Icons/DBG/ce-slider.svg
-
-
