@@ -1,8 +1,0 @@
-<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-  <path fill="#fff" d="M0 0h32v32H0z"/>
-  <path fill="#999" d="M0 0v32h32V0H0zm2 2h28v28H2V2z"/>
-  <polygon fill="#fff" points="0,0 32,0 32,32 0,32 "/>
-  <path fill="#999" d="M0,0v32h32V0H0L0,0z M2,2h28v28H2V2L2,2z"/>
-  <path fill="#999" d="M23.5,7.5v14.7H19h-0.8l-0.5,0.6L16,25.4l-1.8-2.6l-0.4-0.6H13H8.5V7.5H23.5L23.5,7.5z M25,6H7 v17.6h6l3,4.4l3-4.4h6V6L25,6z"/>
-  <path fill="#b6b6b6" d="M22,17.5v2H10v-2H22z M22,13.5v2H10v-2H22z M22,9.5v2H10v-2H22z"/>
-</svg>
