@@ -182,6 +182,8 @@ Icon | Description | &nbsp;
 ![content][ce-shop-search] | Shop search | [Download][ce-shop-search]
 ![content][ce-social] | Social Media | [Download][ce-social]
 ![content][ce-teaser-box] | Teaser box | [Download][ce-teaser-box]
+![content][ce-360-degree-player] | 360° player | [Download][ce-360-degree-player]
+![content][ce-form] | Form | [Download][ce-form]
 
 [ce-accordion-1]: src/content/ce-accordion-1.svg
 [ce-accordion-2]: src/content/ce-accordion-2.svg
@@ -206,6 +208,8 @@ Icon | Description | &nbsp;
 [ce-shop-search]: src/content/ce-shop-search.svg
 [ce-social]: src/content/ce-social.svg
 [ce-teaser-box]: src/content/ce-teaser-box.svg
+[ce-360-degree-player]: src/content/ce-360-degree-player.svg
+[ce-form]: src/content/ce-form.svg
 
 
 
@@ -380,13 +384,5 @@ Icon | Description | &nbsp;
 [utb-ce-book-gallery]: GB.Icons/UTB/ce-book-gallery.svg
 [utb-ce-shop-search]: GB.Icons/UTB/ce-shop-search.svg
 
-### WIN
-Icon | Description | &nbsp;
----|---|---
-![WIN][win-ce-360-degree-player] | 360°-Player | [Download][win-ce-360-degree-player]
-![WIN][win-ce-form] | Form | [Download][win-ce-form]
-
-[win-ce-360-degree-player]: GB.Icons/WIN/ce-360-degree-player.svg
-[win-ce-form]: GB.Icons/WIN/ce-form.svg
 
 
