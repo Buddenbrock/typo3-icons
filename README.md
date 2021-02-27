@@ -81,6 +81,7 @@ Icon | Name | &nbsp;
 ![content][ce-image-3] | `ce-image-3` | [Open icon][ce-image-3]
 ![content][ce-image-4] | `ce-image-4` | [Open icon][ce-image-4]
 ![content][ce-image-5] | `ce-image-5` | [Open icon][ce-image-5]
+![content][ce-image-slider] | `ce-image-slide` | [Open icon][ce-image-slider]
 ![content][ce-image-tiles-1] | `ce-image-tiles-1` | [Open icon][ce-image-tiles-1]
 ![content][ce-image-tiles-2] | `ce-image-tiles-2` | [Open icon][ce-image-tiles-2]
 ![content][ce-image-tiles-3] | `ce-image-tiles-3` | [Open icon][ce-image-tiles-3]
@@ -93,6 +94,7 @@ Icon | Name | &nbsp;
 ![content][ce-login] | `ce-login` | [Open icon][ce-login]
 ![content][ce-map-1] | `ce-map-1` | [Open icon][ce-map-1]
 ![content][ce-map-2] | `ce-map-2` | [Open icon][ce-map-2]
+![content][ce-map-3] | `ce-map-3` | [Open icon][ce-map-3]
 ![content][ce-media] | `ce-media` | [Open icon][ce-media]
 ![content][ce-news] | `ce-news` | [Open icon][ce-news]
 ![content][ce-podcast] | `ce-podcast` | [Open icon][ce-podcast]
@@ -179,6 +181,7 @@ Icon | Name | &nbsp;
 [ce-image-3]: src/content/ce-image-3.svg
 [ce-image-4]: src/content/ce-image-4.svg
 [ce-image-5]: src/content/ce-image-5.svg
+[ce-image-slider]: src/content/ce-image-slider.svg
 [ce-image-tiles-1]: src/content/ce-image-tiles-1.svg
 [ce-image-tiles-2]: src/content/ce-image-tiles-2.svg
 [ce-image-tiles-3]: src/content/ce-image-tiles-3.svg
@@ -191,6 +194,7 @@ Icon | Name | &nbsp;
 [ce-login]: src/content/ce-login.svg
 [ce-map-1]: src/content/ce-map-1.svg
 [ce-map-2]: src/content/ce-map-2.svg
+[ce-map-3]: src/content/ce-map-3.svg
 [ce-media]: src/content/ce-media.svg
 [ce-news]: src/content/ce-news.svg
 [ce-podcast]: src/content/ce-podcast.svg
