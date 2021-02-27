@@ -314,16 +314,3 @@ Icon | Description | &nbsp;
 [dbg-ce-slider]: GB.Icons/DBG/ce-slider.svg
 
 
-
-### HTS
-Icon | Description | &nbsp;
----|---|---
-![HTS][hts-ce-icon] | Icon Element | [Download][hts-ce-icon]
-![HTS][hts-ce-list] | List | [Download][hts-ce-list]
-![HTS][hts-ce-team] | Team | [Download][hts-ce-team]
-![HTS][hts-ce-text] | Text | [Download][hts-ce-text]
-
-[hts-ce-icon]: GB.Icons/HTS/ce-icon.svg
-[hts-ce-list]: GB.Icons/HTS/ce-list.svg
-[hts-ce-team]: GB.Icons/HTS/ce-team.svg
-[hts-ce-text]: GB.Icons/HTS/ce-text.svg
