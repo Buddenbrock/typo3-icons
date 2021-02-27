@@ -53,9 +53,9 @@ Icon | Name | &nbsp;
 ![content][ce-blog-preview] | `ce-blog-preview` | [Open icon][ce-blog-preview]
 ![content][ce-book-gallery] | `ce-book-gallery` | [Open icon][ce-book-gallery]
 ![content][ce-book] | `ce-book` | [Open icon][ce-book]
-![content][ce-button-icon] | `ce-button-icon` | [Open icon][ce-button-icon]
 ![content][ce-button-1] | `ce-button-1` | [Open icon][ce-button-1]
 ![content][ce-button-2] | `ce-button-2` | [Open icon][ce-button-2]
+![content][ce-button-icon] | `ce-button-icon` | [Open icon][ce-button-icon]
 ![content][ce-calender] | `ce-calender` | [Open icon][ce-calender]
 ![content][ce-chat] | `ce-chat` | [Open icon][ce-chat]
 ![content][ce-comment] | `ce-comment` | [Open icon][ce-comment]
@@ -102,8 +102,8 @@ Icon | Name | &nbsp;
 ![content][ce-media] | `ce-media` | [Open icon][ce-media]
 ![content][ce-news] | `ce-news` | [Open icon][ce-news]
 ![content][ce-podcast] | `ce-podcast` | [Open icon][ce-podcast]
-![content][ce-quote-slider] | `ce-quote-slider` | [Open icon][ce-quote-slider]
 ![content][ce-quote-box] | `ce-quote-box` | [Open icon][ce-quote-box]
+![content][ce-quote-slider] | `ce-quote-slider` | [Open icon][ce-quote-slider]
 ![content][ce-quote] | `ce-quote` | [Open icon][ce-quote]
 ![content][ce-service] | `ce-service` | [Open icon][ce-service]
 ![content][ce-shop-search] | `ce-shop-search` | [Open icon][ce-shop-search]
@@ -158,9 +158,9 @@ Icon | Name | &nbsp;
 [ce-blog-preview]: src/content/ce-blog-preview.svg
 [ce-book-gallery]: src/content/ce-book-gallery.svg
 [ce-book]: src/content/ce-book.svg
-[ce-button-icon]: src/content/ce-button-icon.svg
 [ce-button-1]: src/content/ce-button-1.svg
 [ce-button-2]: src/content/ce-button-2.svg
+[ce-button-icon]: src/content/ce-button-icon.svg
 [ce-calender]: src/content/ce-calender.svg
 [ce-chat]: src/content/ce-chat.svg
 [ce-comment]: src/content/ce-comment.svg
@@ -207,8 +207,8 @@ Icon | Name | &nbsp;
 [ce-media]: src/content/ce-media.svg
 [ce-news]: src/content/ce-news.svg
 [ce-podcast]: src/content/ce-podcast.svg
-[ce-quote-slider]: src/content/ce-quote-slider.svg
 [ce-quote-box]: src/content/ce-quote-box.svg
+[ce-quote-slider]: src/content/ce-quote-slider.svg
 [ce-quote]: src/content/ce-quote.svg
 [ce-service]: src/content/ce-service.svg
 [ce-shop-search]: src/content/ce-shop-search.svg
