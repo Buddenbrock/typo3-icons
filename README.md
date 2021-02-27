@@ -81,6 +81,7 @@ Icon | Name | &nbsp;
 ![content][ce-image-tiles-3] | `ce-image-tiles-3` | [Open icon][ce-image-tiles-3]
 ![content][ce-image-tiles-4] | `ce-image-tiles-4` | [Open icon][ce-image-tiles-4]
 ![content][ce-inline-quote] | `ce-inline-quote` | [Open icon][ce-inline-quote]
+![content][ce-lightbox-content] | `ce-lightbox-content` | [Open icon][ce-lightbox-content]
 ![content][ce-list-1] | `ce-list-1` | [Open icon][ce-list-1]
 ![content][ce-list-2] | `ce-list-2` | [Open icon][ce-list-2]
 ![content][ce-listbox] | `ce-listbox` | [Open icon][ce-listbox]
@@ -169,6 +170,7 @@ Icon | Name | &nbsp;
 [ce-image-tiles-3]: src/content/ce-image-tiles-3.svg
 [ce-image-tiles-4]: src/content/ce-image-tiles-4.svg
 [ce-inline-quote]: src/content/ce-inline-quote.svg
+[ce-lightbox-content]: src/content/ce-lightbox-content.svg
 [ce-list-1]: src/content/ce-list-1.svg
 [ce-list-2]: src/content/ce-list-2.svg
 [ce-listbox]: src/content/ce-listbox.svg
@@ -340,11 +342,3 @@ Icon | Description | &nbsp;
 
 [joy-ce-facebook]: GB.Icons/JOY/ce-facebook.svg
 [joy-ce-podcast]: GB.Icons/JOY/ce-podcast.svg
-
-### KOEN
-Icon | Description | &nbsp;
----|---|---
-![KOEN][koen-ce-lightbox-content] | Lightbox content | [Download][koen-ce-lightbox-content]
-
-[koen-ce-lightbox-content]: GB.Icons/KOEN/ce-lightbox-content.svg
-
