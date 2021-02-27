@@ -118,6 +118,8 @@ Icon | Name | &nbsp;
 ![content][ce-text-image-7] | `ce-text-image-7` | [Open icon][ce-text-image-7]
 ![content][ce-text-image-slider-1] | `ce-text-image-slider-1` | [Open icon][ce-text-image-slider-1]
 ![content][ce-text-image-slider-2] | `ce-text-image-slider-2` | [Open icon][ce-text-image-slider-2]
+![content][ce-text-list-1] | `ce-text-list-1` | [Open icon][ce-text-list-1]
+![content][ce-text-list-2] | `ce-text-list-2` | [Open icon][ce-text-list-2]
 ![content][ce-text-video] | `ce-text-video` | [Open icon][ce-text-video]
 ![content][ce-tiles] | `ce-tiles` | [Open icon][ce-tiles]
 ![content][ce-video] | `ce-video` | [Open icon][ce-video]
@@ -202,6 +204,8 @@ Icon | Name | &nbsp;
 [ce-text-image-7]: src/content/ce-text-image-7.svg
 [ce-text-image-slider-1]: src/content/ce-text-image-slider-1.svg
 [ce-text-image-slider-2]: src/content/ce-text-image-slider-2.svg
+[ce-text-list-1]: src/content/ce-text-list-1.svg
+[ce-text-list-2]: src/content/ce-text-list-2.svg
 [ce-text-video]: src/content/ce-text-video.svg
 [ce-tiles]: src/content/ce-tiles.svg
 [ce-video]: src/content/ce-video.svg
@@ -350,12 +354,3 @@ Icon | Description | &nbsp;
 [kzg-ce-quote]: GB.Icons/KZG/ce-quote.svg
 [kzg-ce-quote-box]: GB.Icons/KZG/ce-quote-box.svg
 [kzg-ce-quote-slider]: GB.Icons/KZG/ce-quote-slider.svg
-
-### MAK
-Icon | Description | &nbsp;
----|---|---
-![MAK][mak-ce-text-list-1] | Text list | [Download][mak-ce-text-list-1]
-![MAK][mak-ce-text-list-2] | Text list | [Download][mak-ce-text-list-2]
-
-[mak-ce-text-list-1]: GB.Icons/MAK/ce-text-list-1.svg
-[mak-ce-text-list-2]: GB.Icons/MAK/ce-text-list-2.svg
