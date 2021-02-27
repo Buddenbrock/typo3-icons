@@ -49,6 +49,8 @@ Icon | Name | &nbsp;
 ![content][ce-blockquote-1] | `ce-blockquote-1` | [Open icon][ce-blockquote-1]
 ![content][ce-blockquote-2] | `ce-blockquote-2` | [Open icon][ce-blockquote-2]
 ![content][ce-blog-preview] | `ce-blog-preview` | [Open icon][ce-blog-preview]
+![content][ce-book-gallery] | `ce-book-gallery` | [Open icon][ce-book-gallery]
+![content][ce-book] | `ce-book` | [Open icon][ce-book]
 ![content][ce-button-icon] | `ce-button-icon` | [Open icon][ce-button-icon]
 ![content][ce-button] | `ce-button` | [Open icon][ce-button]
 ![content][ce-calender] | `ce-calender` | [Open icon][ce-calender]
@@ -127,6 +129,8 @@ Icon | Name | &nbsp;
 [ce-blockquote-1]: src/content/ce-blockquote-1.svg
 [ce-blockquote-2]: src/content/ce-blockquote-2.svg
 [ce-blog-preview]: src/content/ce-blog-preview.svg
+[ce-book-gallery]: src/content/ce-book-gallery.svg
+[ce-book]: src/content/ce-book.svg
 [ce-button-icon]: src/content/ce-button-icon.svg
 [ce-button]: src/content/ce-button.svg
 [ce-calender]: src/content/ce-calender.svg
@@ -358,17 +362,3 @@ Icon | Description | &nbsp;
 [pan-ce-button]: GB.Icons/PAN/ce-button.svg
 [pan-ce-list]: GB.Icons/PAN/ce-list.svg
 [pan-ce-tiles]: GB.Icons/PAN/ce-tiles.svg
-
-### UTB
-Icon | Description | &nbsp;
----|---|---
-![UTB][utb-ce-book] | Book | [Download][utb-ce-book]
-![UTB][utb-ce-book-gallery] | Book gallery | [Download][utb-ce-book-gallery]
-![UTB][utb-ce-shop-search] | Shop search | [Download][utb-ce-shop-search]
-
-[utb-ce-book]: GB.Icons/UTB/ce-book.svg
-[utb-ce-book-gallery]: GB.Icons/UTB/ce-book-gallery.svg
-[utb-ce-shop-search]: GB.Icons/UTB/ce-shop-search.svg
-
-
-
