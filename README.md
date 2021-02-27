@@ -89,6 +89,7 @@ Icon | Name | &nbsp;
 ![content][ce-media] | `ce-media` | [Open icon][ce-media]
 ![content][ce-news] | `ce-news` | [Open icon][ce-news]
 ![content][ce-quote-slider] | `ce-quote-slider` | [Open icon][ce-quote-slider]
+![content][ce-quote-box] | `ce-quote-box` | [Open icon][ce-quote-box]
 ![content][ce-quote] | `ce-quote` | [Open icon][ce-quote]
 ![content][ce-service] | `ce-service` | [Open icon][ce-service]
 ![content][ce-shop-search] | `ce-shop-search` | [Open icon][ce-shop-search]
@@ -104,6 +105,7 @@ Icon | Name | &nbsp;
 ![content][ce-text-3] | `ce-text-3` | [Open icon][ce-text-3]
 ![content][ce-text-4] | `ce-text-4` | [Open icon][ce-text-4]
 ![content][ce-text-5] | `ce-text-5` | [Open icon][ce-text-5]
+![content][ce-text-6] | `ce-text-6` | [Open icon][ce-text-6]
 ![content][ce-text-box] | `ce-text-box` | [Open icon][ce-text-box]
 ![content][ce-text-button-1] | `ce-text-button-1` | [Open icon][ce-text-button-1]
 ![content][ce-text-button-2] | `ce-text-button-2` | [Open icon][ce-text-button-2]
@@ -175,6 +177,7 @@ Icon | Name | &nbsp;
 [ce-media]: src/content/ce-media.svg
 [ce-news]: src/content/ce-news.svg
 [ce-quote-slider]: src/content/ce-quote-slider.svg
+[ce-quote-box]: src/content/ce-quote-box.svg
 [ce-quote]: src/content/ce-quote.svg
 [ce-service]: src/content/ce-service.svg
 [ce-shop-search]: src/content/ce-shop-search.svg
@@ -190,6 +193,7 @@ Icon | Name | &nbsp;
 [ce-text-3]: src/content/ce-text-3.svg
 [ce-text-4]: src/content/ce-text-4.svg
 [ce-text-5]: src/content/ce-text-5.svg
+[ce-text-6]: src/content/ce-text-6.svg
 [ce-text-box]: src/content/ce-text-box.svg
 [ce-text-button-1]: src/content/ce-text-button-1.svg
 [ce-text-button-2]: src/content/ce-text-button-2.svg
@@ -344,13 +348,3 @@ Icon | Description | &nbsp;
 
 [koen-ce-lightbox-content]: GB.Icons/KOEN/ce-lightbox-content.svg
 
-### KZG
-Icon | Description | &nbsp;
----|---|---
-![KZG][kzg-ce-quote] | Quote | [Download][kzg-ce-quote]
-![KZG][kzg-ce-quote-box] | Quote box | [Download][kzg-ce-quote-box]
-![KZG][kzg-ce-quote-slider] | Quote slider | [Download][kzg-ce-quote-slider]
-
-[kzg-ce-quote]: GB.Icons/KZG/ce-quote.svg
-[kzg-ce-quote-box]: GB.Icons/KZG/ce-quote-box.svg
-[kzg-ce-quote-slider]: GB.Icons/KZG/ce-quote-slider.svg
