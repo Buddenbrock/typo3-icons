@@ -11,19 +11,19 @@ Since the icons usually have the same meaning from installation to installation,
 ## Default Icons
 You find the typo3 default iconset into  [TYPO3-Icon Repository](https://github.com/wmdbsystems/T3.Icons) or on these [Show Page](https://typo3.github.io/TYPO3.Icons/).
 
-## Grid/Layout icons
-Icon | Description | &nbsp;
+## Grid/Layout Icons
+Icon | Name | &nbsp;
 ---|---|---
-![grid][grid-25-25-25-25] | 4-column grid | [Download][grid-25-25-25-25]
-![grid][grid-33-33-33] | 3-column grid | [Download][grid-33-33-33]
-![grid][grid-40-60] | 2-column grid (40%-60%) | [Download][grid-40-60]
-![grid][grid-50-50] | 2-column grid (50%-50%) | [Download][grid-50-50]
-![grid][grid-60-40] | 2-column grid (60%-40%) | [Download][grid-60-40]
-![grid][grid-100] | 1-column grid | [Download][grid-100]
-![grid][grid-header] | Header grid | [Download][grid-header]
-![grid][grid-header-25-25-25-25] | 4-column grid with header | [Download][grid-header-25-25-25-25]
-![grid][grid-header-33-33-33] | 3-column grid with header | [Download][grid-header-33-33-33]
-![grid][grid-header-50-50] | 2-column grid with header | [Download][grid-header-50-50]
+![grid][grid-25-25-25-25] | `grid-25-25-25-25` | [Open icon][grid-25-25-25-25]
+![grid][grid-33-33-33] | `grid-33-33-33` |  [Open icon][grid-33-33-33]
+![grid][grid-40-60] | `grid-40-60` | [Open icon][grid-40-60]
+![grid][grid-50-50] | `grid-50-50` | [Open icon][grid-50-50]
+![grid][grid-60-40] | `grid-60-40` | [Open icon][grid-60-40]
+![grid][grid-100] | `grid-100` | [Open icon][grid-100]
+![grid][grid-header] | `grid-header` | [Open icon][grid-header]
+![grid][grid-header-25-25-25-25] | `grid-header-25-25-25-25` | [Open icon][grid-header-25-25-25-25]
+![grid][grid-header-33-33-33] | `grid-header-33-33-33` | [Open icon][grid-header-33-33-33]
+![grid][grid-header-50-50] | `grid-header-50-50` | [Open icon][grid-header-50-50]
 
 [grid-25-25-25-25]: src/grid/grid-25-25-25-25.svg
 [grid-33-33-33]: src/grid/grid-33-33-33.svg
@@ -36,47 +36,141 @@ Icon | Description | &nbsp;
 [grid-header-33-33-33]: src/grid/grid-header-33-33-33.svg
 [grid-header-50-50]: src/grid/grid-header-50-50.svg
 
-## Content Icons (Main)
-### Text Icons
-Icon | Description | &nbsp;
+## Content Icons
+Icon | Name | &nbsp;
 ---|---|---
-![content][ce-blockquote-1] | Blockquote | [Download][ce-blockquote-1]
-![content][ce-blockquote-2] | Blockquote | [Download][ce-blockquote-2]
-![content][ce-blog-preview] | Blog preview | [Download][ce-blog-preview]
-![content][ce-inline-quote] | Inline quote | [Download][ce-inline-quote]
-![content][ce-listbox] | Listbox | [Download][ce-listbox]
-![content][ce-quote] | Quote | [Download][ce-quote]
-![content][ce-quote-slider] | Quote Slider | [Download][ce-quote-slider]
-![content][ce-testimonial] | Testimonial | [Download][ce-testimonial]
-![content][ce-text-1] | Text | [Download][ce-text-1]
-![content][ce-text-2] | Text | [Download][ce-text-2]
-![content][ce-text-3] | Text | [Download][ce-text-3]
-![content][ce-text-4] | Text | [Download][ce-text-4]
-![content][ce-text-5] | Text | [Download][ce-text-5]
-![content][ce-text-box] | Textbox | [Download][ce-text-box]
-![content][ce-text-button-1] | Text button | [Download][ce-text-button-1]
-![content][ce-text-button-2] | Text button | [Download][ce-text-button-2]
-![content][ce-text-cta] | Text CTA | [Download][ce-text-cta]
-![content][ce-text-highlight] | Text highlight | [Download][ce-text-highlight]
-![content][ce-text-image-1] | Text image | [Download][ce-text-image-1]
-![content][ce-text-image-2] | Text image | [Download][ce-text-image-2]
-![content][ce-text-image-3] | Text image | [Download][ce-text-image-3]
-![content][ce-text-image-4] | Text image | [Download][ce-text-image-4]
-![content][ce-text-image-5] | Text image | [Download][ce-text-image-5]
-![content][ce-text-image-6] | Text image | [Download][ce-text-image-6]
-![content][ce-text-image-7] | Text image | [Download][ce-text-image-7]
-![content][ce-text-image-slider-1] | Text image slider | [Download][ce-text-image-slider-1]
-![content][ce-text-image-slider-2] | Text image slider | [Download][ce-text-image-slider-2]
-![content][ce-article] | Article | [Download][ce-article]
-![content][ce-article-slider] | Article slider | [Download][ce-article-slider]
+![content][ce-360-degree-player] | `ce-360-degree-player` | [Open icon][ce-360-degree-player]
+![content][ce-accordion-1] | `ce-accordion-1` | [Open icon][ce-accordion-1]
+![content][ce-accordion-2] | `ce-accordion-2` | [Open icon][ce-accordion-2]
+![content][ce-address] | `ce-address` | [Open icon][ce-address]
+![content][ce-article-slider] | `ce-article-slider` | [Open icon][ce-article-slider]
+![content][ce-article] | `ce-article` | [Open icon][ce-article]
+![content][ce-audio] | `ce-audio` | [Open icon][ce-audio]
+![content][ce-blockquote-1] | `ce-blockquote-1` | [Open icon][ce-blockquote-1]
+![content][ce-blockquote-2] | `ce-blockquote-2` | [Open icon][ce-blockquote-2]
+![content][ce-blog-preview] | `ce-blog-preview` | [Open icon][ce-blog-preview]
+![content][ce-button-icon] | `ce-button-icon` | [Open icon][ce-button-icon]
+![content][ce-button] | `ce-button` | [Open icon][ce-button]
+![content][ce-calender] | `ce-calender` | [Open icon][ce-calender]
+![content][ce-chat] | `ce-chat` | [Open icon][ce-chat]
+![content][ce-comment] | `ce-comment` | [Open icon][ce-comment]
+![content][ce-contact-1] | `ce-contact-1` | [Open icon][ce-contact-1]
+![content][ce-contact-2] | `ce-contact-2` | [Open icon][ce-contact-2]
+![content][ce-diagram] | `ce-diagram` | [Open icon][ce-diagram]
+![content][ce-download] | `ce-download` | [Open icon][ce-download]
+![content][ce-employee-1] | `ce-employee-1` | [Open icon][ce-employee-1]
+![content][ce-employee-2] | `ce-employee-2` | [Open icon][ce-employee-2]
+![content][ce-employee-3] | `ce-employee-3` | [Open icon][ce-employee-3]
+![content][ce-filter] | `ce-filter` | [Open icon][ce-filter]
+![content][ce-form] | `ce-form` | [Open icon][ce-form]
+![content][ce-header-image-1] | `ce-header-image-1` | [Open icon][ce-header-image-1]
+![content][ce-header-image-2] | `ce-header-image-2` | [Open icon][ce-header-image-2]
+![content][ce-header-image-3] | `ce-header-image-3` | [Open icon][ce-header-image-3]
+![content][ce-icon] | `ce-icon` | [Open icon][ce-icon]
+![content][ce-iframe] | `ce-iframe` | [Open icon][ce-iframe]
+![content][ce-image-1] | `ce-image-1` | [Open icon][ce-image-1]
+![content][ce-image-2] | `ce-image-2` | [Open icon][ce-image-2]
+![content][ce-image-3] | `ce-image-3` | [Open icon][ce-image-3]
+![content][ce-image-4] | `ce-image-4` | [Open icon][ce-image-4]
+![content][ce-image-5] | `ce-image-5` | [Open icon][ce-image-5]
+![content][ce-image-tiles-1] | `ce-image-tiles-1` | [Open icon][ce-image-tiles-1]
+![content][ce-image-tiles-2] | `ce-image-tiles-2` | [Open icon][ce-image-tiles-2]
+![content][ce-image-tiles-3] | `ce-image-tiles-3` | [Open icon][ce-image-tiles-3]
+![content][ce-image-tiles-4] | `ce-image-tiles-4` | [Open icon][ce-image-tiles-4]
+![content][ce-inline-quote] | `ce-inline-quote` | [Open icon][ce-inline-quote]
+![content][ce-listbox] | `ce-listbox` | [Open icon][ce-listbox]
+![content][ce-login] | `ce-login` | [Open icon][ce-login]
+![content][ce-map] | `ce-map` | [Open icon][ce-map]
+![content][ce-media] | `ce-media` | [Open icon][ce-media]
+![content][ce-news] | `ce-news` | [Open icon][ce-news]
+![content][ce-quote-slider] | `ce-quote-slider` | [Open icon][ce-quote-slider]
+![content][ce-quote] | `ce-quote` | [Open icon][ce-quote]
+![content][ce-service] | `ce-service` | [Open icon][ce-service]
+![content][ce-shop-search] | `ce-shop-search` | [Open icon][ce-shop-search]
+![content][ce-slider-1] | `ce-slider-1` | [Open icon][ce-slider-2]
+![content][ce-slider-2] | `ce-slider-2` | [Open icon][ce-slider-2]
+![content][ce-social] | `ce-social` | [Open icon][ce-social]
+![content][ce-teaser-1] | `ce-teaser-1` | [Open icon][ce-teaser-1]
+![content][ce-teaser-2] | `ce-teaser-2` | [Open icon][ce-teaser-2]
+![content][ce-teaser-box] | `ce-teaser-box` | [Open icon][ce-teaser-box]
+![content][ce-testimonial] | `ce-testimonial` | [Open icon][ce-testimonial]
+![content][ce-text-1] | `ce-text-1` | [Open icon][ce-text-1]
+![content][ce-text-2] | `ce-text-2` | [Open icon][ce-text-2]
+![content][ce-text-3] | `ce-text-3` | [Open icon][ce-text-3]
+![content][ce-text-4] | `ce-text-4` | [Open icon][ce-text-4]
+![content][ce-text-5] | `ce-text-5` | [Open icon][ce-text-5]
+![content][ce-text-box] | `ce-text-box` | [Open icon][ce-text-box]
+![content][ce-text-button-1] | `ce-text-button-1` | [Open icon][ce-text-button-1]
+![content][ce-text-button-2] | `ce-text-button-2` | [Open icon][ce-text-button-2]
+![content][ce-text-cta] | `ce-text-cta` | [Open icon][ce-text-cta]
+![content][ce-text-highlight] | `ce-text-highlight` | [Open icon][ce-text-highlight]
+![content][ce-text-image-1] | `ce-text-image-1` | [Open icon][ce-text-image-1]
+![content][ce-text-image-2] | `ce-text-image-2` | [Open icon][ce-text-image-2]
+![content][ce-text-image-3] | `ce-text-image-3` | [Open icon][ce-text-image-3]
+![content][ce-text-image-4] | `ce-text-image-4` | [Open icon][ce-text-image-4]
+![content][ce-text-image-5] | `ce-text-image-5` | [Open icon][ce-text-image-5]
+![content][ce-text-image-6] | `ce-text-image-6` | [Open icon][ce-text-image-6]
+![content][ce-text-image-7] | `ce-text-image-7` | [Open icon][ce-text-image-7]
+![content][ce-text-image-slider-1] | `ce-text-image-slider-1` | [Open icon][ce-text-image-slider-1]
+![content][ce-text-image-slider-2] | `ce-text-image-slider-2` | [Open icon][ce-text-image-slider-2]
+![content][ce-text-video] | `ce-text-video` | [Open icon][ce-text-video]
+![content][ce-video] | `ce-video` | [Open icon][ce-video]
+![content][ce-webcam] | `ce-webcam` | [Open icon][ce-webcam]
 
+[ce-360-degree-player]: src/content/ce-360-degree-player.svg
+[ce-accordion-1]: src/content/ce-accordion-1.svg
+[ce-accordion-2]: src/content/ce-accordion-2.svg
+[ce-address]: src/content/ce-address.svg
+[ce-article-slider]: src/content/ce-article-slider.svg
+[ce-article]: src/content/ce-article.svg
+[ce-audio]: src/content/ce-audio.svg
 [ce-blockquote-1]: src/content/ce-blockquote-1.svg
 [ce-blockquote-2]: src/content/ce-blockquote-2.svg
 [ce-blog-preview]: src/content/ce-blog-preview.svg
+[ce-button-icon]: src/content/ce-button-icon.svg
+[ce-button]: src/content/ce-button.svg
+[ce-calender]: src/content/ce-calender.svg
+[ce-chat]: src/content/ce-chat.svg
+[ce-comment]: src/content/ce-comment.svg
+[ce-contact-1]: src/content/ce-contact-1.svg
+[ce-contact-2]: src/content/ce-contact-2.svg
+[ce-diagram]: src/content/ce-diagram.svg
+[ce-download]: src/content/ce-download.svg
+[ce-employee-1]: src/content/ce-employee-1.svg
+[ce-employee-2]: src/content/ce-employee-2.svg
+[ce-employee-3]: src/content/ce-employee-3.svg
+[ce-filter]: src/content/ce-filter.svg
+[ce-form]: src/content/ce-form.svg
+[ce-header-image-1]: src/content/ce-header-image-1.svg
+[ce-header-image-2]: src/content/ce-header-image-2.svg
+[ce-header-image-3]: src/content/ce-header-image-3.svg
+[ce-icon]: src/content/ce-icon.svg
+[ce-iframe]: src/content/ce-iframe.svg
+[ce-image-1]: src/content/ce-image-1.svg
+[ce-image-2]: src/content/ce-image-2.svg
+[ce-image-3]: src/content/ce-image-3.svg
+[ce-image-4]: src/content/ce-image-4.svg
+[ce-image-5]: src/content/ce-image-5.svg
+[ce-image-tiles-1]: src/content/ce-image-tiles-1.svg
+[ce-image-tiles-2]: src/content/ce-image-tiles-2.svg
+[ce-image-tiles-3]: src/content/ce-image-tiles-3.svg
+[ce-image-tiles-4]: src/content/ce-image-tiles-4.svg
 [ce-inline-quote]: src/content/ce-inline-quote.svg
 [ce-listbox]: src/content/ce-listbox.svg
-[ce-quote]: src/content/ce-quote.svg
+[ce-login]: src/content/ce-login.svg
+[ce-map]: src/content/ce-map.svg
+[ce-media]: src/content/ce-media.svg
+[ce-news]: src/content/ce-news.svg
 [ce-quote-slider]: src/content/ce-quote-slider.svg
+[ce-quote]: src/content/ce-quote.svg
+[ce-service]: src/content/ce-service.svg
+[ce-shop-search]: src/content/ce-shop-search.svg
+[ce-slider-1]: src/content/ce-slider-1.svg
+[ce-slider-2]: src/content/ce-slider-2.svg
+[ce-social]: src/content/ce-social.svg
+[ce-teaser-1]: src/content/ce-teaser-1.svg
+[ce-teaser-2]: src/content/ce-teaser-2.svg
+[ce-teaser-box]: src/content/ce-teaser-box.svg
 [ce-testimonial]: src/content/ce-testimonial.svg
 [ce-text-1]: src/content/ce-text-1.svg
 [ce-text-2]: src/content/ce-text-2.svg
@@ -97,119 +191,11 @@ Icon | Description | &nbsp;
 [ce-text-image-7]: src/content/ce-text-image-7.svg
 [ce-text-image-slider-1]: src/content/ce-text-image-slider-1.svg
 [ce-text-image-slider-2]: src/content/ce-text-image-slider-2.svg
-[ce-article]: src/content/ce-article.svg
-[ce-article-slider]: src/content/ce-article-slider.svg
-
-### Button Icons
-Icon | Description | &nbsp;
----|---|---
-![content][ce-button] | Button | [Download][ce-button]
-![content][ce-button-icon] | Button with an icon | [Download][ce-button-icon]
-
-[ce-button]: src/content/ce-button.svg
-[ce-button-icon]: src/content/ce-button-icon.svg
-
-### Media Icons
-Icon | Description | &nbsp;
----|---|---
-![content][ce-audio] | Audio | [Download][ce-audio]
-![content][ce-header-image-1] | Header image | [Download][ce-header-image-1]
-![content][ce-header-image-2] | Header image | [Download][ce-header-image-2]
-![content][ce-header-image-3] | Header image | [Download][ce-header-image-3]
-![content][ce-image-1] | Image | [Download][ce-image-1]
-![content][ce-image-2] | Image | [Download][ce-image-2]
-![content][ce-image-3] | Image | [Download][ce-image-3]
-![content][ce-image-4] | Image | [Download][ce-image-4]
-![content][ce-image-5] | Image | [Download][ce-image-5]
-![content][ce-image-tiles-1] | Image tile | [Download][ce-image-tiles-1]
-![content][ce-image-tiles-2] | Image tile | [Download][ce-image-tiles-2]
-![content][ce-image-tiles-3] | Image tile | [Download][ce-image-tiles-3]
-![content][ce-image-tiles-4] | Image tile | [Download][ce-image-tiles-4]
-![content][ce-media] | Media | [Download][ce-media]
-![content][ce-slider-1] | Slider | [Download][ce-slider-2]
-![content][ce-slider-2] | Slider | [Download][ce-slider-2]
-![content][ce-teaser-1] | Teaser | [Download][ce-teaser-1]
-![content][ce-teaser-2] | Teaser | [Download][ce-teaser-2]
-![content][ce-text-video] | Video | [Download][ce-text-video]
-![content][ce-video] | Video | [Download][ce-video]
-![content][ce-webcam] | Webcam | [Download][ce-webcam]
-
-[ce-audio]: src/content/ce-audio.svg
-[ce-header-image-1]: src/content/ce-header-image-1.svg
-[ce-header-image-2]: src/content/ce-header-image-2.svg
-[ce-header-image-3]: src/content/ce-header-image-3.svg
-[ce-image-1]: src/content/ce-image-1.svg
-[ce-image-2]: src/content/ce-image-2.svg
-[ce-image-3]: src/content/ce-image-3.svg
-[ce-image-4]: src/content/ce-image-4.svg
-[ce-image-5]: src/content/ce-image-5.svg
-[ce-image-tiles-1]: src/content/ce-image-tiles-1.svg
-[ce-image-tiles-2]: src/content/ce-image-tiles-2.svg
-[ce-image-tiles-3]: src/content/ce-image-tiles-3.svg
-[ce-image-tiles-4]: src/content/ce-image-tiles-4.svg
-[ce-media]: src/content/ce-media.svg
-[ce-slider-1]: src/content/ce-slider-1.svg
-[ce-slider-2]: src/content/ce-slider-2.svg
-[ce-teaser-1]: src/content/ce-teaser-1.svg
-[ce-teaser-2]: src/content/ce-teaser-2.svg
-[ce-video]: src/content/ce-video.svg
 [ce-text-video]: src/content/ce-text-video.svg
+[ce-video]: src/content/ce-video.svg
 [ce-webcam]: src/content/ce-webcam.svg
 
 ## Other Icons
-Icon | Description | &nbsp;
----|---|---
-![content][ce-accordion-1] | Accordion | [Download][ce-accordion-1]
-![content][ce-accordion-2] | Accordion | [Download][ce-accordion-2]
-![content][ce-address] | Address | [Download][ce-address]
-![content][ce-calender] | Calender | [Download][ce-calender]
-![content][ce-chat] | Chat | [Download][ce-chat]
-![content][ce-comment] | Comment | [Download][ce-comment]
-![content][ce-contact-1] | Contact | [Download][ce-contact-1]
-![content][ce-contact-2] | Contact box | [Download][ce-contact-2]
-![content][ce-diagram] | Diagram | [Download][ce-diagram]
-![content][ce-download] | Downloads | [Download][ce-download]
-![content][ce-employee-1] | Employee | [Download][ce-employee-1]
-![content][ce-employee-2] | Employee | [Download][ce-employee-2]
-![content][ce-employee-3] | Employee | [Download][ce-employee-3]
-![content][ce-filter] | Filter | [Download][ce-filter]
-![content][ce-icon] | Icon | [Download][ce-icon]
-![content][ce-iframe] | iFrame | [Download][ce-iframe]
-![content][ce-login] | Login | [Download][ce-login]
-![content][ce-map] | Map | [Download][ce-map]
-![content][ce-news] | News | [Download][ce-news]
-![content][ce-service] | Service | [Download][ce-service]
-![content][ce-shop-search] | Shop search | [Download][ce-shop-search]
-![content][ce-social] | Social Media | [Download][ce-social]
-![content][ce-teaser-box] | Teaser box | [Download][ce-teaser-box]
-![content][ce-360-degree-player] | 360° player | [Download][ce-360-degree-player]
-![content][ce-form] | Form | [Download][ce-form]
-
-[ce-accordion-1]: src/content/ce-accordion-1.svg
-[ce-accordion-2]: src/content/ce-accordion-2.svg
-[ce-address]: src/content/ce-address.svg
-[ce-calender]: src/content/ce-calender.svg
-[ce-chat]: src/content/ce-chat.svg
-[ce-comment]: src/content/ce-comment.svg
-[ce-contact-1]: src/content/ce-contact-1.svg
-[ce-contact-2]: src/content/ce-contact-2.svg
-[ce-diagram]: src/content/ce-diagram.svg
-[ce-download]: src/content/ce-download.svg
-[ce-employee-1]: src/content/ce-employee-1.svg
-[ce-employee-2]: src/content/ce-employee-2.svg
-[ce-employee-3]: src/content/ce-employee-3.svg
-[ce-filter]: src/content/ce-filter.svg
-[ce-icon]: src/content/ce-icon.svg
-[ce-iframe]: src/content/ce-iframe.svg
-[ce-login]: src/content/ce-login.svg
-[ce-map]: src/content/ce-map.svg
-[ce-news]: src/content/ce-news.svg
-[ce-service]: src/content/ce-service.svg
-[ce-shop-search]: src/content/ce-shop-search.svg
-[ce-social]: src/content/ce-social.svg
-[ce-teaser-box]: src/content/ce-teaser-box.svg
-[ce-360-degree-player]: src/content/ce-360-degree-player.svg
-[ce-form]: src/content/ce-form.svg
 
 
 
