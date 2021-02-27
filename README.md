@@ -42,6 +42,7 @@ Icon | Name | &nbsp;
 ![content][ce-360-degree-player] | `ce-360-degree-player` | [Open icon][ce-360-degree-player]
 ![content][ce-accordion-1] | `ce-accordion-1` | [Open icon][ce-accordion-1]
 ![content][ce-accordion-2] | `ce-accordion-2` | [Open icon][ce-accordion-2]
+![content][ce-accordion-3] | `ce-accordion-3` | [Open icon][ce-accordion-3]
 ![content][ce-address] | `ce-address` | [Open icon][ce-address]
 ![content][ce-article-slider] | `ce-article-slider` | [Open icon][ce-article-slider]
 ![content][ce-article] | `ce-article` | [Open icon][ce-article]
@@ -66,9 +67,10 @@ Icon | Name | &nbsp;
 ![content][ce-employee-3] | `ce-employee-3` | [Open icon][ce-employee-3]
 ![content][ce-filter] | `ce-filter` | [Open icon][ce-filter]
 ![content][ce-form] | `ce-form` | [Open icon][ce-form]
-![content][ce-header-image-1] | `ce-header-image-1` | [Open icon][ce-header-image-1]
-![content][ce-header-image-2] | `ce-header-image-2` | [Open icon][ce-header-image-2]
-![content][ce-header-image-3] | `ce-header-image-3` | [Open icon][ce-header-image-3]
+![content][ce-hero-1] | `ce-hero-1` | [Open icon][ce-hero-1]
+![content][ce-hero-2] | `ce-hero-2` | [Open icon][ce-hero-2]
+![content][ce-hero-3] | `ce-hero-3` | [Open icon][ce-hero-3]
+![content][ce-hero-4] | `ce-hero-4` | [Open icon][ce-hero-4]
 ![content][ce-icon] | `ce-icon` | [Open icon][ce-icon]
 ![content][ce-iframe] | `ce-iframe` | [Open icon][ce-iframe]
 ![content][ce-image-1] | `ce-image-1` | [Open icon][ce-image-1]
@@ -132,6 +134,7 @@ Icon | Name | &nbsp;
 [ce-360-degree-player]: src/content/ce-360-degree-player.svg
 [ce-accordion-1]: src/content/ce-accordion-1.svg
 [ce-accordion-2]: src/content/ce-accordion-2.svg
+[ce-accordion-3]: src/content/ce-accordion-3.svg
 [ce-address]: src/content/ce-address.svg
 [ce-article-slider]: src/content/ce-article-slider.svg
 [ce-article]: src/content/ce-article.svg
@@ -156,9 +159,10 @@ Icon | Name | &nbsp;
 [ce-employee-3]: src/content/ce-employee-3.svg
 [ce-filter]: src/content/ce-filter.svg
 [ce-form]: src/content/ce-form.svg
-[ce-header-image-1]: src/content/ce-header-image-1.svg
-[ce-header-image-2]: src/content/ce-header-image-2.svg
-[ce-header-image-3]: src/content/ce-header-image-3.svg
+[ce-hero-1]: src/content/ce-hero-1.svg
+[ce-hero-2]: src/content/ce-hero-2.svg
+[ce-hero-3]: src/content/ce-hero-3.svg
+[ce-hero-4]: src/content/ce-hero-4.svg
 [ce-icon]: src/content/ce-icon.svg
 [ce-iframe]: src/content/ce-iframe.svg
 [ce-image-1]: src/content/ce-image-1.svg
@@ -326,12 +330,3 @@ Icon | Description | &nbsp;
 [hts-ce-list]: GB.Icons/HTS/ce-list.svg
 [hts-ce-team]: GB.Icons/HTS/ce-team.svg
 [hts-ce-text]: GB.Icons/HTS/ce-text.svg
-
-### JHN
-Icon | Description | &nbsp;
----|---|---
-![JHN][jhn-ce-accordion] | Accordion | [Download][jhn-ce-accordion]
-![JHN][jhn-ce-stage] | Stage | [Download][jhn-ce-stage]
-
-[jhn-ce-accordion]: GB.Icons/JHN/ce-accordion.svg
-[jhn-ce-stage]: GB.Icons/JHN/ce-stage.svg
