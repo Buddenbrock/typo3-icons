@@ -9,7 +9,7 @@ There is already a small collection of created icons in this document. These dep
 Since the icons usually have the same meaning from installation to installation, it would be possible in this document to create a small collection from which demand icons can be used.
 
 ## Default Icons
-You find the typo3 default iconset into  [TYPO3-Icon Repository](https://github.com/wmdbsystems/T3.Icons) or on these [Show Page](https://typo3.github.io/TYPO3.Icons/).
+You find the typo3 default iconset into  [TYPO3-Icon Repository](https://github.com/TYPO3/TYPO3.Icons) or on these [Show Page](https://typo3.github.io/TYPO3.Icons/).
 
 ## Grid/Layout Icons
 Icon | Name | &nbsp;
