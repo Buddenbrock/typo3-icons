@@ -89,6 +89,7 @@ Icon | Name | &nbsp;
 ![content][ce-map] | `ce-map` | [Open icon][ce-map]
 ![content][ce-media] | `ce-media` | [Open icon][ce-media]
 ![content][ce-news] | `ce-news` | [Open icon][ce-news]
+![content][ce-podcast] | `ce-podcast` | [Open icon][ce-podcast]
 ![content][ce-quote-slider] | `ce-quote-slider` | [Open icon][ce-quote-slider]
 ![content][ce-quote-box] | `ce-quote-box` | [Open icon][ce-quote-box]
 ![content][ce-quote] | `ce-quote` | [Open icon][ce-quote]
@@ -178,6 +179,7 @@ Icon | Name | &nbsp;
 [ce-map]: src/content/ce-map.svg
 [ce-media]: src/content/ce-media.svg
 [ce-news]: src/content/ce-news.svg
+[ce-podcast]: src/content/ce-podcast.svg
 [ce-quote-slider]: src/content/ce-quote-slider.svg
 [ce-quote-box]: src/content/ce-quote-box.svg
 [ce-quote]: src/content/ce-quote.svg
@@ -333,12 +335,3 @@ Icon | Description | &nbsp;
 
 [jhn-ce-accordion]: GB.Icons/JHN/ce-accordion.svg
 [jhn-ce-stage]: GB.Icons/JHN/ce-stage.svg
-
-### JOY
-Icon | Description | &nbsp;
----|---|---
-![JOY][joy-ce-facebook] | Facebook | [Download][joy-ce-facebook]
-![JOY][joy-ce-podcast] | Podcast | [Download][joy-ce-podcast]
-
-[joy-ce-facebook]: GB.Icons/JOY/ce-facebook.svg
-[joy-ce-podcast]: GB.Icons/JOY/ce-podcast.svg
