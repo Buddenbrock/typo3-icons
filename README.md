@@ -43,6 +43,7 @@ Icon | Name | &nbsp;
 ![content][ce-accordion-1] | `ce-accordion-1` | [Open icon][ce-accordion-1]
 ![content][ce-accordion-2] | `ce-accordion-2` | [Open icon][ce-accordion-2]
 ![content][ce-accordion-3] | `ce-accordion-3` | [Open icon][ce-accordion-3]
+![content][ce-accordion-4] | `ce-accordion-4` | [Open icon][ce-accordion-4]
 ![content][ce-address] | `ce-address` | [Open icon][ce-address]
 ![content][ce-article-slider] | `ce-article-slider` | [Open icon][ce-article-slider]
 ![content][ce-article] | `ce-article` | [Open icon][ce-article]
@@ -81,6 +82,9 @@ Icon | Name | &nbsp;
 ![content][ce-image-3] | `ce-image-3` | [Open icon][ce-image-3]
 ![content][ce-image-4] | `ce-image-4` | [Open icon][ce-image-4]
 ![content][ce-image-5] | `ce-image-5` | [Open icon][ce-image-5]
+![content][ce-image-6] | `ce-image-6` | [Open icon][ce-image-6]
+![content][ce-image-7] | `ce-image-7` | [Open icon][ce-image-7]
+![content][ce-image-8] | `ce-image-8` | [Open icon][ce-image-8]
 ![content][ce-image-slider] | `ce-image-slide` | [Open icon][ce-image-slider]
 ![content][ce-image-tiles-1] | `ce-image-tiles-1` | [Open icon][ce-image-tiles-1]
 ![content][ce-image-tiles-2] | `ce-image-tiles-2` | [Open icon][ce-image-tiles-2]
@@ -128,6 +132,7 @@ Icon | Name | &nbsp;
 ![content][ce-text-image-5] | `ce-text-image-5` | [Open icon][ce-text-image-5]
 ![content][ce-text-image-6] | `ce-text-image-6` | [Open icon][ce-text-image-6]
 ![content][ce-text-image-7] | `ce-text-image-7` | [Open icon][ce-text-image-7]
+![content][ce-text-image-8] | `ce-text-image-8` | [Open icon][ce-text-image-8]
 ![content][ce-text-image-slider-1] | `ce-text-image-slider-1` | [Open icon][ce-text-image-slider-1]
 ![content][ce-text-image-slider-2] | `ce-text-image-slider-2` | [Open icon][ce-text-image-slider-2]
 ![content][ce-text-list-1] | `ce-text-list-1` | [Open icon][ce-text-list-1]
@@ -143,6 +148,7 @@ Icon | Name | &nbsp;
 [ce-accordion-1]: src/content/ce-accordion-1.svg
 [ce-accordion-2]: src/content/ce-accordion-2.svg
 [ce-accordion-3]: src/content/ce-accordion-3.svg
+[ce-accordion-4]: src/content/ce-accordion-4.svg
 [ce-address]: src/content/ce-address.svg
 [ce-article-slider]: src/content/ce-article-slider.svg
 [ce-article]: src/content/ce-article.svg
@@ -181,6 +187,9 @@ Icon | Name | &nbsp;
 [ce-image-3]: src/content/ce-image-3.svg
 [ce-image-4]: src/content/ce-image-4.svg
 [ce-image-5]: src/content/ce-image-5.svg
+[ce-image-6]: src/content/ce-image-6.svg
+[ce-image-7]: src/content/ce-image-7.svg
+[ce-image-8]: src/content/ce-image-8.svg
 [ce-image-slider]: src/content/ce-image-slider.svg
 [ce-image-tiles-1]: src/content/ce-image-tiles-1.svg
 [ce-image-tiles-2]: src/content/ce-image-tiles-2.svg
@@ -228,6 +237,7 @@ Icon | Name | &nbsp;
 [ce-text-image-5]: src/content/ce-text-image-5.svg
 [ce-text-image-6]: src/content/ce-text-image-6.svg
 [ce-text-image-7]: src/content/ce-text-image-7.svg
+[ce-text-image-8]: src/content/ce-text-image-8.svg
 [ce-text-image-slider-1]: src/content/ce-text-image-slider-1.svg
 [ce-text-image-slider-2]: src/content/ce-text-image-slider-2.svg
 [ce-text-list-1]: src/content/ce-text-list-1.svg
