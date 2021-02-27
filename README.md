@@ -60,6 +60,7 @@ Icon | Name | &nbsp;
 ![content][ce-comment] | `ce-comment` | [Open icon][ce-comment]
 ![content][ce-contact-1] | `ce-contact-1` | [Open icon][ce-contact-1]
 ![content][ce-contact-2] | `ce-contact-2` | [Open icon][ce-contact-2]
+![content][ce-countdown] | `ce-countdown` | [Open icon][ce-countdown]
 ![content][ce-diagram] | `ce-diagram` | [Open icon][ce-diagram]
 ![content][ce-download] | `ce-download` | [Open icon][ce-download]
 ![content][ce-employee-1] | `ce-employee-1` | [Open icon][ce-employee-1]
@@ -157,6 +158,7 @@ Icon | Name | &nbsp;
 [ce-comment]: src/content/ce-comment.svg
 [ce-contact-1]: src/content/ce-contact-1.svg
 [ce-contact-2]: src/content/ce-contact-2.svg
+[ce-countdown]: src/content/ce-countdown.svg
 [ce-diagram]: src/content/ce-diagram.svg
 [ce-download]: src/content/ce-download.svg
 [ce-employee-1]: src/content/ce-employee-1.svg
@@ -268,15 +270,6 @@ Icon | Description | &nbsp;
 
 [brg-ce-address]: GB.Icons/BRG/ce-address.svg
 [brg-ce-slider]: GB.Icons/BRG/ce-slider.svg
-
-### CJD
-Icon | Description | &nbsp;
----|---|---
-![CJD][cjd-ce-countdown] | Countdown | [Download][cjd-ce-countdown]
-![CJD][cjd-ce-donation-chart] | Donation chart | [Download][cjd-ce-donation-chart]
-
-[cjd-ce-countdown]: GB.Icons/CJD/ce-countdown.svg
-[cjd-ce-donation-chart]: GB.Icons/CJD/ce-donation-chart.svg
 
 ### CUR
 Icon | Description | &nbsp;
