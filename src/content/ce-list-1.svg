@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>ce-list-1</title>
-    <g id="ce-list-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="2 2 34 2 34 34 2 34"></polygon>
-        <path d="M2,2 L2,34 L34,34 L34,2 L2,2 L2,2 Z M4,4 L32,4 L32,32 L4,32 L4,4 L4,4 Z" id="Shape" fill="#999999" fill-rule="nonzero"></path>
-        <rect id="Rectangle-13" fill="#E8E8E8" fill-rule="nonzero" x="4" y="12" width="28" height="20"></rect>
-        <path d="M22,25 L22,27 L9,27 L9,25 L22,25 Z M22,21 L22,23 L9,23 L9,21 L22,21 Z M22,17 L22,19 L9,19 L9,17 L22,17 Z" id="text" fill="#999999" fill-rule="nonzero"></path>
-        <polygon id="Path" fill="#666666" fill-rule="nonzero" points="6 7 30 7 30 10 6 10"></polygon>
-        <path d="M25,25 L27,26 L25,27 L25,25 Z M25,21 L27,22 L25,23 L25,21 Z M25,17 L27,18 L25,19 L25,17 Z" id="Combined-Shape" fill="#FF8700" fill-rule="nonzero"></path>
-    </g>
+<svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" fill-rule="nonzero">
+    <path fill="#FFF" d="M2 2h32v32H2z"/>
+    <path fill="#999" d="M2 2v32h32V2H2zm2 2h28v28H4V4z"/>
+    <path fill="#E8E8E8" d="M4 12h28v20H4z"/>
+    <path fill="#999" d="M22 25v2H9v-2h13zm0-4v2H9v-2h13zm0-4v2H9v-2h13z"/>
+    <path fill="#666" d="M6 7h24v3H6z"/>
+    <path fill="#FF8700" d="M25 25l2 1-2 1v-2zm0-4l2 1-2 1v-2zm0-4l2 1-2 1v-2z"/>
+  </g>
 </svg>
