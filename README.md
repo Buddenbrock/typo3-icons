@@ -67,6 +67,7 @@ Icon | Name | &nbsp;
 ![content][ce-employee-3] | `ce-employee-3` | [Open icon][ce-employee-3]
 ![content][ce-filter] | `ce-filter` | [Open icon][ce-filter]
 ![content][ce-form] | `ce-form` | [Open icon][ce-form]
+![content][ce-fundraising] | `ce-fundraising` | [Open icon][ce-fundraising]
 ![content][ce-hero-1] | `ce-hero-1` | [Open icon][ce-hero-1]
 ![content][ce-hero-2] | `ce-hero-2` | [Open icon][ce-hero-2]
 ![content][ce-hero-3] | `ce-hero-3` | [Open icon][ce-hero-3]
@@ -89,7 +90,8 @@ Icon | Name | &nbsp;
 ![content][ce-list-2] | `ce-list-2` | [Open icon][ce-list-2]
 ![content][ce-listbox] | `ce-listbox` | [Open icon][ce-listbox]
 ![content][ce-login] | `ce-login` | [Open icon][ce-login]
-![content][ce-map] | `ce-map` | [Open icon][ce-map]
+![content][ce-map-1] | `ce-map-1` | [Open icon][ce-map-1]
+![content][ce-map-2] | `ce-map-2` | [Open icon][ce-map-2]
 ![content][ce-media] | `ce-media` | [Open icon][ce-media]
 ![content][ce-news] | `ce-news` | [Open icon][ce-news]
 ![content][ce-podcast] | `ce-podcast` | [Open icon][ce-podcast]
@@ -162,6 +164,7 @@ Icon | Name | &nbsp;
 [ce-employee-3]: src/content/ce-employee-3.svg
 [ce-filter]: src/content/ce-filter.svg
 [ce-form]: src/content/ce-form.svg
+[ce-fundraising]: src/content/ce-fundraising.svg
 [ce-hero-1]: src/content/ce-hero-1.svg
 [ce-hero-2]: src/content/ce-hero-2.svg
 [ce-hero-3]: src/content/ce-hero-3.svg
@@ -184,7 +187,8 @@ Icon | Name | &nbsp;
 [ce-list-2]: src/content/ce-list-2.svg
 [ce-listbox]: src/content/ce-listbox.svg
 [ce-login]: src/content/ce-login.svg
-[ce-map]: src/content/ce-map.svg
+[ce-map-1]: src/content/ce-map-1.svg
+[ce-map-2]: src/content/ce-map-2.svg
 [ce-media]: src/content/ce-media.svg
 [ce-news]: src/content/ce-news.svg
 [ce-podcast]: src/content/ce-podcast.svg
