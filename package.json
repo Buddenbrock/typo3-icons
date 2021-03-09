@@ -1,0 +1,29 @@
+{
+  "name": "@buddenbrock/typo3-icons",
+  "description": "SVG icons for the TYPO3 CMS backend",
+  "version": "0.0.4",
+  "keywords": [
+    "TYPO3",
+    "Icons"
+  ],
+  "author": "Dirk Buddenbrock",
+  "contributors": [
+    {
+      "name": "CP/COMPARTNER",
+      "url": "https://www.cp-compartner.de"
+    },
+    {
+      "name": "Gute Botschafter GmbH",
+      "url": "https://www.gute-botschafter.de"
+    }
+  ],
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Buddenbrock/typo3-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Buddenbrock/typo3-icons/issues"
+  },
+  "license": "MIT"
+}
