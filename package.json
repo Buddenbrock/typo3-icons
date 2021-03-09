@@ -17,6 +17,9 @@
       "url": "https://www.gute-botschafter.de"
     }
   ],
+  "files": [
+    "src/"
+  ],
   "readme": "README.md",
   "repository": {
     "type": "git",
