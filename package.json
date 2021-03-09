@@ -1,7 +1,7 @@
 {
   "name": "@buddenbrock/typo3-icons",
   "description": "Additional SVG icons for the TYPO3 CMS backend",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "keywords": [
     "TYPO3",
     "Icons"
@@ -16,6 +16,9 @@
       "name": "Gute Botschafter GmbH",
       "url": "https://www.gute-botschafter.de"
     }
+  ],
+  "files": [
+    "src/"
   ],
   "readme": "README.md",
   "repository": {
