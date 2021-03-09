@@ -1,6 +1,6 @@
 {
   "name": "@buddenbrock/typo3-icons",
-  "description": "SVG icons for the TYPO3 CMS backend",
+  "description": "Additional SVG icons for the TYPO3 CMS backend",
   "version": "0.0.4",
   "keywords": [
     "TYPO3",
