@@ -1,9 +1,6 @@
-<svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-  <g fill-rule="nonzero" fill="none">
-    <path fill="#FFF" d="M2 2h32v32H2z"/>
-    <path fill="#999" d="M2 2v32h32V2H2zm2 2h28v28H4V4z"/>
-    <path fill="#59F" d="M27.752 10.92l-20 2.5A2 2 0 006 15.405v5.224a2 2 0 002 2h20a2 2 0 002-2v-7.724a2 2 0 00-2.248-1.985z"/>
-    <path stroke="#FFF" fill="#EFEFEF" d="M9.5 19.5h13v7h-13z"/>
-    <path fill="#B9B9B9" d="M12 22h8v2h-8z"/>
-  </g>
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#999" d="M2 2v28h28V2z"/>
+    <path fill="#FFF" d="M4 4h24v24H4z"/>
+    <path fill="#59F" d="M23 17H13v3H8a2 2 0 01-2-2v-4a2 2 0 012-2h16a2 2 0 012 2v4a2 2 0 01-2 2h-1v-3z"/>
+    <path fill="#666" d="M14 18h8v4h-8z"/>
 </svg>

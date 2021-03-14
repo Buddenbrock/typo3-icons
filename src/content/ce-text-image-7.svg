@@ -1,12 +1,10 @@
-<svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-  <g fill="none" fill-rule="nonzero">
-    <path fill="#FFF" d="M2 2h32v32H2z"/>
-    <path fill="#999" d="M2 2v32h32V2H2zm2 2h28v28H4V4z"/>
-    <path fill="#59F" d="M22 11h8v11h-8z"/>
-    <path fill="#FFF" d="M22 12h7v10h-7z"/>
-    <path fill="#59F" d="M20 13h8v11h-8z"/>
-    <path fill="#EFEFEF" d="M22.976 17.5l.741.98.43-.482L25.5 19.49l-4 .011 1.476-2V17.5zm3.024-1a.5.5 0 11.5.5l-.5-.5z"/>
-    <path fill="#B9B9B9" d="M18 22v2H6v-2h12zm0-4v2H6v-2h12z"/>
-    <path fill="#666" d="M18 13v3H6v-3z"/>
-  </g>
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#999" d="M2 2v28h28V2z"/>
+  <path fill="#FFF" d="M4 4h24v24H4z"/>
+  <path fill="#59F" d="M18 9h8v8h-8z"/>
+  <path fill="#FFF" d="M18 10h7v7h-7z"/>
+  <path fill="#59F" d="M17 11h7v7h-7z"/>
+  <path fill="#EFEFEF" d="M19.443 14.453l.725.844.421-.415 1.323 1.283-3.912.01 1.443-1.722zM22.322 13c.375 0 .678.326.678.727 0 .402-.304.727-.678.727-.374 0-.678-.325-.678-.727 0-.401.304-.727.678-.727z"/>
+  <path fill="#B9B9B9" d="M15 22v2H6v-2h9zm0-4v2H6v-2h9zm0-4v2H6v-2h9z"/>
+  <path fill="#666" d="M15 9v3H6V9z"/>
 </svg>
