@@ -18,8 +18,6 @@ jobs:
         with:
           node-version: 12
           registry-url: https://registry.npmjs.org/
-      - run: npm install
-      - run: npm adduser --registry=https://registry.npmjs.org/:_authToken=${{secrets.NPM_AUTH_TOKEN}}
       - run: npm publish --access public
         env:
           GITHUB_TOKEN: ${{secrets.NPM_AUTH_TOKEN}}
@@ -34,7 +32,6 @@ jobs:
         with:
           node-version: 12
           registry-url: https://npm.pkg.github.com/
-      - run: npm install
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_AUTH_TOKEN}}
