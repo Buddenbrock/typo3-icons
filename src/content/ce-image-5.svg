@@ -1,10 +1,8 @@
-<svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-  <g fill="none" fill-rule="nonzero">
-    <path fill="#FFF" d="M2 2h32v32H2z"/>
-    <path fill="#999" d="M2 2v32h32V2H2zm2 2h28v28H4V4z"/>
-    <path fill="#4A90E2" d="M6 6h24v18H6z"/>
-    <path fill="#FFF" d="M16.981 13l2.028 2.934 1.023-1.096 3.52 3.78L13 18.674 16.981 13zm5.337-3c.728 0 1.318.638 1.318 1.424 0 .786-.59 1.424-1.318 1.424-.728 0-1.318-.638-1.318-1.424 0-.786.59-1.424 1.318-1.424z"/>
-    <path fill="#FF8700" d="M6 26h13v4H6z"/>
-    <path fill="#C76701" d="M6 26h4v4H6z"/>
-  </g>
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#999" d="M2 2v28h28V2z"/>
+  <path fill="#FFF" d="M4 4h24v24H4z"/>
+  <path fill="#FF8700" d="M6 23h12v3H6z"/>
+  <path fill-opacity=".3" fill="#000" d="M6 23h3v3H6z"/>
+  <path fill="#59F" d="M6 6h20v15H6z"/>
+  <path fill="#FFF" d="M13.978 12.846l1.437 1.652.821-.826 2.592 2.518-7.828.023 2.978-3.367zM19.78 10c.758 0 1.372.637 1.372 1.423 0 .785-.614 1.422-1.372 1.422-.757 0-1.371-.636-1.371-1.422 0-.786.614-1.423 1.371-1.423z"/>
 </svg>

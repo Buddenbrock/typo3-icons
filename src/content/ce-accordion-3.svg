@@ -1,9 +1,7 @@
-<svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-  <g fill="none" fill-rule="nonzero">
-    <path fill="#FFF" d="M2 2h32v32H2z"/>
-    <path fill="#999" d="M2 2v32h32V2H2zm2 2h28v28H4V4z"/>
-    <path fill="#EFEFEF" d="M30 23v7.39H6V23h24zm0-8.5v7.39H6V14.5h24zM30 6v7.39H6V6h24z"/>
-    <path fill="#FF8700" d="M28 25l-1.75 3.5L24.5 25H28zm0-8.5L26.25 20l-1.75-3.5H28zM28 8l-1.75 3.5L24.5 8H28z"/>
-    <path fill="#B9B9B9" d="M21 25.75v1.847H8V25.75h13zm0-8.5v1.847H8V17.25h13zm0-8.5v1.847H8V8.75h13z"/>
-  </g>
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#999" d="M2 2v28h28V2z"/>
+  <path fill="#FFF" d="M4 4h24v24H4z"/>
+  <path fill="#EFEFEF" d="M26 20v6H6v-6h20zm0-7v6H6v-6h20zm0-7v6H6V6h20z"/>
+  <path fill="#B9B9B9" d="M18 22v2H8v-2h10zm0-7v2H8v-2h10zm0-7v2H8V8h10z"/>
+  <path fill="#FF8700" d="M23.5 21.5l-1.5 3-1.5-3h3zm0-7l-1.5 3-1.5-3h3zm0-7l-1.5 3-1.5-3h3z"/>
 </svg>

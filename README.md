@@ -45,11 +45,15 @@ Icon | Name | &nbsp;
 ![content][ce-accordion-3] | `ce-accordion-3` | [Open icon][ce-accordion-3]
 ![content][ce-accordion-4] | `ce-accordion-4` | [Open icon][ce-accordion-4]
 ![content][ce-address] | `ce-address` | [Open icon][ce-address]
-![content][ce-article-slider] | `ce-article-slider` | [Open icon][ce-article-slider]
-![content][ce-article] | `ce-article` | [Open icon][ce-article]
+![content][ce-article-slider-1] | `ce-article-slider-1` | [Open icon][ce-article-slider-1]
+![content][ce-article-slider-2] | `ce-article-slider-2` | [Open icon][ce-article-slider-2]
+![content][ce-article-1] | `ce-article-1` | [Open icon][ce-article-1]
+![content][ce-article-2] | `ce-article-2` | [Open icon][ce-article-2]
 ![content][ce-audio] | `ce-audio` | [Open icon][ce-audio]
 ![content][ce-blockquote-1] | `ce-blockquote-1` | [Open icon][ce-blockquote-1]
 ![content][ce-blockquote-2] | `ce-blockquote-2` | [Open icon][ce-blockquote-2]
+![content][ce-blockquote-3] | `ce-blockquote-3` | [Open icon][ce-blockquote-3]
+![content][ce-blockquote-4] | `ce-blockquote-4` | [Open icon][ce-blockquote-4]
 ![content][ce-blog-preview] | `ce-blog-preview` | [Open icon][ce-blog-preview]
 ![content][ce-book-gallery] | `ce-book-gallery` | [Open icon][ce-book-gallery]
 ![content][ce-book] | `ce-book` | [Open icon][ce-book]
@@ -75,6 +79,7 @@ Icon | Name | &nbsp;
 ![content][ce-hero-3] | `ce-hero-3` | [Open icon][ce-hero-3]
 ![content][ce-hero-4] | `ce-hero-4` | [Open icon][ce-hero-4]
 ![content][ce-hero-5] | `ce-hero-5` | [Open icon][ce-hero-5]
+![content][ce-hero-6] | `ce-hero-6` | [Open icon][ce-hero-6]
 ![content][ce-icon] | `ce-icon` | [Open icon][ce-icon]
 ![content][ce-iframe] | `ce-iframe` | [Open icon][ce-iframe]
 ![content][ce-image-1] | `ce-image-1` | [Open icon][ce-image-1]
@@ -89,7 +94,6 @@ Icon | Name | &nbsp;
 ![content][ce-image-tiles-1] | `ce-image-tiles-1` | [Open icon][ce-image-tiles-1]
 ![content][ce-image-tiles-2] | `ce-image-tiles-2` | [Open icon][ce-image-tiles-2]
 ![content][ce-image-tiles-3] | `ce-image-tiles-3` | [Open icon][ce-image-tiles-3]
-![content][ce-image-tiles-4] | `ce-image-tiles-4` | [Open icon][ce-image-tiles-4]
 ![content][ce-inline-quote] | `ce-inline-quote` | [Open icon][ce-inline-quote]
 ![content][ce-lightbox-content] | `ce-lightbox-content` | [Open icon][ce-lightbox-content]
 ![content][ce-list-1] | `ce-list-1` | [Open icon][ce-list-1]
@@ -123,6 +127,7 @@ Icon | Name | &nbsp;
 ![content][ce-text-box] | `ce-text-box` | [Open icon][ce-text-box]
 ![content][ce-text-button-1] | `ce-text-button-1` | [Open icon][ce-text-button-1]
 ![content][ce-text-button-2] | `ce-text-button-2` | [Open icon][ce-text-button-2]
+![content][ce-text-button-3] | `ce-text-button-3` | [Open icon][ce-text-button-3]
 ![content][ce-text-cta] | `ce-text-cta` | [Open icon][ce-text-cta]
 ![content][ce-text-highlight] | `ce-text-highlight` | [Open icon][ce-text-highlight]
 ![content][ce-text-image-1] | `ce-text-image-1` | [Open icon][ce-text-image-1]
@@ -150,11 +155,15 @@ Icon | Name | &nbsp;
 [ce-accordion-3]: src/content/ce-accordion-3.svg
 [ce-accordion-4]: src/content/ce-accordion-4.svg
 [ce-address]: src/content/ce-address.svg
-[ce-article-slider]: src/content/ce-article-slider.svg
-[ce-article]: src/content/ce-article.svg
+[ce-article-slider-1]: src/content/ce-article-slider-1.svg
+[ce-article-slider-2]: src/content/ce-article-slider-2.svg
+[ce-article-1]: src/content/ce-article-1.svg
+[ce-article-2]: src/content/ce-article-2.svg
 [ce-audio]: src/content/ce-audio.svg
 [ce-blockquote-1]: src/content/ce-blockquote-1.svg
 [ce-blockquote-2]: src/content/ce-blockquote-2.svg
+[ce-blockquote-3]: src/content/ce-blockquote-3.svg
+[ce-blockquote-4]: src/content/ce-blockquote-4.svg
 [ce-blog-preview]: src/content/ce-blog-preview.svg
 [ce-book-gallery]: src/content/ce-book-gallery.svg
 [ce-book]: src/content/ce-book.svg
@@ -180,6 +189,7 @@ Icon | Name | &nbsp;
 [ce-hero-3]: src/content/ce-hero-3.svg
 [ce-hero-4]: src/content/ce-hero-4.svg
 [ce-hero-5]: src/content/ce-hero-5.svg
+[ce-hero-6]: src/content/ce-hero-6.svg
 [ce-icon]: src/content/ce-icon.svg
 [ce-iframe]: src/content/ce-iframe.svg
 [ce-image-1]: src/content/ce-image-1.svg
@@ -194,7 +204,6 @@ Icon | Name | &nbsp;
 [ce-image-tiles-1]: src/content/ce-image-tiles-1.svg
 [ce-image-tiles-2]: src/content/ce-image-tiles-2.svg
 [ce-image-tiles-3]: src/content/ce-image-tiles-3.svg
-[ce-image-tiles-4]: src/content/ce-image-tiles-4.svg
 [ce-inline-quote]: src/content/ce-inline-quote.svg
 [ce-lightbox-content]: src/content/ce-lightbox-content.svg
 [ce-list-1]: src/content/ce-list-1.svg
@@ -228,6 +237,7 @@ Icon | Name | &nbsp;
 [ce-text-box]: src/content/ce-text-box.svg
 [ce-text-button-1]: src/content/ce-text-button-1.svg
 [ce-text-button-2]: src/content/ce-text-button-2.svg
+[ce-text-button-3]: src/content/ce-text-button-3.svg
 [ce-text-cta]: src/content/ce-text-cta.svg
 [ce-text-highlight]: src/content/ce-text-highlight.svg
 [ce-text-image-1]: src/content/ce-text-image-1.svg
