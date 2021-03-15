@@ -4,9 +4,9 @@
 name: Publish packages
 
 on:
-  push:
-    branches:
-      - master
+  create:
+    tags:
+      - *
 
 jobs:
   publish-gpr:
