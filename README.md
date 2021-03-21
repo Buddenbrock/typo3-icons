@@ -11,6 +11,15 @@ Since the icons usually have the same meaning from installation to installation,
 ## Default Icons
 You find the typo3 default iconset into  [TYPO3-Icon Repository](https://github.com/TYPO3/TYPO3.Icons) or on these [Show Page](https://typo3.github.io/TYPO3.Icons/).
 
+## Pagetree Icons
+Icon | Name | &nbsp;
+---|---|---
+![pagetree][pagetree-page-blog] | `pagetree-page-blog` | [Open icon][pagetree-page-blog]
+![pagetree][pagetree-page-missing] | `pagetree-page-missing` | [Open icon][pagetree-page-missing]
+
+[pagetree-page-blog]: src/pagetree/pagetree-page-blog.svg
+[pagetree-page-missing]: src/pagetree/pagetree-page-missing.svg
+
 ## Grid/Layout Icons
 Icon | Name | &nbsp;
 ---|---|---
@@ -74,12 +83,14 @@ Icon | Name | &nbsp;
 ![content][ce-filter] | `ce-filter` | [Open icon][ce-filter]
 ![content][ce-form] | `ce-form` | [Open icon][ce-form]
 ![content][ce-fundraising] | `ce-fundraising` | [Open icon][ce-fundraising]
+![content][ce-gallery-item] | `ce-gallery-item` | [Open icon][ce-gallery-item]
 ![content][ce-hero-1] | `ce-hero-1` | [Open icon][ce-hero-1]
 ![content][ce-hero-2] | `ce-hero-2` | [Open icon][ce-hero-2]
 ![content][ce-hero-3] | `ce-hero-3` | [Open icon][ce-hero-3]
 ![content][ce-hero-4] | `ce-hero-4` | [Open icon][ce-hero-4]
 ![content][ce-hero-5] | `ce-hero-5` | [Open icon][ce-hero-5]
 ![content][ce-hero-6] | `ce-hero-6` | [Open icon][ce-hero-6]
+![content][ce-hero-7] | `ce-hero-7` | [Open icon][ce-hero-7]
 ![content][ce-icon] | `ce-icon` | [Open icon][ce-icon]
 ![content][ce-iframe] | `ce-iframe` | [Open icon][ce-iframe]
 ![content][ce-image-1] | `ce-image-1` | [Open icon][ce-image-1]
@@ -90,11 +101,15 @@ Icon | Name | &nbsp;
 ![content][ce-image-6] | `ce-image-6` | [Open icon][ce-image-6]
 ![content][ce-image-7] | `ce-image-7` | [Open icon][ce-image-7]
 ![content][ce-image-8] | `ce-image-8` | [Open icon][ce-image-8]
+![content][ce-image-9] | `ce-image-9` | [Open icon][ce-image-9]
+![content][ce-image-downloads] | `ce-image-downloads` | [Open icon][ce-image-downloads]
 ![content][ce-image-slider] | `ce-image-slide` | [Open icon][ce-image-slider]
+![content][ce-image-statement] | `ce-image-statement` | [Open icon][ce-image-statement]
 ![content][ce-image-tiles-1] | `ce-image-tiles-1` | [Open icon][ce-image-tiles-1]
 ![content][ce-image-tiles-2] | `ce-image-tiles-2` | [Open icon][ce-image-tiles-2]
 ![content][ce-image-tiles-3] | `ce-image-tiles-3` | [Open icon][ce-image-tiles-3]
 ![content][ce-inline-quote] | `ce-inline-quote` | [Open icon][ce-inline-quote]
+![content][ce-instagram] | `ce-instagram` | [Open icon][ce-instagram]
 ![content][ce-lightbox-content] | `ce-lightbox-content` | [Open icon][ce-lightbox-content]
 ![content][ce-list-1] | `ce-list-1` | [Open icon][ce-list-1]
 ![content][ce-list-2] | `ce-list-2` | [Open icon][ce-list-2]
@@ -184,12 +199,14 @@ Icon | Name | &nbsp;
 [ce-filter]: src/content/ce-filter.svg
 [ce-form]: src/content/ce-form.svg
 [ce-fundraising]: src/content/ce-fundraising.svg
+[ce-gallery-item]: src/content/ce-gallery-item.svg
 [ce-hero-1]: src/content/ce-hero-1.svg
 [ce-hero-2]: src/content/ce-hero-2.svg
 [ce-hero-3]: src/content/ce-hero-3.svg
 [ce-hero-4]: src/content/ce-hero-4.svg
 [ce-hero-5]: src/content/ce-hero-5.svg
 [ce-hero-6]: src/content/ce-hero-6.svg
+[ce-hero-7]: src/content/ce-hero-7.svg
 [ce-icon]: src/content/ce-icon.svg
 [ce-iframe]: src/content/ce-iframe.svg
 [ce-image-1]: src/content/ce-image-1.svg
@@ -200,11 +217,15 @@ Icon | Name | &nbsp;
 [ce-image-6]: src/content/ce-image-6.svg
 [ce-image-7]: src/content/ce-image-7.svg
 [ce-image-8]: src/content/ce-image-8.svg
+[ce-image-9]: src/content/ce-image-9.svg
+[ce-image-downloads]: src/content/ce-image-downloads.svg
 [ce-image-slider]: src/content/ce-image-slider.svg
+[ce-image-statement]: src/content/ce-image-statement.svg
 [ce-image-tiles-1]: src/content/ce-image-tiles-1.svg
 [ce-image-tiles-2]: src/content/ce-image-tiles-2.svg
 [ce-image-tiles-3]: src/content/ce-image-tiles-3.svg
 [ce-inline-quote]: src/content/ce-inline-quote.svg
+[ce-instagram]: src/content/ce-instagram.svg
 [ce-lightbox-content]: src/content/ce-lightbox-content.svg
 [ce-list-1]: src/content/ce-list-1.svg
 [ce-list-2]: src/content/ce-list-2.svg
