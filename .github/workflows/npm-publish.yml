@@ -24,9 +24,6 @@ jobs:
         run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_AUTH_TOKEN}}
-      - if: steps.publish-gpr.outputs.type != 'none'
-          run: |
-            echo "Version changed on GitHub: ${{ steps.publish-gpr.outputs.old-version }} => ${{ steps.publish-gpr.outputs.version }}"
 
     publish-npm:
       name: Publish to npmjs.org
@@ -43,6 +40,3 @@ jobs:
           run: npm publish --access public
           with:
             token: ${{secrets.NPM_AUTH_TOKEN}}
-        - if: steps.publish-npm.outputs.type != 'none'
-            run: |
-              echo "Version changed on npmjs: ${{ steps.publish-npm.outputs.old-version }} => ${{ steps.publish-npm.outputs.version }}"
