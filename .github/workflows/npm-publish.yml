@@ -24,20 +24,3 @@ jobs:
         run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_AUTH_TOKEN}}
-
-  publish-npm:
-    name: Publish to npmjs.org
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 12
-          registry-url: https://registry.npmjs.org/
-      - name: Installing packages
-        run: npm install
-      - name: Publishing
-        run: npm publish --access public
-        env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-          NODE_AUTH_TOKEN: ${{secrets.NPM_AUTH_TOKEN}}
