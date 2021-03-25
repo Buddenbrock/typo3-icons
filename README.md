@@ -161,7 +161,8 @@ Icon | Name | &nbsp;
 ![content][ce-text-image-slider-2] | `ce-text-image-slider-2` | [Open icon][ce-text-image-slider-2]
 ![content][ce-text-list-1] | `ce-text-list-1` | [Open icon][ce-text-list-1]
 ![content][ce-text-list-2] | `ce-text-list-2` | [Open icon][ce-text-list-2]
-![content][ce-text-video] | `ce-text-video` | [Open icon][ce-text-video]
+![content][ce-text-video-1] | `ce-text-video-1` | [Open icon][ce-text-video-1]
+![content][ce-text-video-2] | `ce-text-video-2` | [Open icon][ce-text-video-2]
 ![content][ce-tiles-group-1] | `ce-tiles-group-1` | [Open icon][ce-tiles-group-1]
 ![content][ce-tiles-group-2] | `ce-tiles-group-2` | [Open icon][ce-tiles-group-2]
 ![content][ce-tiles] | `ce-tiles` | [Open icon][ce-tiles]
@@ -277,7 +278,8 @@ Icon | Name | &nbsp;
 [ce-text-image-slider-2]: src/content/ce-text-image-slider-2.svg
 [ce-text-list-1]: src/content/ce-text-list-1.svg
 [ce-text-list-2]: src/content/ce-text-list-2.svg
-[ce-text-video]: src/content/ce-text-video.svg
+[ce-text-video-1]: src/content/ce-text-video-1.svg
+[ce-text-video-2]: src/content/ce-text-video-2.svg
 [ce-tiles-group-1]: src/content/ce-tiles-group-1.svg
 [ce-tiles-group-2]: src/content/ce-tiles-group-2.svg
 [ce-tiles]: src/content/ce-tiles.svg
