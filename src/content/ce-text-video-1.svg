@@ -2,6 +2,7 @@
   <path fill="#999" d="M2 2v28h28V2z"/>
   <path fill="#FFF" d="M4 4h24v24H4z"/>
   <path fill="#639" d="M17 6h9v20h-9z"/>
+  <path fill="#212121" opacity=".2" d="M25 7v18h-7V7h7zm1-1h-9v20h9V6z"/>
+  <path fill="#FFF" d="M19 18.5v-5l2.5 1.25L24 16l-2.5 1.25z"/>
   <path fill="#B9B9B9" d="M6 7h9v2H6V7zm0 8h9v2H6v-2zm0 4h9v2H6v-2zm0 4h9v2H6v-2zm0-12h9v2H6v-2z"/>
-  <path fill="#FFF" d="M18.5 16c0-1.629 1.371-3 3-3s3 1.371 3 3-1.371 3-3 3-3-1.371-3-3zm4.543 0l-2.572-1.714v3.428L23.043 16z"/>
 </svg>
