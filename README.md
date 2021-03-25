@@ -25,9 +25,11 @@ Icon | Name | &nbsp;
 ---|---|---
 ![grid][grid-25-25-25-25] | `grid-25-25-25-25` | [Open icon][grid-25-25-25-25]
 ![grid][grid-33-33-33] | `grid-33-33-33` |  [Open icon][grid-33-33-33]
+![grid][grid-25-75] | `grid-25-75` | [Open icon][grid-25-75]
 ![grid][grid-40-60] | `grid-40-60` | [Open icon][grid-40-60]
 ![grid][grid-50-50] | `grid-50-50` | [Open icon][grid-50-50]
 ![grid][grid-60-40] | `grid-60-40` | [Open icon][grid-60-40]
+![grid][grid-75-25] | `grid-75-25` | [Open icon][grid-75-25]
 ![grid][grid-100] | `grid-100` | [Open icon][grid-100]
 ![grid][grid-header] | `grid-header` | [Open icon][grid-header]
 ![grid][grid-header-25-25-25-25] | `grid-header-25-25-25-25` | [Open icon][grid-header-25-25-25-25]
@@ -36,9 +38,11 @@ Icon | Name | &nbsp;
 
 [grid-25-25-25-25]: src/grid/grid-25-25-25-25.svg
 [grid-33-33-33]: src/grid/grid-33-33-33.svg
+[grid-25-75]: src/grid/grid-25-75.svg
 [grid-40-60]: src/grid/grid-40-60.svg
 [grid-50-50]: src/grid/grid-50-50.svg
 [grid-60-40]: src/grid/grid-60-40.svg
+[grid-75-25]: src/grid/grid-75-25.svg
 [grid-100]: src/grid/grid-100.svg
 [grid-header]: src/grid/grid-header.svg
 [grid-header-25-25-25-25]: src/grid/grid-header-25-25-25-25.svg
