@@ -14,10 +14,8 @@ You find the typo3 default iconset into  [TYPO3-Icon Repository](https://github.
 ## Pagetree Icons
 Icon | Name | &nbsp;
 ---|---|---
-![pagetree][pagetree-page-blog] | `pagetree-page-blog` | [Open icon][pagetree-page-blog]
 ![pagetree][pagetree-page-missing] | `pagetree-page-missing` | [Open icon][pagetree-page-missing]
 
-[pagetree-page-blog]: src/pagetree/pagetree-page-blog.svg
 [pagetree-page-missing]: src/pagetree/pagetree-page-missing.svg
 
 ## Grid/Layout Icons
