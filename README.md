@@ -1,24 +1,33 @@
-# @buddenbrock/typo3-icons
+<div align="center">
+    <br>
+    <img src="https://github.com/Buddenbrock/typo3-icons/blob/master/src/logo.svg" width="300px">
+    <h1>TYPO3 Icons</h1>
+    <strong>SVG icons for the TYPO3 CMS backend content elements</strong>
+</div>
+<br>
+<div align="center">
+    <p>New icons are always needed for the TYPO3 backend.<br>So that you don't have to start from scratch every time is there a template document.</p>
+    <p>There is already a small collection of created icons in this document. These depend on the styling of the TYPO3 icons.</p>
+    <p>Since the icons usually have the same meaning from installation to installation,<br>it would be possible in this document to create a small collection from which demand icons can be used.</p>
+</div>
+<br>
+<hr>
 
-SVG icons for the TYPO3 CMS backend content elements
 
-New icons are always needed for the TYPO3 backend. So that you don't have to start from scratch every time is there a template document.
+## 📖 ICONS
 
-There is already a small collection of created icons in this document. These depend on the styling of the TYPO3 icons.
+### Default Icons
+You find the TYPO3 default iconset into  [TYPO3-Icon Repository](https://github.com/TYPO3/TYPO3.Icons) or on these [Show Page](https://typo3.github.io/TYPO3.Icons/).
 
-Since the icons usually have the same meaning from installation to installation, it would be possible in this document to create a small collection from which demand icons can be used.
 
-## Default Icons
-You find the typo3 default iconset into  [TYPO3-Icon Repository](https://github.com/TYPO3/TYPO3.Icons) or on these [Show Page](https://typo3.github.io/TYPO3.Icons/).
-
-## Pagetree Icons
+### Pagetree Icons
 Icon | Name | &nbsp;
 ---|---|---
 ![pagetree][pagetree-page-missing] | `pagetree-page-missing` | [Open icon][pagetree-page-missing]
 
 [pagetree-page-missing]: src/pagetree/pagetree-page-missing.svg
 
-## Grid/Layout Icons
+### Grid/Layout Icons
 Icon | Name | &nbsp;
 ---|---|---
 ![grid][grid-25-25-25-25] | `grid-25-25-25-25` | [Open icon][grid-25-25-25-25]
@@ -47,7 +56,7 @@ Icon | Name | &nbsp;
 [grid-header-33-33-33]: src/grid/grid-header-33-33-33.svg
 [grid-header-50-50]: src/grid/grid-header-50-50.svg
 
-## Content Icons
+### Content Icons
 Icon | Name | &nbsp;
 ---|---|---
 ![content][ce-360-degree-player] | `ce-360-degree-player` | [Open icon][ce-360-degree-player]
@@ -297,3 +306,30 @@ Icon | Name | &nbsp;
 [ce-vcard]: src/content/ce-vcard.svg
 [ce-video]: src/content/ce-video.svg
 [ce-webcam]: src/content/ce-webcam.svg
+
+## 🖥️ LOCAL DEVELOPMENT
+Install via npm
+```
+npm install @buddenbrock/typo3-icons
+```
+
+or via yarn
+```
+yarn add @buddenbrock/typo3-icons
+```
+<br>
+
+## 📫 ISSUES AND WISHES
+You have wishes for icons that do not yet exist, then write an issue and I will see that such an icon is included.
+<br>
+
+## ❤️  COMMUNITY & CONTRIBUTIONS
+This package is for free, but feel free for supporting 
+<br>
+
+## 💎 DONATION
+This is free, open-source software. If you'd like to support the development of future projects, or say thanks for this one, you can donate.
+<br/>
+
+## ⚖️ LICENSE
+MIT &copy; <a href="https://github.com/Buddenbrock/typo3-icons/blob/master/LICENSE">@buddenbrock/typo3-icons</a>
