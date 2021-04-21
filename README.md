@@ -318,6 +318,7 @@ Icon | Name | &nbsp;
 [ce-vimeo]: src/content/ce-vimeo.svg
 [ce-webcam]: src/content/ce-webcam.svg
 [ce-youtube]: src/content/ce-youtube.svg
+<br>
 
 ## 🖥️ LOCAL DEVELOPMENT
 Install via npm
