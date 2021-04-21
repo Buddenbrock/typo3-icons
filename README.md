@@ -1,26 +1,33 @@
-# @buddenbrock/typo3-icons
+<div align="center">
+    <br>
+    <img src="https://github.com/Buddenbrock/typo3-icons/blob/master/src/logo.svg" width="300px">
+    <h1>TYPO3 Icons</h1>
+    <strong>SVG icons for the TYPO3 CMS backend content elements</strong>
+</div>
+<br>
+<div align="center">
+    <p>New icons are always needed for the TYPO3 backend.<br>So that you don't have to start from scratch every time is there a template document.</p>
+    <p>There is already a small collection of created icons in this document. These depend on the styling of the TYPO3 icons.</p>
+    <p>Since the icons usually have the same meaning from installation to installation,<br>it would be possible in this document to create a small collection from which demand icons can be used.</p>
+</div>
+<br>
+<hr>
 
-SVG icons for the TYPO3 CMS backend content elements
 
-New icons are always needed for the TYPO3 backend. So that you don't have to start from scratch every time is there a template document.
+## 📖 ICONS
 
-There is already a small collection of created icons in this document. These depend on the styling of the TYPO3 icons.
+### Default Icons
+You find the TYPO3 default iconset into  [TYPO3-Icon Repository](https://github.com/TYPO3/TYPO3.Icons) or on these [Show Page](https://typo3.github.io/TYPO3.Icons/).
 
-Since the icons usually have the same meaning from installation to installation, it would be possible in this document to create a small collection from which demand icons can be used.
 
-## Default Icons
-You find the typo3 default iconset into  [TYPO3-Icon Repository](https://github.com/TYPO3/TYPO3.Icons) or on these [Show Page](https://typo3.github.io/TYPO3.Icons/).
-
-## Pagetree Icons
+### Pagetree Icons
 Icon | Name | &nbsp;
 ---|---|---
-![pagetree][pagetree-page-blog] | `pagetree-page-blog` | [Open icon][pagetree-page-blog]
 ![pagetree][pagetree-page-missing] | `pagetree-page-missing` | [Open icon][pagetree-page-missing]
 
-[pagetree-page-blog]: src/pagetree/pagetree-page-blog.svg
 [pagetree-page-missing]: src/pagetree/pagetree-page-missing.svg
 
-## Grid/Layout Icons
+### Grid/Layout Icons
 Icon | Name | &nbsp;
 ---|---|---
 ![grid][grid-25-25-25-25] | `grid-25-25-25-25` | [Open icon][grid-25-25-25-25]
@@ -49,7 +56,7 @@ Icon | Name | &nbsp;
 [grid-header-33-33-33]: src/grid/grid-header-33-33-33.svg
 [grid-header-50-50]: src/grid/grid-header-50-50.svg
 
-## Content Icons
+### Content Icons
 Icon | Name | &nbsp;
 ---|---|---
 ![content][ce-360-degree-player] | `ce-360-degree-player` | [Open icon][ce-360-degree-player]
@@ -115,7 +122,8 @@ Icon | Name | &nbsp;
 ![content][ce-image-tiles-2] | `ce-image-tiles-2` | [Open icon][ce-image-tiles-2]
 ![content][ce-image-tiles-3] | `ce-image-tiles-3` | [Open icon][ce-image-tiles-3]
 ![content][ce-inline-quote] | `ce-inline-quote` | [Open icon][ce-inline-quote]
-![content][ce-instagram] | `ce-instagram` | [Open icon][ce-instagram]
+![content][ce-instagram-1] | `ce-instagram-1` | [Open icon][ce-instagram-1]
+![content][ce-instagram-2] | `ce-instagram-2` | [Open icon][ce-instagram-2]
 ![content][ce-lightbox-content] | `ce-lightbox-content` | [Open icon][ce-lightbox-content]
 ![content][ce-list-1] | `ce-list-1` | [Open icon][ce-list-1]
 ![content][ce-list-2] | `ce-list-2` | [Open icon][ce-list-2]
@@ -136,6 +144,7 @@ Icon | Name | &nbsp;
 ![content][ce-slider-1] | `ce-slider-1` | [Open icon][ce-slider-2]
 ![content][ce-slider-2] | `ce-slider-2` | [Open icon][ce-slider-2]
 ![content][ce-social] | `ce-social` | [Open icon][ce-social]
+![content][ce-spotify] | `ce-spotify` | [Open icon][ce-spotify]
 ![content][ce-team-container] | `ce-team-container` | [Open icon][ce-team-container]
 ![content][ce-team] | `ce-team` | [Open icon][ce-team]
 ![content][ce-teaser-1] | `ce-teaser-1` | [Open icon][ce-teaser-1]
@@ -171,10 +180,14 @@ Icon | Name | &nbsp;
 ![content][ce-tiles-group-1] | `ce-tiles-group-1` | [Open icon][ce-tiles-group-1]
 ![content][ce-tiles-group-2] | `ce-tiles-group-2` | [Open icon][ce-tiles-group-2]
 ![content][ce-tiles] | `ce-tiles` | [Open icon][ce-tiles]
+![content][ce-twitch] | `ce-twitch` | [Open icon][ce-twitch]
+![content][ce-twitter] | `ce-twitter` | [Open icon][ce-twitter]
 ![content][ce-vcard-container] | `ce-vcard-container` | [Open icon][ce-vcard-container]
 ![content][ce-vcard] | `ce-vcard` | [Open icon][ce-vcard]
 ![content][ce-video] | `ce-video` | [Open icon][ce-video]
+![content][ce-vimeo] | `ce-vimeo` | [Open icon][ce-vimeo]
 ![content][ce-webcam] | `ce-webcam` | [Open icon][ce-webcam]
+![content][ce-youtube] | `ce-youtube` | [Open icon][ce-youtube]
 
 [ce-360-degree-player]: src/content/ce-360-degree-player.svg
 [ce-accordion-1]: src/content/ce-accordion-1.svg
@@ -239,7 +252,8 @@ Icon | Name | &nbsp;
 [ce-image-tiles-2]: src/content/ce-image-tiles-2.svg
 [ce-image-tiles-3]: src/content/ce-image-tiles-3.svg
 [ce-inline-quote]: src/content/ce-inline-quote.svg
-[ce-instagram]: src/content/ce-instagram.svg
+[ce-instagram-1]: src/content/ce-instagram-1.svg
+[ce-instagram-2]: src/content/ce-instagram-2.svg
 [ce-lightbox-content]: src/content/ce-lightbox-content.svg
 [ce-list-1]: src/content/ce-list-1.svg
 [ce-list-2]: src/content/ce-list-2.svg
@@ -260,6 +274,7 @@ Icon | Name | &nbsp;
 [ce-slider-1]: src/content/ce-slider-1.svg
 [ce-slider-2]: src/content/ce-slider-2.svg
 [ce-social]: src/content/ce-social.svg
+[ce-spotify]: src/content/ce-spotify.svg
 [ce-team-container]: src/content/ce-team-container.svg
 [ce-team]: src/content/ce-team.svg
 [ce-teaser-1]: src/content/ce-teaser-1.svg
@@ -295,7 +310,38 @@ Icon | Name | &nbsp;
 [ce-tiles-group-1]: src/content/ce-tiles-group-1.svg
 [ce-tiles-group-2]: src/content/ce-tiles-group-2.svg
 [ce-tiles]: src/content/ce-tiles.svg
+[ce-twitch]: src/content/ce-twitch.svg
+[ce-twitter]: src/content/ce-twitter.svg
 [ce-vcard-container]: src/content/ce-vcard-container.svg
 [ce-vcard]: src/content/ce-vcard.svg
 [ce-video]: src/content/ce-video.svg
+[ce-vimeo]: src/content/ce-vimeo.svg
 [ce-webcam]: src/content/ce-webcam.svg
+[ce-youtube]: src/content/ce-youtube.svg
+
+## 🖥️ LOCAL DEVELOPMENT
+Install via npm
+```
+npm install @buddenbrock/typo3-icons
+```
+
+or via yarn
+```
+yarn add @buddenbrock/typo3-icons
+```
+<br>
+
+## 📫 ISSUES AND WISHES
+You have wishes for icons that do not yet exist, then write an issue and I will see that such an icon is included.
+<br>
+<br>
+## ❤️  COMMUNITY & CONTRIBUTIONS
+This package is for free, but feel free for supporting 
+<br>
+<br>
+## 💎 DONATION
+This is free, open-source software. If you'd like to support the development of future projects, or say thanks for this one, you can donate.
+<br/>
+<br>
+## ⚖️ LICENSE
+MIT &copy; <a href="https://github.com/Buddenbrock/typo3-icons/blob/master/LICENSE">@buddenbrock/typo3-icons</a>
