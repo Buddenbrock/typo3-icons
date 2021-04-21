@@ -335,10 +335,6 @@ yarn add @buddenbrock/typo3-icons
 You have wishes for icons that do not yet exist, then write an issue and I will see that such an icon is included.
 <br>
 <br>
-## ❤️  COMMUNITY & CONTRIBUTIONS
-This package is for free, but feel free for supporting 
-<br>
-<br>
 ## 💎 DONATION
 This is free, open-source software. If you'd like to support the development of future projects, or say thanks for this one, you can donate.
 <br/>
