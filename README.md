@@ -311,18 +311,76 @@ Icon | Name | &nbsp;
 ### Social Icons
 Icon | Name | &nbsp;
 ---|---|---
+![social][social-amazon] | `social-amazon` | [Open icon][social-amazon]
+![social][social-amazon-aws] | `social-amazon-aws` | [Open icon][social-amazon-aws]
+![social][social-behance] | `social-behance` | [Open icon][social-behance]
+![social][social-dribbble] | `social-dribbble` | [Open icon][social-dribbble]
+![social][social-dropbox] | `social-dropbox` | [Open icon][social-dropbox]
+![social][social-envato] | `social-envato` | [Open icon][social-envato]
+![social][social-flickr] | `social-flickr` | [Open icon][social-flickr]
+![social][social-github] | `social-github` | [Open icon][social-github]
+![social][social-google] | `social-google` | [Open icon][social-google]
+![social][social-google-drive] | `social-google-drive` | [Open icon][social-google-drive]
 ![social][social-instagram] | `social-instagram` | [Open icon][social-instagram]
+![social][social-lastfm] | `social-lastfm` | [Open icon][social-lastfm]
+![social][social-npm] | `social-npm` | [Open icon][social-npm]
+![social][social-onedrive] | `social-onedrive` | [Open icon][social-onedrive]
+![social][social-paypal] | `social-paypal` | [Open icon][social-paypal]
+![social][social-pinterest] | `social-pinterest` | [Open icon][social-pinterest]
+![social][social-reddit] | `social-reddit` | [Open icon][social-reddit]
+![social][social-rss] | `social-rss` | [Open icon][social-rss]
+![social][social-shutterstock] | `social-shutterstock` | [Open icon][social-shutterstock]
+![social][social-skype] | `social-skype` | [Open icon][social-skype]
+![social][social-soundcloud] | `social-soundcloud` | [Open icon][social-soundcloud]
 ![social][social-spotify] | `social-spotify` | [Open icon][social-spotify]
+![social][social-stackoverflow] | `social-stackoverflow` | [Open icon][social-stackoverflow]
+![social][social-stumbleupon] | `social-stumbleupon` | [Open icon][social-stumbleupon]
+![social][social-telegramm] | `social-telegramm` | [Open icon][social-telegramm]
+![social][social-tumblr] | `social-tumblr` | [Open icon][social-tumblr]
 ![social][social-twitch] | `social-twitch` | [Open icon][social-twitch]
 ![social][social-twitter] | `social-twitter` | [Open icon][social-twitter]
 ![social][social-vimeo] | `social-vimeo` | [Open icon][social-vimeo]
+![social][social-vine] | `social-vine` | [Open icon][social-vine]
+![social][social-vk] | `social-vk` | [Open icon][social-vk]
+![social][social-whatsapp] | `social-whatsapp` | [Open icon][social-whatsapp]
+![social][social-wikipedia] | `social-wikipedia` | [Open icon][social-wikipedia]
+![social][social-yelp] | `social-yelp` | [Open icon][social-yelp]
 ![social][social-youtube] | `social-youtube` | [Open icon][social-youtube]
 
+[social-amazon]: src/social/social-amazon.svg
+[social-amazon-aws]: src/social/social-amazon-aws.svg
+[social-behance]: src/social/social-behance.svg
+[social-dribbble]: src/social/social-dribbble.svg
+[social-dropbox]: src/social/social-dropbox.svg
+[social-envato]: src/social/social-envato.svg
+[social-flickr]: src/social/social-flickr.svg
+[social-github]: src/social/social-github.svg
+[social-google]: src/social/social-google.svg
+[social-google-drive]: src/social/social-google-drive.svg
 [social-instagram]: src/social/social-instagram.svg
+[social-lastfm]: src/social/social-lastfm.svg
+[social-npm]: src/social/social-npm.svg
+[social-onedrive]: src/social/social-onedrive.svg
+[social-paypal]: src/social/social-paypal.svg
+[social-pinterest]: src/social/social-pinterest.svg
+[social-reddit]: src/social/social-reddit.svg
+[social-rss]: src/social/social-rss.svg
+[social-shutterstock]: src/social/social-shutterstock.svg
+[social-skype]: src/social/social-skype.svg
+[social-soundcloud]: src/social/social-soundcloud.svg
 [social-spotify]: src/social/social-spotify.svg
+[social-stackoverflow]: src/social/social-stackoverflow.svg
+[social-stumbleupon]: src/social/social-stumbleupon.svg
+[social-telegramm]: src/social/social-telegramm.svg
+[social-tumblr]: src/social/social-tumblr.svg
 [social-twitch]: src/social/social-twitch.svg
 [social-twitter]: src/social/social-twitter.svg
 [social-vimeo]: src/social/social-vimeo.svg
+[social-vine]: src/social/social-vine.svg
+[social-vk]: src/social/social-vk.svg
+[social-whatsapp]: src/social/social-whatsapp.svg
+[social-wikipedia]: src/social/social-wikipedia.svg
+[social-yelp]: src/social/social-yelp.svg
 [social-youtube]: src/social/social-youtube.svg
 <br>
 
