@@ -3,6 +3,13 @@
 [logo-t3-icons]: src/logo.svg
 
 #TYPO3 Icons
+![GitHub licenze](https://img.shields.io/github/license/Buddenbrock/typo3-icons?style=for-the-badge)
+![GitHub release](https://img.shields.io/github/package-json/version/Buddenbrock/typo3-icons?style=for-the-badge)
+![Last commit](https://img.shields.io/github/last-commit/buddenbrock/typo3-icons?style=for-the-badge)
+
+![GitHub Downloads](https://img.shields.io/github/downloads/buddenbrock/typo3-icons/total?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Buddenbrock/typo3-icons?style=for-the-badge)
+![Package icon nuber](https://img.shields.io/github/package-json/icon-number/buddenbrock/typo3-icons?label=Icon%20number&style=for-the-badge)
 
 SVG icons for the TYPO3 CMS backend content elements
 
