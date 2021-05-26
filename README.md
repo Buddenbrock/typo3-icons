@@ -1,17 +1,16 @@
-<div align="center">
-    <br>
-    <img src="https://github.com/Buddenbrock/typo3-icons/blob/master/src/logo.svg" width="300px">
-    <h1>TYPO3 Icons</h1>
-    <strong>SVG icons for the TYPO3 CMS backend content elements</strong>
-</div>
-<br>
-<div align="center">
-    <p>New icons are always needed for the TYPO3 backend.<br>So that you don't have to start from scratch every time is there a template document.</p>
-    <p>There is already a small collection of created icons in this document. These depend on the styling of the TYPO3 icons.</p>
-    <p>Since the icons usually have the same meaning from installation to installation,<br>it would be possible in this document to create a small collection from which demand icons can be used.</p>
-</div>
-<br>
-<hr>
+![layout][logo-t3-icons]
+
+[logo-t3-icons]: src/logo.svg
+
+#TYPO3 Icons
+
+SVG icons for the TYPO3 CMS backend content elements
+
+New icons are always needed for the TYPO3 backend.<br>So that you don't have to start from scratch every time is there a template document.
+
+There is already a small collection of created icons in this document. These depend on the styling of the TYPO3 icons.
+
+Since the icons usually have the same meaning from installation to installation,<br>it would be possible in this document to create a small collection from which demand icons can be used.
 
 
 ## 📖 ICONS
