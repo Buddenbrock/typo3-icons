@@ -8,7 +8,6 @@
 ![GitHub release](https://img.shields.io/github/package-json/version/Buddenbrock/typo3-icons?style=for-the-badge)
 ![Last commit](https://img.shields.io/github/last-commit/buddenbrock/typo3-icons?style=for-the-badge)
 
-![GitHub Downloads](https://img.shields.io/github/downloads/buddenbrock/typo3-icons/total?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Buddenbrock/typo3-icons?style=for-the-badge)
 ![Package icon nuber](https://img.shields.io/github/package-json/icon-number/buddenbrock/typo3-icons?label=Icon%20number&style=for-the-badge)
 
@@ -403,7 +402,6 @@ Icon | Name | &nbsp;
 [social-wikipedia]: src/social/social-wikipedia.svg
 [social-yelp]: src/social/social-yelp.svg
 [social-youtube]: src/social/social-youtube.svg
-<br>
 
 ## 🖥️ LOCAL DEVELOPMENT
 Install via npm
@@ -415,15 +413,12 @@ or via yarn
 ```
 yarn add @buddenbrock/typo3-icons
 ```
-<br>
 
 ## 📫 ISSUES AND WISHES
 You have wishes for icons that do not yet exist, then write an issue and I will see that such an icon is included.
-<br>
-<br>
+
 ## 💎 DONATION
 This is free, open-source software. If you'd like to support the development of future projects, or say thanks for this one, you can donate.
-<br/>
-<br>
+
 ## ⚖️ LICENSE
 MIT &copy; <a href="https://github.com/Buddenbrock/typo3-icons/blob/master/LICENSE">@buddenbrock/typo3-icons</a>
