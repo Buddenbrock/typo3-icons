@@ -1,17 +1,23 @@
-<div align="center">
-    <br>
-    <img src="https://github.com/Buddenbrock/typo3-icons/blob/master/src/logo.svg" width="300px">
-    <h1>TYPO3 Icons</h1>
-    <strong>SVG icons for the TYPO3 CMS backend content elements</strong>
-</div>
-<br>
-<div align="center">
-    <p>New icons are always needed for the TYPO3 backend.<br>So that you don't have to start from scratch every time is there a template document.</p>
-    <p>There is already a small collection of created icons in this document. These depend on the styling of the TYPO3 icons.</p>
-    <p>Since the icons usually have the same meaning from installation to installation,<br>it would be possible in this document to create a small collection from which demand icons can be used.</p>
-</div>
-<br>
-<hr>
+![layout][logo-t3-icons]
+
+[logo-t3-icons]: src/logo.svg
+
+# TYPO3 Icons
+
+![GitHub licenze](https://img.shields.io/github/license/Buddenbrock/typo3-icons?style=for-the-badge)
+![GitHub release](https://img.shields.io/github/package-json/version/Buddenbrock/typo3-icons?style=for-the-badge)
+![Last commit](https://img.shields.io/github/last-commit/buddenbrock/typo3-icons?style=for-the-badge)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Buddenbrock/typo3-icons?style=for-the-badge)
+![Package icon nuber](https://img.shields.io/github/package-json/icon-number/buddenbrock/typo3-icons?label=Icon%20number&style=for-the-badge)
+
+SVG icons for the TYPO3 CMS backend content elements
+
+New icons are always needed for the TYPO3 backend.<br>So that you don't have to start from scratch every time is there a template document.
+
+There is already a small collection of created icons in this document. These depend on the styling of the TYPO3 icons.
+
+Since the icons usually have the same meaning from installation to installation,<br>it would be possible in this document to create a small collection from which demand icons can be used.
 
 
 ## 📖 ICONS
@@ -122,8 +128,7 @@ Icon | Name | &nbsp;
 ![content][ce-image-tiles-2] | `ce-image-tiles-2` | [Open icon][ce-image-tiles-2]
 ![content][ce-image-tiles-3] | `ce-image-tiles-3` | [Open icon][ce-image-tiles-3]
 ![content][ce-inline-quote] | `ce-inline-quote` | [Open icon][ce-inline-quote]
-![content][ce-instagram-1] | `ce-instagram-1` | [Open icon][ce-instagram-1]
-![content][ce-instagram-2] | `ce-instagram-2` | [Open icon][ce-instagram-2]
+![content][ce-instagram] | `ce-instagram` | [Open icon][ce-instagram]
 ![content][ce-lightbox-content] | `ce-lightbox-content` | [Open icon][ce-lightbox-content]
 ![content][ce-list-1] | `ce-list-1` | [Open icon][ce-list-1]
 ![content][ce-list-2] | `ce-list-2` | [Open icon][ce-list-2]
@@ -144,7 +149,6 @@ Icon | Name | &nbsp;
 ![content][ce-slider-1] | `ce-slider-1` | [Open icon][ce-slider-2]
 ![content][ce-slider-2] | `ce-slider-2` | [Open icon][ce-slider-2]
 ![content][ce-social] | `ce-social` | [Open icon][ce-social]
-![content][ce-spotify] | `ce-spotify` | [Open icon][ce-spotify]
 ![content][ce-team-container] | `ce-team-container` | [Open icon][ce-team-container]
 ![content][ce-team] | `ce-team` | [Open icon][ce-team]
 ![content][ce-teaser-1] | `ce-teaser-1` | [Open icon][ce-teaser-1]
@@ -180,14 +184,11 @@ Icon | Name | &nbsp;
 ![content][ce-tiles-group-1] | `ce-tiles-group-1` | [Open icon][ce-tiles-group-1]
 ![content][ce-tiles-group-2] | `ce-tiles-group-2` | [Open icon][ce-tiles-group-2]
 ![content][ce-tiles] | `ce-tiles` | [Open icon][ce-tiles]
-![content][ce-twitch] | `ce-twitch` | [Open icon][ce-twitch]
-![content][ce-twitter] | `ce-twitter` | [Open icon][ce-twitter]
 ![content][ce-vcard-container] | `ce-vcard-container` | [Open icon][ce-vcard-container]
 ![content][ce-vcard] | `ce-vcard` | [Open icon][ce-vcard]
 ![content][ce-video] | `ce-video` | [Open icon][ce-video]
-![content][ce-vimeo] | `ce-vimeo` | [Open icon][ce-vimeo]
 ![content][ce-webcam] | `ce-webcam` | [Open icon][ce-webcam]
-![content][ce-youtube] | `ce-youtube` | [Open icon][ce-youtube]
+
 
 [ce-360-degree-player]: src/content/ce-360-degree-player.svg
 [ce-accordion-1]: src/content/ce-accordion-1.svg
@@ -252,8 +253,7 @@ Icon | Name | &nbsp;
 [ce-image-tiles-2]: src/content/ce-image-tiles-2.svg
 [ce-image-tiles-3]: src/content/ce-image-tiles-3.svg
 [ce-inline-quote]: src/content/ce-inline-quote.svg
-[ce-instagram-1]: src/content/ce-instagram-1.svg
-[ce-instagram-2]: src/content/ce-instagram-2.svg
+[ce-instagram]: src/content/ce-instagram.svg
 [ce-lightbox-content]: src/content/ce-lightbox-content.svg
 [ce-list-1]: src/content/ce-list-1.svg
 [ce-list-2]: src/content/ce-list-2.svg
@@ -274,7 +274,6 @@ Icon | Name | &nbsp;
 [ce-slider-1]: src/content/ce-slider-1.svg
 [ce-slider-2]: src/content/ce-slider-2.svg
 [ce-social]: src/content/ce-social.svg
-[ce-spotify]: src/content/ce-spotify.svg
 [ce-team-container]: src/content/ce-team-container.svg
 [ce-team]: src/content/ce-team.svg
 [ce-teaser-1]: src/content/ce-teaser-1.svg
@@ -310,15 +309,99 @@ Icon | Name | &nbsp;
 [ce-tiles-group-1]: src/content/ce-tiles-group-1.svg
 [ce-tiles-group-2]: src/content/ce-tiles-group-2.svg
 [ce-tiles]: src/content/ce-tiles.svg
-[ce-twitch]: src/content/ce-twitch.svg
-[ce-twitter]: src/content/ce-twitter.svg
 [ce-vcard-container]: src/content/ce-vcard-container.svg
 [ce-vcard]: src/content/ce-vcard.svg
 [ce-video]: src/content/ce-video.svg
-[ce-vimeo]: src/content/ce-vimeo.svg
 [ce-webcam]: src/content/ce-webcam.svg
-[ce-youtube]: src/content/ce-youtube.svg
-<br>
+
+### Social Icons
+Icon | Name | &nbsp;
+---|---|---
+![social][social-amazon] | `social-amazon` | [Open icon][social-amazon]
+![social][social-amazon-aws] | `social-amazon-aws` | [Open icon][social-amazon-aws]
+![social][social-behance] | `social-behance` | [Open icon][social-behance]
+![social][social-discord] | `social-discord` | [Open icon][social-discord]
+![social][social-dribbble] | `social-dribbble` | [Open icon][social-dribbble]
+![social][social-dropbox] | `social-dropbox` | [Open icon][social-dropbox]
+![social][social-envato] | `social-envato` | [Open icon][social-envato]
+![social][social-eventbrite] | `social-eventbrite` | [Open icon][social-eventbrite]
+![social][social-evernote] | `social-evernote` | [Open icon][social-evernote]
+![social][social-flickr] | `social-flickr` | [Open icon][social-flickr]
+![social][social-github] | `social-github` | [Open icon][social-github]
+![social][social-google] | `social-google` | [Open icon][social-google]
+![social][social-google-drive] | `social-google-drive` | [Open icon][social-google-drive]
+![social][social-google-maps] | `social-google-maps` | [Open icon][social-google-maps]
+![social][social-instagram] | `social-instagram` | [Open icon][social-instagram]
+![social][social-lastfm] | `social-lastfm` | [Open icon][social-lastfm]
+![social][social-npm] | `social-npm` | [Open icon][social-npm]
+![social][social-onedrive] | `social-onedrive` | [Open icon][social-onedrive]
+![social][social-paypal] | `social-paypal` | [Open icon][social-paypal]
+![social][social-pinterest] | `social-pinterest` | [Open icon][social-pinterest]
+![social][social-reddit] | `social-reddit` | [Open icon][social-reddit]
+![social][social-rss] | `social-rss` | [Open icon][social-rss]
+![social][social-shutterstock] | `social-shutterstock` | [Open icon][social-shutterstock]
+![social][social-skype] | `social-skype` | [Open icon][social-skype]
+![social][social-slack] | `social-slack` | [Open icon][social-slack]
+![social][social-snapchat] | `social-snapchat` | [Open icon][social-snapchat]
+![social][social-soundcloud] | `social-soundcloud` | [Open icon][social-soundcloud]
+![social][social-spotify] | `social-spotify` | [Open icon][social-spotify]
+![social][social-stackoverflow] | `social-stackoverflow` | [Open icon][social-stackoverflow]
+![social][social-stumbleupon] | `social-stumbleupon` | [Open icon][social-stumbleupon]
+![social][social-telegramm] | `social-telegramm` | [Open icon][social-telegramm]
+![social][social-tiktok] | `social-tiktok` | [Open icon][social-tiktok]
+![social][social-tumblr] | `social-tumblr` | [Open icon][social-tumblr]
+![social][social-twitch] | `social-twitch` | [Open icon][social-twitch]
+![social][social-twitter] | `social-twitter` | [Open icon][social-twitter]
+![social][social-vimeo] | `social-vimeo` | [Open icon][social-vimeo]
+![social][social-vine] | `social-vine` | [Open icon][social-vine]
+![social][social-vk] | `social-vk` | [Open icon][social-vk]
+![social][social-whatsapp] | `social-whatsapp` | [Open icon][social-whatsapp]
+![social][social-wikipedia] | `social-wikipedia` | [Open icon][social-wikipedia]
+![social][social-yelp] | `social-yelp` | [Open icon][social-yelp]
+![social][social-youtube] | `social-youtube` | [Open icon][social-youtube]
+
+[social-amazon]: src/social/social-amazon.svg
+[social-amazon-aws]: src/social/social-amazon-aws.svg
+[social-behance]: src/social/social-behance.svg
+[social-discord]: src/social/social-discord.svg
+[social-dribbble]: src/social/social-dribbble.svg
+[social-dropbox]: src/social/social-dropbox.svg
+[social-envato]: src/social/social-envato.svg
+[social-eventbrite]: src/social/social-eventbrite.svg
+[social-evernote]: src/social/social-evernote.svg
+[social-flickr]: src/social/social-flickr.svg
+[social-github]: src/social/social-github.svg
+[social-google]: src/social/social-google.svg
+[social-google-drive]: src/social/social-google-drive.svg
+[social-google-maps]: src/social/social-google-maps.svg
+[social-instagram]: src/social/social-instagram.svg
+[social-lastfm]: src/social/social-lastfm.svg
+[social-npm]: src/social/social-npm.svg
+[social-onedrive]: src/social/social-onedrive.svg
+[social-paypal]: src/social/social-paypal.svg
+[social-pinterest]: src/social/social-pinterest.svg
+[social-reddit]: src/social/social-reddit.svg
+[social-rss]: src/social/social-rss.svg
+[social-shutterstock]: src/social/social-shutterstock.svg
+[social-skype]: src/social/social-skype.svg
+[social-slack]: src/social/social-slack.svg
+[social-snapchat]: src/social/social-snapchat.svg
+[social-soundcloud]: src/social/social-soundcloud.svg
+[social-spotify]: src/social/social-spotify.svg
+[social-stackoverflow]: src/social/social-stackoverflow.svg
+[social-stumbleupon]: src/social/social-stumbleupon.svg
+[social-telegramm]: src/social/social-telegramm.svg
+[social-tiktok]: src/social/social-tiktok.svg
+[social-tumblr]: src/social/social-tumblr.svg
+[social-twitch]: src/social/social-twitch.svg
+[social-twitter]: src/social/social-twitter.svg
+[social-vimeo]: src/social/social-vimeo.svg
+[social-vine]: src/social/social-vine.svg
+[social-vk]: src/social/social-vk.svg
+[social-whatsapp]: src/social/social-whatsapp.svg
+[social-wikipedia]: src/social/social-wikipedia.svg
+[social-yelp]: src/social/social-yelp.svg
+[social-youtube]: src/social/social-youtube.svg
 
 ## 🖥️ LOCAL DEVELOPMENT
 Install via npm
@@ -330,15 +413,12 @@ or via yarn
 ```
 yarn add @buddenbrock/typo3-icons
 ```
-<br>
 
 ## 📫 ISSUES AND WISHES
 You have wishes for icons that do not yet exist, then write an issue and I will see that such an icon is included.
-<br>
-<br>
+
 ## 💎 DONATION
 This is free, open-source software. If you'd like to support the development of future projects, or say thanks for this one, you can donate.
-<br/>
-<br>
+
 ## ⚖️ LICENSE
 MIT &copy; <a href="https://github.com/Buddenbrock/typo3-icons/blob/master/LICENSE">@buddenbrock/typo3-icons</a>

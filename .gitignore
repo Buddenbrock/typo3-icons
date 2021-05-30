@@ -41,6 +41,7 @@ Thumbs.db
 .idea/
 .metadata
 bin/
+work/
 tmp/
 
 # Log files
