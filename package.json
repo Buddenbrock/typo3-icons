@@ -2,11 +2,17 @@
   "name": "@buddenbrock/typo3-icons",
   "description": "Additional SVG icons for the TYPO3 CMS backend",
   "version": "0.1.8",
+  "license": "MIT",
   "keywords": [
     "TYPO3",
-    "Icons"
+    "Icons",
+    "SVG"
   ],
-  "author": "Dirk Buddenbrock <git@dirk-buddenbrock.de>",
+  "author": {
+    "name" : "Dirk Buddenbrock",
+    "email" : "git@dirk-buddenbrock.de",
+    "url" : "http://www.dirk-buddenbrock.de"
+  },
   "contributors": [
     {
       "name": "CP/COMPARTNER",
@@ -20,8 +26,6 @@
   "files": [
     "src/"
   ],
-  "icon-num": "178",
-  "readme": "README.md",
   "repository": {
     "type": "git",
     "url": "https://github.com/Buddenbrock/typo3-icons.git"
@@ -29,5 +33,5 @@
   "bugs": {
     "url": "https://github.com/Buddenbrock/typo3-icons/issues"
   },
-  "license": "MIT"
+  "funding": "https://www.paypal.me/buddenbrock"
 }
