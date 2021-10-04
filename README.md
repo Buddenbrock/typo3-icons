@@ -184,6 +184,7 @@ Icon | Name
 ### Social Icons
 Icon | Name
 ---|---
+![social](src/social/social-airbnb.svg) | `social-airbnb`
 ![social](src/social/social-amazon.svg) | `social-amazon`
 ![social](src/social/social-amazon-aws.svg) | `social-amazon-aws`
 ![social](src/social/social-behance.svg) | `social-behance`
