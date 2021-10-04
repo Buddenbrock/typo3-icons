@@ -19,11 +19,13 @@ Since the icons usually have the same meaning from installation to installation,
 
 ## INSTALLATION
 
+### Using npm
 ```sh
-# Install via npm
 npm install @buddenbrock/typo3-icons
+```
 
-# Install via yarn
+### Using yarn
+```sh
 yarn add @buddenbrock/typo3-icons
 ```
 
@@ -232,7 +234,7 @@ Icon | Name
 You have wishes for icons that do not yet exist, then write an issue and I will see that such an icon is included.
 
 ## DONATION
-This is free, open-source software. If you'd like to support the development of future projects, or say thanks for this one, you can donate.
+This is free, open-source software. If you'd like to support the development of future projects, or say thanks for this one, you can [donate](https://www.paypal.me/buddenbrock).
 
 ## LICENSE
 MIT &copy; [@buddenbrock/typo3-icons](https://github.com/Buddenbrock/typo3-icons/blob/master/LICENSE)
