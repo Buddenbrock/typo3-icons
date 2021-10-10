@@ -1,0 +1,18 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="41.9289898%" y1="77.3825069%" x2="49.6888726%" y2="51.0427413%" id="linearGradient-1">
+      <stop stop-color="#0052CC" offset="15%"/>
+      <stop stop-color="#0E64DE" offset="50%"/>
+      <stop stop-color="#2684FF" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="58.0893119%" y1="22.5356181%" x2="50.3111274%" y2="48.9313705%" id="linearGradient-2">
+      <stop stop-color="#0052CC" offset="15%"/>
+      <stop stop-color="#0E64DE" offset="50%"/>
+      <stop stop-color="#2684FF" offset="100%"/>
+    </linearGradient>
+  </defs>
+  <polygon fill="#FFF" points="2 2 30 2 30 30 2 30"/>
+  <path fill="#000" opacity="0.2" d="M28,4 L28,28 L4,28 L4,4 L28,4 Z M30,2 L2,2 L2,30 L30,30 L30,2 Z"/>
+  <path fill="url(#linearGradient-1)" d="M8,8 C8.00645627,11.0152716 10.451779,13.4566651 13.4670571,13.4582723 L18.5417277,13.4582723 L18.5417277,18.5387994 L24,18.5387994 L24,8.87554905 C23.9985046,8.39829798 23.6162502,8.00954273 23.1390922,8 L8,8 Z"/>
+  <path fill="url(#linearGradient-2)" d="M24,24 C23.9967755,20.9863417 21.5553838,18.5436402 18.5417277,18.5387994 L13.4670571,18.5387994 L13.4670571,13.4582723 L8,13.4582723 L8,23.136164 C8,23.6213336 8.39330769,24.0146413 8.87847731,24.0146413 L24,24 Z"/>
+</svg>

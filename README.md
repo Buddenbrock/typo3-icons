@@ -10,14 +10,14 @@
 
 SVG icons for the TYPO3 CMS backend content elements
 
-## WHY?
+## Why?
 New icons are always needed for the TYPO3 backend.<br>So that you don't have to start from scratch every time is there a template document.
 
 There is already a small collection of created icons in this document. These depend on the styling of the TYPO3 icons.
 
 Since the icons usually have the same meaning from installation to installation,<br>it would be possible in this document to create a small collection from which demand icons can be used.
 
-## INSTALLATION
+## Installation
 
 ### Using npm
 ```sh
@@ -29,7 +29,7 @@ npm install @buddenbrock/typo3-icons
 yarn add @buddenbrock/typo3-icons
 ```
 
-## ICONS
+## Icons
 
 ### Default Icons
 You find the TYPO3 default iconset into [TYPO3-Icon Repository](https://github.com/TYPO3/TYPO3.Icons) or on these [Show Page](https://typo3.github.io/TYPO3.Icons/).
@@ -183,29 +183,77 @@ Icon | Name
 ![content](src/content/ce-video.svg) | `ce-video`
 ![content](src/content/ce-webcam.svg) | `ce-webcam`
 
+### Payment Icons
+Icon | Name
+---|---
+![payment](src/payment/payment-amazon-pay.svg) | `payment-amazon-pay`
+![payment](src/payment/payment-amex.svg) | `payment-amex`
+![payment](src/payment/payment-apple-pay.svg) | `payment-apple-pay`
+![payment](src/payment/payment-cirrus.svg) | `payment-cirrus`
+![payment](src/payment/payment-diners-club.svg) | `payment-diners-club`
+![payment](src/payment/payment-discover.svg) | `payment-discover`
+![payment](src/payment/payment-klarna.svg) | `payment-klarna`
+![payment](src/payment/payment-maestro.svg) | `payment-maestro`
+![payment](src/payment/payment-mastercard.svg) | `payment-mastercard`
+![payment](src/payment/payment-patreon.svg) | `payment-patreon`
+![payment](src/payment/payment-paypal.svg) | `payment-paypal`
+![payment](src/payment/payment-visa.svg) | `payment-visa`
+
+### Atlassian Icons
+Icon | Name
+---|---
+![atlassian](src/atlassian/atlassian.svg) | `atlassian`
+![atlassian](src/atlassian/atlassian-bitbucket.svg) | `atlassian-bitbucket`
+![atlassian](src/atlassian/atlassian-confluence.svg) | `atlassian-confluence`
+![atlassian](src/atlassian/atlassian-halp.svg) | `atlassian-halp`
+![atlassian](src/atlassian/atlassian-jira-align.svg) | `atlassian-jira-align`
+![atlassian](src/atlassian/atlassian-jira-service-management.svg) | `atlassian-jira-service-management`
+![atlassian](src/atlassian/atlassian-jira-software.svg) | `atlassian-jira-software`
+![atlassian](src/atlassian/atlassian-jira-work-management.svg) | `atlassian-jira-work-management`
+![atlassian](src/atlassian/atlassian-opsgenie.svg) | `atlassian-opsgenie`
+![atlassian](src/atlassian/atlassian-sourcetree.svg) | `atlassian-sourcetree`
+![atlassian](src/atlassian/atlassian-statuspage.svg) | `atlassian-statuspage`
+![atlassian](src/atlassian/atlassian-trello.svg) | `atlassian-trello`
+
 ### Social Icons
 Icon | Name
 ---|---
 ![social](src/social/social-airbnb.svg) | `social-airbnb`
 ![social](src/social/social-amazon.svg) | `social-amazon`
 ![social](src/social/social-amazon-aws.svg) | `social-amazon-aws`
+![social](src/social/social-audible.svg) | `social-audible`
 ![social](src/social/social-behance.svg) | `social-behance`
+![social](src/social/social-blogger.svg) | `social-blogger`
+![social](src/social/social-codepen.svg) | `social-codepen`
+![social](src/social/social-deezer.svg) | `social-deezer`
+![social](src/social/social-dhl.svg) | `social-dhl`
 ![social](src/social/social-discord.svg) | `social-discord`
+![social](src/social/social-disqus.svg) | `social-disqus`
 ![social](src/social/social-dribbble.svg) | `social-dribbble`
 ![social](src/social/social-dropbox.svg) | `social-dropbox`
 ![social](src/social/social-envato.svg) | `social-envato`
 ![social](src/social/social-eventbrite.svg) | `social-eventbrite`
 ![social](src/social/social-evernote.svg) | `social-evernote`
+![social](src/social/social-facebook.svg) | `social-facebook`
+![social](src/social/social-facebook-messanger.svg) | `social-facebook-messanger`
+![social](src/social/social-fedex.svg) | `social-fedex`
+![social](src/social/social-figma.svg) | `social-figma`
 ![social](src/social/social-flickr.svg) | `social-flickr`
+![social](src/social/social-foursquare.svg) | `social-foursquare`
 ![social](src/social/social-github.svg) | `social-github`
 ![social](src/social/social-google.svg) | `social-google`
 ![social](src/social/social-google-drive.svg) | `social-google-drive`
 ![social](src/social/social-google-maps.svg) | `social-google-maps`
 ![social](src/social/social-instagram.svg) | `social-instagram`
+![social](src/social/social-invision.svg) | `social-invision`
+![social](src/social/social-kickstarter.svg) | `social-kickstarter`
+![social](src/social/social-kik-messanger.svg) | `social-kik-messanger`
 ![social](src/social/social-lastfm.svg) | `social-lastfm`
+![social](src/social/social-linkedin.svg) | `social-linkedin`
+![social](src/social/social-mailchimp.svg) | `social-mailchimp`
+![social](src/social/social-mixer.svg) | `social-mixer`
 ![social](src/social/social-npm.svg) | `social-npm`
 ![social](src/social/social-onedrive.svg) | `social-onedrive`
-![social](src/social/social-paypal.svg) | `social-paypal`
 ![social](src/social/social-pinterest.svg) | `social-pinterest`
 ![social](src/social/social-reddit.svg) | `social-reddit`
 ![social](src/social/social-rss.svg) | `social-rss`
@@ -217,24 +265,28 @@ Icon | Name
 ![social](src/social/social-spotify.svg) | `social-spotify`
 ![social](src/social/social-stackoverflow.svg) | `social-stackoverflow`
 ![social](src/social/social-stumbleupon.svg) | `social-stumbleupon`
+![social](src/social/social-teamspeak.svg) | `social-teamspeak`
+![social](src/social/social-teamviewer.svg) | `social-teamviewer`
 ![social](src/social/social-telegramm.svg) | `social-telegramm`
 ![social](src/social/social-tiktok.svg) | `social-tiktok`
 ![social](src/social/social-tumblr.svg) | `social-tumblr`
 ![social](src/social/social-twitch.svg) | `social-twitch`
 ![social](src/social/social-twitter.svg) | `social-twitter`
+![social](src/social/social-ups.svg) | `social-ups`
+![social](src/social/social-usps.svg) | `social-usps`
 ![social](src/social/social-vimeo.svg) | `social-vimeo`
-![social](src/social/social-vine.svg) | `social-vine`
 ![social](src/social/social-vk.svg) | `social-vk`
 ![social](src/social/social-whatsapp.svg) | `social-whatsapp`
 ![social](src/social/social-wikipedia.svg) | `social-wikipedia`
+![social](src/social/social-xing.svg) | `social-xing`
 ![social](src/social/social-yelp.svg) | `social-yelp`
 ![social](src/social/social-youtube.svg) | `social-youtube`
 
-## ISSUES AND WISHES
+## Issues and wishes
 You have wishes for icons that do not yet exist, then write an issue and I will see that such an icon is included.
 
-## DONATION
+## Donation
 This is free, open-source software. If you'd like to support the development of future projects, or say thanks for this one, you can [donate](https://www.paypal.me/buddenbrock).
 
-## LICENSE
+## License
 MIT &copy; [@buddenbrock/typo3-icons](https://github.com/Buddenbrock/typo3-icons/blob/master/LICENSE)
