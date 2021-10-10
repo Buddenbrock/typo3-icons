@@ -183,6 +183,22 @@ Icon | Name
 ![content](src/content/ce-video.svg) | `ce-video`
 ![content](src/content/ce-webcam.svg) | `ce-webcam`
 
+### Atlassian Icons
+Icon | Name
+---|---
+![atlassian](src/atlassian/atlassian.svg) | `atlassian`
+![atlassian](src/atlassian/atlassian-bitbucket.svg) | `atlassian-bitbucket`
+![atlassian](src/atlassian/atlassian-confluence.svg) | `atlassian-confluence`
+![atlassian](src/atlassian/atlassian-halp.svg) | `atlassian-halp`
+![atlassian](src/atlassian/atlassian-jira-align.svg) | `atlassian-jira-align`
+![atlassian](src/atlassian/atlassian-jira-service-management.svg) | `atlassian-jira-service-management`
+![atlassian](src/atlassian/atlassian-jira-software.svg) | `atlassian-jira-software`
+![atlassian](src/atlassian/atlassian-jira-work-management.svg) | `atlassian-jira-work-management`
+![atlassian](src/atlassian/atlassian-opsgenie.svg) | `atlassian-opsgenie`
+![atlassian](src/atlassian/atlassian-sourcetree.svg) | `atlassian-sourcetree`
+![atlassian](src/atlassian/atlassian-statuspage.svg) | `atlassian-statuspage`
+![atlassian](src/atlassian/atlassian-trello.svg) | `atlassian-trello`
+
 ### Social Icons
 Icon | Name
 ---|---
