@@ -275,7 +275,6 @@ Icon | Name
 ![social](src/social/social-ups.svg) | `social-ups`
 ![social](src/social/social-usps.svg) | `social-usps`
 ![social](src/social/social-vimeo.svg) | `social-vimeo`
-![social](src/social/social-vine.svg) | `social-vine`
 ![social](src/social/social-vk.svg) | `social-vk`
 ![social](src/social/social-whatsapp.svg) | `social-whatsapp`
 ![social](src/social/social-wikipedia.svg) | `social-wikipedia`
