@@ -1,0 +1,52 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="50.4898007%" y1="67.4116766%" x2="49.5495621%" y2="32.3813604%" id="linearGradient-1">
+      <stop stop-color="#358C7B" offset="0%"/>
+      <stop stop-color="#33A65E" offset="52.56%"/>
+    </linearGradient>
+    <linearGradient x1="-1.47012434%" y1="65.3583408%" x2="101.515465%" y2="34.6567553%" id="linearGradient-2">
+      <stop stop-color="#222B90" offset="0%"/>
+      <stop stop-color="#367B99" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="0.0182880653%" y1="50.0387829%" x2="99.9346517%" y2="50.0387829%" id="linearGradient-3">
+      <stop stop-color="#FF9900" offset="0%"/>
+      <stop stop-color="#FF8000" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="0.111388298%" y1="50.0387829%" x2="100.027752%" y2="50.0387829%" id="linearGradient-4">
+      <stop stop-color="#FF8000" offset="0%"/>
+      <stop stop-color="#CC1953" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="-0.0286117016%" y1="50.0387829%" x2="99.8877519%" y2="50.0387829%" id="linearGradient-5">
+      <stop stop-color="#CC1953" offset="0%"/>
+      <stop stop-color="#241284" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="-0.0537885315%" y1="50.0387829%" x2="99.8625751%" y2="50.0387829%" id="linearGradient-6">
+      <stop stop-color="#222B90" offset="0%"/>
+      <stop stop-color="#3559A6" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="-3.97231911%" y1="59.2296157%" x2="103.831459%" y2="40.7854805%" id="linearGradient-7">
+      <stop stop-color="#CC1953" offset="0%"/>
+      <stop stop-color="#241284" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="-3.44503646%" y1="38.6114969%" x2="103.584177%" y2="61.4038491%" id="linearGradient-8">
+      <stop stop-color="#FFCC00" offset="0.2669841%"/>
+      <stop stop-color="#CE1938" offset="99.99%"/>
+    </linearGradient>
+    <linearGradient x1="8.50948676%" y1="27.5639705%" x2="91.6296535%" y2="72.4399193%" id="linearGradient-9">
+      <stop stop-color="#FFD100" offset="0.2669841%"/>
+      <stop stop-color="#FD5A22" offset="100%"/>
+    </linearGradient>
+  </defs>
+  <polygon fill="#EEE" points="2 2 30 2 30 30 2 30"/>
+  <path fill="#000" opacity="0.2" d="M28,4 L28,28 L4,28 L4,4 L28,4 Z M30,2 L2,2 L2,30 L30,30 L30,2 Z"/>
+  <rect fill="#40AB5D" x="20.5403226" y="11" width="3.45967742" height="2.02419355"/>
+  <rect fill="url(#linearGradient-1)" x="20.5403226" y="13.8064516" width="3.45967742" height="2.02419355"/>
+  <rect fill="url(#linearGradient-2)" x="20.5403226" y="16.6129032" width="3.45967742" height="2.02419355"/>
+  <rect fill="url(#linearGradient-3)" x="8" y="19.4193548" width="3.45967742" height="2.02419355"/>
+  <rect fill="url(#linearGradient-4)" x="12.1774194" y="19.4193548" width="3.45967742" height="2.02419355"/>
+  <rect fill="url(#linearGradient-5)" x="16.3629032" y="19.4193548" width="3.45967742" height="2.02419355"/>
+  <rect fill="url(#linearGradient-6)" x="20.5403226" y="19.4193548" width="3.45967742" height="2.02419355"/>
+  <rect fill="url(#linearGradient-7)" x="16.3629032" y="16.6129032" width="3.45967742" height="2.02419355"/>
+  <rect fill="url(#linearGradient-8)" x="12.1774194" y="16.6129032" width="3.45967742" height="2.02419355"/>
+  <rect fill="url(#linearGradient-9)" x="12.1774194" y="13.8064516" width="3.45967742" height="2.02419355"/>
+</svg>

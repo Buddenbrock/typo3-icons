@@ -221,20 +221,37 @@ Icon | Name
 ![social](src/social/social-airbnb.svg) | `social-airbnb`
 ![social](src/social/social-amazon.svg) | `social-amazon`
 ![social](src/social/social-amazon-aws.svg) | `social-amazon-aws`
+![social](src/social/social-audible.svg) | `social-audible`
 ![social](src/social/social-behance.svg) | `social-behance`
+![social](src/social/social-blogger.svg) | `social-blogger`
+![social](src/social/social-codepen.svg) | `social-codepen`
+![social](src/social/social-deezer.svg) | `social-deezer`
+![social](src/social/social-dhl.svg) | `social-dhl`
 ![social](src/social/social-discord.svg) | `social-discord`
+![social](src/social/social-disqus.svg) | `social-disqus`
 ![social](src/social/social-dribbble.svg) | `social-dribbble`
 ![social](src/social/social-dropbox.svg) | `social-dropbox`
 ![social](src/social/social-envato.svg) | `social-envato`
 ![social](src/social/social-eventbrite.svg) | `social-eventbrite`
 ![social](src/social/social-evernote.svg) | `social-evernote`
+![social](src/social/social-facebook.svg) | `social-facebook`
+![social](src/social/social-facebook-messanger.svg) | `social-facebook-messanger`
+![social](src/social/social-fedex.svg) | `social-fedex`
+![social](src/social/social-figma.svg) | `social-figma`
 ![social](src/social/social-flickr.svg) | `social-flickr`
+![social](src/social/social-foursquare.svg) | `social-foursquare`
 ![social](src/social/social-github.svg) | `social-github`
 ![social](src/social/social-google.svg) | `social-google`
 ![social](src/social/social-google-drive.svg) | `social-google-drive`
 ![social](src/social/social-google-maps.svg) | `social-google-maps`
 ![social](src/social/social-instagram.svg) | `social-instagram`
+![social](src/social/social-invision.svg) | `social-invision`
+![social](src/social/social-kickstarter.svg) | `social-kickstarter`
+![social](src/social/social-kik-messanger.svg) | `social-kik-messanger`
 ![social](src/social/social-lastfm.svg) | `social-lastfm`
+![social](src/social/social-linkedin.svg) | `social-linkedin`
+![social](src/social/social-mailchimp.svg) | `social-mailchimp`
+![social](src/social/social-mixer.svg) | `social-mixer`
 ![social](src/social/social-npm.svg) | `social-npm`
 ![social](src/social/social-onedrive.svg) | `social-onedrive`
 ![social](src/social/social-pinterest.svg) | `social-pinterest`
@@ -248,19 +265,23 @@ Icon | Name
 ![social](src/social/social-spotify.svg) | `social-spotify`
 ![social](src/social/social-stackoverflow.svg) | `social-stackoverflow`
 ![social](src/social/social-stumbleupon.svg) | `social-stumbleupon`
+![social](src/social/social-teamspeak.svg) | `social-teamspeak`
+![social](src/social/social-teamviewer.svg) | `social-teamviewer`
 ![social](src/social/social-telegramm.svg) | `social-telegramm`
 ![social](src/social/social-tiktok.svg) | `social-tiktok`
 ![social](src/social/social-tumblr.svg) | `social-tumblr`
 ![social](src/social/social-twitch.svg) | `social-twitch`
 ![social](src/social/social-twitter.svg) | `social-twitter`
+![social](src/social/social-ups.svg) | `social-ups`
+![social](src/social/social-usps.svg) | `social-usps`
 ![social](src/social/social-vimeo.svg) | `social-vimeo`
 ![social](src/social/social-vine.svg) | `social-vine`
 ![social](src/social/social-vk.svg) | `social-vk`
 ![social](src/social/social-whatsapp.svg) | `social-whatsapp`
 ![social](src/social/social-wikipedia.svg) | `social-wikipedia`
+![social](src/social/social-xing.svg) | `social-xing`
 ![social](src/social/social-yelp.svg) | `social-yelp`
 ![social](src/social/social-youtube.svg) | `social-youtube`
-
 
 ## Issues and wishes
 You have wishes for icons that do not yet exist, then write an issue and I will see that such an icon is included.
