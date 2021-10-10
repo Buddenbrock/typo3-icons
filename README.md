@@ -183,6 +183,22 @@ Icon | Name
 ![content](src/content/ce-video.svg) | `ce-video`
 ![content](src/content/ce-webcam.svg) | `ce-webcam`
 
+### Payment Icons
+Icon | Name
+---|---
+![payment](src/payment/payment-amazon-pay.svg) | `payment-amazon-pay`
+![payment](src/payment/payment-amex.svg) | `payment-amex`
+![payment](src/payment/payment-apple-pay.svg) | `payment-apple-pay`
+![payment](src/payment/payment-cirrus.svg) | `payment-cirrus`
+![payment](src/payment/payment-diners-club.svg) | `payment-diners-club`
+![payment](src/payment/payment-discover.svg) | `payment-discover`
+![payment](src/payment/payment-klarna.svg) | `payment-klarna`
+![payment](src/payment/payment-maestro.svg) | `payment-maestro`
+![payment](src/payment/payment-mastercard.svg) | `payment-mastercard`
+![payment](src/payment/payment-patreon.svg) | `payment-patreon`
+![payment](src/payment/payment-paypal.svg) | `payment-paypal`
+![payment](src/payment/payment-visa.svg) | `payment-visa`
+
 ### Atlassian Icons
 Icon | Name
 ---|---
@@ -221,7 +237,6 @@ Icon | Name
 ![social](src/social/social-lastfm.svg) | `social-lastfm`
 ![social](src/social/social-npm.svg) | `social-npm`
 ![social](src/social/social-onedrive.svg) | `social-onedrive`
-![social](src/social/social-paypal.svg) | `social-paypal`
 ![social](src/social/social-pinterest.svg) | `social-pinterest`
 ![social](src/social/social-reddit.svg) | `social-reddit`
 ![social](src/social/social-rss.svg) | `social-rss`
