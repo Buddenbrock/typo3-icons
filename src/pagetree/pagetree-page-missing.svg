@@ -1,11 +1,9 @@
 <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-  <g fill="none" fill-rule="nonzero">
-    <path fill="#EFEFEF" d="M1 0v16h12V4L9 0z"/>
-    <path fill="#FFF" opacity=".65" d="M9 4V0l4 4z"/>
-    <path fill="#212121" opacity=".2" d="M12 5v5L8 5z"/>
-    <path d="M1 0v16h12V4h-.012l.004-.008L9.008.006 9 .014V0H1zm1 1h6v4h4v10H2V1zm7 .412L11.586 4H9V1.412z" fill="#999"/>
-    <path fill="#C83C3C" d="M4 5h11v11H4z"/>
-    <path d="M14 6v9H5V6h9zm1-1H4v11h11V5z" fill="#000" opacity=".3"/>
-    <path fill="#FFF" d="M9 12h1v1H9zM9 8h1v3H9z"/>
-  </g>
+  <path fill="#EFEFEF" d="M1 0v16h12V4L9 0z"/>
+  <path fill="#FFF" opacity="0.65" d="M9 4V0l4 4z"/>
+  <path fill="#212121" opacity="0.2" d="M12 5v5L8 5z"/>
+  <path fill="#999" d="M1 0v16h12V4h-.012l.004-.008L9.008.006 9 .014V0H1zm1 1h6v4h4v10H2V1zm7 .412L11.586 4H9V1.412z"/>
+  <path fill="#C83C3C" d="M4 5h11v11H4z"/>
+  <path fill="#000" opacity="0.3" d="M14 6v9H5V6h9zm1-1H4v11h11V5z" />
+  <path fill="#FFF" d="M9 12h1v1H9zM9 8h1v3H9z"/>
 </svg>
