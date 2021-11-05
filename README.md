@@ -231,6 +231,7 @@ Icon | Name
 ![social](src/social/social-dropbox.svg) | `social-dropbox`
 ![social](src/social/social-envato.svg) | `social-envato`
 ![social](src/social/social-eventbrite.svg) | `social-eventbrite`
+![social](src/social/social-eventim.svg) | `social-eventim`
 ![social](src/social/social-evernote.svg) | `social-evernote`
 ![social](src/social/social-facebook.svg) | `social-facebook`
 ![social](src/social/social-facebook-messanger.svg) | `social-facebook-messanger`
