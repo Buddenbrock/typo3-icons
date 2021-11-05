@@ -239,6 +239,7 @@ Icon | Name
 ![social](src/social/social-figma.svg) | `social-figma`
 ![social](src/social/social-flickr.svg) | `social-flickr`
 ![social](src/social/social-foursquare.svg) | `social-foursquare`
+![social](src/social/social-giphy.svg) | `social-giphy`
 ![social](src/social/social-github.svg) | `social-github`
 ![social](src/social/social-google.svg) | `social-google`
 ![social](src/social/social-google-drive.svg) | `social-google-drive`
