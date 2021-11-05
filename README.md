@@ -218,6 +218,7 @@ Icon | Name
 ![social](src/social/social-amazon.svg) | `social-amazon`
 ![social](src/social/social-amazon-aws.svg) | `social-amazon-aws`
 ![social](src/social/social-audible.svg) | `social-audible`
+![social](src/social/social-ausweisapp2.svg) | `social-ausweisapp2`
 ![social](src/social/social-behance.svg) | `social-behance`
 ![social](src/social/social-blogger.svg) | `social-blogger`
 ![social](src/social/social-codepen.svg) | `social-codepen`
