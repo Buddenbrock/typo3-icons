@@ -224,6 +224,7 @@ Icon | Name
 ![social](src/social/social-codepen.svg) | `social-codepen`
 ![social](src/social/social-deezer.svg) | `social-deezer`
 ![social](src/social/social-dhl.svg) | `social-dhl`
+![social](src/social/social-doodle.svg) | `social-doodle`
 ![social](src/social/social-discord.svg) | `social-discord`
 ![social](src/social/social-disqus.svg) | `social-disqus`
 ![social](src/social/social-dribbble.svg) | `social-dribbble`
