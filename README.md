@@ -1,14 +1,10 @@
-![layout][logo-t3-icons]
-
-[logo-t3-icons]: src/logo.svg
-
-# TYPO3 Icons
+# @buddenbrock/typo3-icons
 ![GitHub licenze](https://img.shields.io/github/license/Buddenbrock/typo3-icons?style=for-the-badge)
 ![GitHub release](https://img.shields.io/github/package-json/version/Buddenbrock/typo3-icons?style=for-the-badge)
 ![Last commit](https://img.shields.io/github/last-commit/buddenbrock/typo3-icons?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Buddenbrock/typo3-icons?style=for-the-badge)
 
-SVG icons for the TYPO3 CMS backend content elements
+Additional svg-icons for the TYPO3 CMS backend content elements
 
 ## Why?
 New icons are always needed for the TYPO3 backend.<br>So that you don't have to start from scratch every time is there a template document.
@@ -222,17 +218,20 @@ Icon | Name
 ![social](src/social/social-amazon.svg) | `social-amazon`
 ![social](src/social/social-amazon-aws.svg) | `social-amazon-aws`
 ![social](src/social/social-audible.svg) | `social-audible`
+![social](src/social/social-ausweisapp2.svg) | `social-ausweisapp2`
 ![social](src/social/social-behance.svg) | `social-behance`
 ![social](src/social/social-blogger.svg) | `social-blogger`
 ![social](src/social/social-codepen.svg) | `social-codepen`
 ![social](src/social/social-deezer.svg) | `social-deezer`
 ![social](src/social/social-dhl.svg) | `social-dhl`
+![social](src/social/social-doodle.svg) | `social-doodle`
 ![social](src/social/social-discord.svg) | `social-discord`
 ![social](src/social/social-disqus.svg) | `social-disqus`
 ![social](src/social/social-dribbble.svg) | `social-dribbble`
 ![social](src/social/social-dropbox.svg) | `social-dropbox`
 ![social](src/social/social-envato.svg) | `social-envato`
 ![social](src/social/social-eventbrite.svg) | `social-eventbrite`
+![social](src/social/social-eventim.svg) | `social-eventim`
 ![social](src/social/social-evernote.svg) | `social-evernote`
 ![social](src/social/social-facebook.svg) | `social-facebook`
 ![social](src/social/social-facebook-messanger.svg) | `social-facebook-messanger`
@@ -240,6 +239,7 @@ Icon | Name
 ![social](src/social/social-figma.svg) | `social-figma`
 ![social](src/social/social-flickr.svg) | `social-flickr`
 ![social](src/social/social-foursquare.svg) | `social-foursquare`
+![social](src/social/social-giphy.svg) | `social-giphy`
 ![social](src/social/social-github.svg) | `social-github`
 ![social](src/social/social-google.svg) | `social-google`
 ![social](src/social/social-google-drive.svg) | `social-google-drive`
