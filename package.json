@@ -1,7 +1,7 @@
 {
   "name": "@buddenbrock/typo3-icons",
   "description": "Additional svg-icons for the TYPO3 CMS backend",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "license": "MIT",
   "keywords": [
     "TYPO3",
