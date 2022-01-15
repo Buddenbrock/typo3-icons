@@ -4,7 +4,7 @@
 ![Last commit](https://img.shields.io/github/last-commit/buddenbrock/typo3-icons?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Buddenbrock/typo3-icons?style=for-the-badge)
 
-SVG icons for the TYPO3 CMS backend content elements
+Additional svg-icons for the TYPO3 CMS backend content elements
 
 ## Why?
 New icons are always needed for the TYPO3 backend.<br>So that you don't have to start from scratch every time is there a template document.
