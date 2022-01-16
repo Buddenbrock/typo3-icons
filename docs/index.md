@@ -34,6 +34,7 @@ You find the TYPO3 default iconset into [TYPO3-Icon Repository](https://github.c
 <div class="icon-wrapper">
     {% for item in site.iconsPagetree %}
     <div class="icon-item" data-category="pagetree" data-name="{{ item }}">
+        <span>{{ item }}</span>
         <img src="{{ site.iconBaseUrl }}/pagetree/{{ item }}.svg" alt="{{ item }}"/>
     </div>
     {% endfor %}
@@ -44,6 +45,7 @@ You find the TYPO3 default iconset into [TYPO3-Icon Repository](https://github.c
 <div class="icon-wrapper">
     {% for item in site.iconsGrid %}
     <div class="icon-item" data-category="grid" data-name="{{ item }}">
+        <span>{{ item }}</span>
         <img src="{{ site.iconBaseUrl }}/grid/{{ item }}.svg" alt="{{ item }}"/>
     </div>
     {% endfor %}
