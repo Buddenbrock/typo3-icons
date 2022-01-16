@@ -7,6 +7,7 @@ $primary-color: #93c01f;
 $secondary-color: #1d71b8;
 $text-color: #243033;
 $dark-white: #eff3f4;
+$darker-white: #d4d6d6;
 
 .page-header {
   background-color: $primary-color;
@@ -70,9 +71,10 @@ table {
 .icon {
   &-wrapper {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    align-items: flex-start;
+    justify-content: flex-start;
     flex-flow: row wrap;
+    gap: 1rem;
   }
 
   &-item {
@@ -83,10 +85,24 @@ table {
     height: 140px;
     background-color: $dark-white;
     border-radius: 5px;
+    position: relative;
 
     img {
-      width: 48px;
-      height: 48px;
+      width: 32px;
+      height: 32px;
+    }
+
+    span {
+      position: absolute;
+      right: 0;
+      top: 0;
+      font-size: .6rem;
+      line-height: 1.2;
+      background-color: $darker-white;
+      color: $text-color;
+      border-radius: 0 4px;
+      display: block;
+      padding: .25rem .5rem;
     }
   }
 }
