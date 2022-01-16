@@ -75,20 +75,14 @@ You find the TYPO3 default iconset into [TYPO3-Icon Repository](https://github.c
 
 ### Atlassian Icons
 
-Icon | Name
----|---
-![atlassian](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/atlassian/atlassian.svg) | `atlassian`
-![atlassian](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/atlassian/atlassian-bitbucket.svg) | `atlassian-bitbucket`
-![atlassian](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/atlassian/atlassian-confluence.svg) | `atlassian-confluence`
-![atlassian](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/atlassian/atlassian-halp.svg) | `atlassian-halp`
-![atlassian](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/atlassian/atlassian-jira-align.svg) | `atlassian-jira-align`
-![atlassian](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/atlassian/atlassian-jira-service-management.svg) | `atlassian-jira-service-management`
-![atlassian](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/atlassian/atlassian-jira-software.svg) | `atlassian-jira-software`
-![atlassian](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/atlassian/atlassian-jira-work-management.svg) | `atlassian-jira-work-management`
-![atlassian](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/atlassian/atlassian-opsgenie.svg) | `atlassian-opsgenie`
-![atlassian](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/atlassian/atlassian-sourcetree.svg) | `atlassian-sourcetree`
-![atlassian](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/atlassian/atlassian-statuspage.svg) | `atlassian-statuspage`
-![atlassian](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/atlassian/atlassian-trello.svg) | `atlassian-trello`
+<div class="icon-wrapper">
+    {% for item in site.iconsAtlassian %}
+    <div class="icon-item" data-category="atlassian" data-name="{{ item }}">
+        <span>{{ item }}</span>
+        <img src="{{ site.iconBaseUrl }}/atlassian/{{ item }}.svg"/>
+    </div>
+    {% endfor %}
+</div>
 
 ### Social Icons
 

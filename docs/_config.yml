@@ -160,3 +160,18 @@ iconsPayment: {
   'payment-paypal',
   'payment-visa'
 }
+
+iconsAtlassian: {
+  'atlassian',
+  'atlassian-bitbucket',
+  'atlassian-confluence',
+  'atlassian-halp',
+  'atlassian-jira-align',
+  'atlassian-jira-service-management',
+  'atlassian-jira-software',
+  'atlassian-jira-work-management',
+  'atlassian-opsgenie',
+  'atlassian-sourcetree',
+  'atlassian-statuspage',
+  'atlassian-trello'
+}
