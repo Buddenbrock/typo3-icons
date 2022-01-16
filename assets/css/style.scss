@@ -6,8 +6,8 @@
 $primary-color: #93c01f;
 $secondary-color: #1d71b8;
 $text-color: #243033;
-$dark-white: #eff3f4;
-$darker-white: #d4d6d6;
+$dark-white: #f3f6fC;
+$darker-white: #dce6f0;
 
 .page-header {
   background-color: $primary-color;
@@ -84,12 +84,22 @@ table {
     width: 140px;
     height: 140px;
     background-color: $dark-white;
-    border-radius: 5px;
+    border-radius: .3rem;
     position: relative;
+    border: solid 1px #dce6f0;
 
     img {
       width: 32px;
       height: 32px;
+      transition: height .6s ease-in-out, width .6s ease-in-out;
+    }
+
+    &:hover,
+    &:focus {
+      img {
+        width: 48px;
+        height: 48px;
+      }
     }
 
     span {
