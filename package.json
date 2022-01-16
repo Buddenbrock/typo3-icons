@@ -2,12 +2,17 @@
   "name": "@buddenbrock/typo3-icons",
   "description": "Additional svg-icons for the TYPO3 CMS backend",
   "version": "0.2.2",
-  "license": "MIT",
   "keywords": [
     "TYPO3",
     "Icons",
     "SVG"
   ],
+  "homepage": "https://buddenbrock.github.io/typo3-icons/",
+  "bugs": {
+    "url": "https://github.com/Buddenbrock/typo3-icons/issues",
+    "email": "git@dirk-buddenbrock.de"
+  },
+  "license": "MIT",
   "author": {
     "name": "Dirk Buddenbrock",
     "email": "git@dirk-buddenbrock.de",
@@ -23,15 +28,16 @@
       "url": "https://www.gute-botschafter.de"
     }
   ],
+  "funding": {
+    "type": "PayPal",
+    "url": "https://www.paypal.me/buddenbrock"
+  },
   "files": [
     "src/"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Buddenbrock/typo3-icons.git"
+    "url": "git+https://github.com/Buddenbrock/typo3-icons.git"
   },
-  "bugs": {
-    "url": "https://github.com/Buddenbrock/typo3-icons/issues"
-  },
-  "funding": "https://www.paypal.me/buddenbrock"
+  "readme": "README.md"
 }
