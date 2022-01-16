@@ -25,7 +25,6 @@ yarn add @buddenbrock/typo3-icons
 ```
 
 ## Icons
-
 ### Default Icons
 You find the TYPO3 default iconset into [TYPO3-Icon Repository](https://github.com/TYPO3/TYPO3.Icons) or on these [Show Page](https://typo3.github.io/TYPO3.Icons/).
 
@@ -33,9 +32,11 @@ You find the TYPO3 default iconset into [TYPO3-Icon Repository](https://github.c
 ### Pagetree Icons
 
 <div class="icon-wrapper">
-    
-    <div class="icon-item"><img src="https://github.com/Buddenbrock/typo3-icons/tree/master/src/pagetree/pagetree-page-missing.svg" /></div>
-
+    {% for item in site.iconsPagetree %}
+    <div class="icon-item" data-category="pagetree" data-name="{{ item }}">
+        <img src="{{ site.iconBaseUrl }}/pagetree/{{ item }}.svg" alt="{{ item }}"/>
+    </div>
+    {% endfor %}
 </div>
 
 ### Grid/Layout Icons

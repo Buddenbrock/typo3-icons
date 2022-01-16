@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
 iconBaseUrl: 'https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src'
+
+iconsPagetree: {
+  'pagetree-page-missing'
+}
