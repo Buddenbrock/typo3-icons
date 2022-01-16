@@ -4,3 +4,18 @@ iconBaseUrl: 'https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src'
 iconsPagetree: {
   'pagetree-page-missing'
 }
+
+iconsGrid: {
+  'grid-25-25-25-25',
+  'grid-33-33-33',
+  'grid-25-75',
+  'grid-40-60',
+  'grid-50-50',
+  'grid-60-40',
+  'grid-75-25',
+  'grid-100',
+  'grid-header',
+  'grid-header-25-25-25-25',
+  'grid-header-33-33-33',
+  'grid-header-50-50'
+}

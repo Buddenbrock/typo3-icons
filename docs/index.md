@@ -42,6 +42,12 @@ You find the TYPO3 default iconset into [TYPO3-Icon Repository](https://github.c
 ### Grid/Layout Icons
 
 <div class="icon-wrapper">
+    {% for item in site.iconsGrid %}
+    <div class="icon-item" data-category="grid" data-name="{{ item }}">
+        <img src="{{ site.iconBaseUrl }}/grid/{{ item }}.svg" alt="{{ item }}"/>
+    </div>
+    {% endfor %}
+</div>
 
     <div class="icon-item"><img src="https://github.com/Buddenbrock/typo3-icons/tree/master/src/grid/grid-25-25-25-25.svg" /></div>
     <div class="icon-item"><img src="https://github.com/Buddenbrock/typo3-icons/tree/master/src/grid/grid-33-33-33.svg" /></div>
