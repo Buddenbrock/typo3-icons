@@ -64,20 +64,14 @@ You find the TYPO3 default iconset into [TYPO3-Icon Repository](https://github.c
 
 ### Payment Icons
 
-Icon | Name
----|---
-![payment](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/payment/payment-amazon-pay.svg) | `payment-amazon-pay`
-![payment](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/payment/payment-amex.svg) | `payment-amex`
-![payment](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/payment/payment-apple-pay.svg) | `payment-apple-pay`
-![payment](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/payment/payment-cirrus.svg) | `payment-cirrus`
-![payment](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/payment/payment-diners-club.svg) | `payment-diners-club`
-![payment](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/payment/payment-discover.svg) | `payment-discover`
-![payment](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/payment/payment-klarna.svg) | `payment-klarna`
-![payment](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/payment/payment-maestro.svg) | `payment-maestro`
-![payment](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/payment/payment-mastercard.svg) | `payment-mastercard`
-![payment](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/payment/payment-patreon.svg) | `payment-patreon`
-![payment](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/payment/payment-paypal.svg) | `payment-paypal`
-![payment](https://unpkg.com/@buddenbrock/typo3-icons@0.2.2/src/payment/payment-visa.svg) | `payment-visa`
+<div class="icon-wrapper">
+    {% for item in site.iconsPayment %}
+    <div class="icon-item" data-category="payment" data-name="{{ item }}">
+        <span>{{ item }}</span>
+        <img src="{{ site.iconBaseUrl }}/payment/{{ item }}.svg"/>
+    </div>
+    {% endfor %}
+</div>
 
 ### Atlassian Icons
 

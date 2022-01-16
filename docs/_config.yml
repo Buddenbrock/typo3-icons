@@ -143,5 +143,20 @@ iconsContent: {
   'ce-vcard-container',
   'ce-vcard',
   'ce-video',
-  'ce-webcam',
+  'ce-webcam'
+}
+
+iconsPayment: {
+  'payment-amazon-pay',
+  'payment-amex',
+  'payment-apple-pay',
+  'payment-cirrus',
+  'payment-diners-club',
+  'payment-discover',
+  'payment-klarna',
+  'payment-maestro',
+  'payment-mastercard',
+  'payment-patreon',
+  'payment-paypal',
+  'payment-visa'
 }
